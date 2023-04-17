@@ -1,0 +1,42 @@
+Név: Di-Gold
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 374 g/l diquat-dibromid
+Felhasználásra vonatkozó előírások:
+burgonya (vető): 4-5 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+káposztarepce (őszi), mustár, olajretek: 1,5-2 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+napraforgó: 1,5-2 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 04.2/850-2/2018
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2019-05-04
+Tulajdonos: Sharda Hungary Kft.
+Tulajdonos hazai képviselője: Sharda Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: Sharda Cropchem Ltd.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 500 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

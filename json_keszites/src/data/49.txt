@@ -1,0 +1,39 @@
+Név: Egzecutor 25 SG
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 250 g/kg rimszulfuron
+Felhasználásra vonatkozó előírások:
+kukorica (takarmány): 40-60 g/ha
+Károsító: évelő egyszikű gyomok, magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/250-2/2020
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2021-10-31
+Tulajdonos: Innvigo Sp. z o.o.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Innvigo Sp. z o.o.
+Formuláció: vízoldható granulátum (SG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 30 g; 60 g; 150 g; 300 g
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Rimel 25 SGA vízi szervezetek védelme érdekében a felszíni vizektől 10 m távolságban tartson meg egy kezeletlen, növényzettel borított (zárt gyep) biztonsági övezetet! A nem-cél növények védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

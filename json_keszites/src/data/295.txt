@@ -1,0 +1,35 @@
+Név: Clematis
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 360 g/l klomazon
+Felhasználásra vonatkozó előírások:
+burgonya: 0,25 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi): 0,33 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/4780-2/2016.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2019-10-31
+Tulajdonos: Albaugh TKI d.o.o.
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Albaugh Europe SARL
+Formuláció: mikrokapszulás, vizes szuszpenzió (CS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

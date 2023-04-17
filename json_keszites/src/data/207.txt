@@ -1,0 +1,37 @@
+Név: BIOBEST VIRÁGBEPORZÓ
+Rendeltetés: Biológiai rovarölő szer
+Hatóanyag összetétel: Bombus terrestris (földi poszméh)
+Felhasználásra vonatkozó előírások:
+paprika (hajtatás), sárgadinnye, szamóca, tojásgyümölcs, uborka: 1 kaptár/500-2000 m2
+Károsító: terméskötődés fokozás
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/1562/3/2009.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2029-12-31
+Tulajdonos: Árpád Biokontroll Kft
+Altalános adatok:
+Magyarországi forgalmazó: Árpád Biokontroll 2003 Kft.
+Készítmény gyártó: Biobest NV.
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 50-100 db/kaptár
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

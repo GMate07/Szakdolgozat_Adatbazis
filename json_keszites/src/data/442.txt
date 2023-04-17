@@ -1,0 +1,53 @@
+Név: Dezormon
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 600 g/l 2,4-D
+Felhasználásra vonatkozó előírások:
+árpa (őszi) (kivéve sörárpa), árpa (tavaszi), búza (őszi), búza (tavaszi), rozs, tritikále, zab: 1,2 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+kukorica (takarmány): 1 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 12165/1993.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2031-12-31
+Tulajdonos: Nufarm GmbH & Co KG
+Tulajdonos hazai képviselője: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Nufarm
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter, 5 liter 10 liter, 20 liter, 25 liter, 200 liter, 1000 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - DezormonA vízi szervezetek védelme érdekében a felszíni vizektől 5 m (légi kezelés esetén 50 m) távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél növények védelme érdekében a nem mezőgazdasági földterülettől légi kezelés esetén 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H318Súlyos szemkárosodást okoz.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P305 + P351 + P338 + P310SZEMBE KERÜLÉS ESETÉN: óvatos öblítés vízzel több percen keresztül. Adott esetben kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása. Azonnal forduljon orvoshoz.
+P310Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: védőkesztyű, védőruha

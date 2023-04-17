@@ -1,0 +1,54 @@
+Név: Careo rovarölő permet
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 0,05 g/l acetamiprid
+Felhasználásra vonatkozó előírások:
+dísznövények (szoba): 
+Megjegyzés a dózishoz: permetezés
+Károsító: levéltetű, molytetű, ormányosbogarak, pajzstetű, poloskák, rágókártevők, szívókártevők
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (kert): 
+Megjegyzés a dózishoz: permetezés
+Károsító: levéltetű, molytetű, ormányosbogarak, pajzstetű, poloskák, rágókártevők, szívókártevők
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1389-1/2021
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2034-02-28
+Tulajdonos: Evergreen Garden Care Poland Sp.z.o.o.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Evergreen Garden Care Österreich GmbH France SAS
+Formuláció: felhasználásra kész folyadék (AL)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 200 ml, 750 ml, 800 ml, 3 liter, 5 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: acetamiprid: 
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/kg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 15 mA vízi szervezetek védelme érdekében a felszíni vizektől 15 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPe 8 - Careo Rovarölő PermetVirágzó kultúrában a méhek napi aktív gyűjtési időszaka idején nem alkalmazható! Virágzó gyomnövények vagy mézharmat jelenléte esetén méhkímélő technológiában alkalmazható!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+Védőfelszerelés kijuttatóknak: védőkesztyű

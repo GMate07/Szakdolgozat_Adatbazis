@@ -1,0 +1,59 @@
+Név: Apron XL 350 FS
+Rendeltetés: Csávázószer
+Hatóanyag összetétel: 350 g/l Metalaxil- M
+Felhasználásra vonatkozó előírások:
+napraforgó: 3 l/t mag
+Károsító: peronoszpóra
+Lémennyiség: 5-12 l/t mag
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsmustár, fejes saláta, galambbegy saláta, sóska, spenót, zöld fűszernövények: 0,5-2 l/t mag
+Károsító: csírakori betegségek, peronoszpóra (korai), pítiumos betegségek
+Lémennyiség: 5-15 l/t mag
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab (zöld), zöldbab: 0,5-1 l/t mag
+Károsító: csírakori betegségek, pítiumos betegségek
+Lémennyiség: 5-12 l/t mag
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (vetőmag) (hajtatás): 0,5-2 l/t mag
+Károsító: csírakori betegségek, peronoszpóra (korai), pítiumos betegségek
+Lémennyiség: 5-15 l/t mag
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 15945/2003.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2023-12-31
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta A.G.
+Formuláció: folyékony gombaölő csávázószer (FS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 20 liter, 200 liter, 1000 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1000 – 3000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H319Súlyos szemirritációt okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P337 + P313Ha a szemirritáció nem múlik el: orvosi ellátást kell kérni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: védőkesztyű, védőlábbeli, védőruha, védőszemüveg

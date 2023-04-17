@@ -1,0 +1,72 @@
+Név: Centurion 240 EC
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 240 g/l kletodim
+Felhasználásra vonatkozó előírások:
+burgonya, cukorrépa, mustár, napraforgó, paradicsom, szója: 0,3-1,2 l/ha
+Megjegyzés a dózishoz: A készítmény csak 1:3 arányban kevert Agroponnal, vagy Hyspray 0,5-1 l/ha dózisával kombinálva juttatható ki!
+Károsító: egyszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+erdészet: 0,3-1,2 l/ha
+Megjegyzés a dózishoz: A készítmény csak 1:3 arányban kevert Agroponnal, vagy Hyspray 0,5-1 l/ha dózisával kombinálva juttatható ki!
+Károsító: egyszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó: 0,3-1,2 l/ha
+Károsító: egyszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 25 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi): 0,4-0,6 l/ha
+Károsító: egynyári egyszikű gyomok, gabona árvakelés (búza)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/12027-2/2010.
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2023-02-28
+Tulajdonos: Arysta LifeScience S.A.S.
+Tulajdonos hazai képviselője: UPL Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Arysta LifeScience Magyarország Kft.
+Készítmény gyártó: Arysta LifeScience
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 3 - Selectvízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított (lehetőleg zárt gyep) biztonsági övezetet! A nem-cél növények védelme érdekében a nem mezőgazdasági földterülettől 10 m távolságban tartson meg egy kezeletlen biztonsági övezetet! 50%-os elsodródás csökkentő szórófej alkalmazása esetén 5 m kezeletlen biztonsági övezet megtartása szükséges!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H304Lenyelve és a légutakba kerülve halálos lehet.
+H317Allergiás bőrreakciót válthat ki.
+H336Álmosságot vagy szédülést okozhat.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P312Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P403 + P233Jól szellőző helyen tárolandó. Az edény szorosan lezárva tartandó.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: sav elleni védőszemüveg, védőkalap, védőkesztyű, védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: sav elleni védőszemüveg, védőkalap, védőkesztyű, védőlábbeli, védőruha

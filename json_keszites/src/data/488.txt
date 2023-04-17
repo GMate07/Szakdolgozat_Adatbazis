@@ -1,0 +1,47 @@
+Név: Dursban Delta CS
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 200 g/l klórpirifosz
+Felhasználásra vonatkozó előírások:
+árpa, búza, rozs, tritikále: 2,25 l/ha
+Károsító: levéltetű, poloskák, vetésfehérítő bogár
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+mustár, olajretek, káposztarepce: 2,25 l/ha
+Károsító: repcebecő-ormányos, repcebolha, repcefénybogár, repceszár-ormányos
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+cukorrépa: 3,6 l/ha
+Károsító: bagolylepke
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+cukorrépa: 4,8 l/ha
+Károsító: talajlakó kártevők
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/1264/1/2010
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2019-01-31
+Tulajdonos: Dow AgroSciences Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Dow AgroSciences Hungary Kft.
+Készítmény gyártó: Dow AgroSciences
+Formuláció: mikrokapszulás, vizes szuszpenzió (CS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,5 l; 1 l; 5 l; 10 l.
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): ?5000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem

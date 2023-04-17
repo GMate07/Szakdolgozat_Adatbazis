@@ -1,0 +1,78 @@
+Név: Delaro Forte 280 EC
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 93,3 g/l protiokonazol, 107 g/l spiroxamin, 80 g/l trifloxistrobin
+Felhasználásra vonatkozó előírások:
+búza (őszi), búza (tavaszi): 1,2-1,5 l/ha
+Károsító: levélrozsda, lisztharmat, pirenofórás betegségek, sárgarozsda, szeptóriás betegségek (levélbetegségek), vörösrozsda
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+búza (őszi), búza (tavaszi): 1,5 l/ha
+Károsító: fuzáriumos betegségek (kalász betegségek), kalászfuzáriumos betegségek
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (őszi), árpa (tavaszi): 1,2-1,5 l/ha
+Károsító: hálózatos levélfoltosság, lisztharmat, pirenofórás betegségek (levélbetegségek), ramuláriás betegségek (levélbetegségek), rinhosporiumos betegségek (levélfoltosság), törperozsda
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+rozs: 1,2-1,5 l/ha
+Károsító: barnarozsda, levélrozsda, lisztharmat, rinhosporiumos betegségek (levélfoltosság)
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+tritikále: 1,2-1,5 l/ha
+Károsító: levélrozsda, lisztharmat, szeptóriás betegségek (levélbetegségek), vörösrozsda
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1931-1/2022.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2027-07-31
+Tulajdonos: Bayer Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Bayer Hungária Kft.
+Készítmény gyártó: Bayer CropScience S.A.S.
+Formuláció: emulzióképző koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 3 l, 5 l, 10 l, 15 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - 20 mA vízi szervezetek védelme érdekében a felszíni vizektől 20 m távolságban tartson meg egy kezeletlen, növényzettel borított (zárt gyep) biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H315Bőrirritáló hatású.
+H317Allergiás bőrreakciót válthat ki.
+H319Súlyos szemirritációt okoz.
+H361dFeltehetően károsítja a születendő gyermeket.
+H362A szoptatott gyermeket károsíthatja.
+H373Ismétlődő vagy hosszabb expozíció esetén károsíthatja a szerveket > vagy meg kell adni az összes érintett szervet, ha ismertek >.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P260A por/füst/gáz/köd/gőzök/permet belélegzése tilos.
+P263A terhesség/szoptatás alatt kerülni kell az anyaggal való érintkezést.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: munkaruha, védőkesztyű
+Védőfelszerelés kijuttatóknak: munkaruha, védőkesztyű

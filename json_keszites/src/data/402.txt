@@ -1,0 +1,131 @@
+Név: Cuwan
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 77 % rézhidroxid
+Felhasználásra vonatkozó előírások:
+szőlő (virágzás előtt): 2 kg/ha
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 800-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 2-3 kg/ha
+Károsító: alternáriás betegségek, fitoftórás betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (virágzás után): 3 kg/ha
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 800-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, birs, körte, naspolya: 2-3 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, birs, körte, naspolya: 3-4 kg/ha
+Károsító: tűzelhalás
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, kajszibarack, meggy, őszibarack, szilva: 2-3 kg/ha
+Károsító: apiognomóniás betegségek, baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), levéllyukacsosodás, moníliás betegségek, tafrinás betegségek
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+málna: 2-3 kg/ha
+Károsító: levélbetegségek, vesszőbetegségek
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 4 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fekete bodza, köszméte, ribiszke, szeder: 2-3 kg/ha
+Károsító: levélbetegségek, vesszőbetegségek
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szamóca: 2-3 kg/ha
+Károsító: levélbetegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 4 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dió, gesztenye, mandula, mogyoró: 2-3 kg/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+uborka (konzerv): 2-3 kg/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini: 2-3 kg/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika, paradicsom: 2-3 kg/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+görögdinnye, sárgadinnye, sütőtök: 2-3 kg/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab: 2-3 kg/ha
+Károsító: baktériumos betegségek, fenésedés, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 4 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó: 2-3 kg/ha
+Károsító: aszkohitás betegségek, baktériumos betegségek, peronoszpóra, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 4 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, vöröshagyma: 2-3 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 2-3 kg/ha
+Károsító: cerkospórás betegségek (levélbetegségek), fómás betegségek (levélbetegségek), ramuláriás betegségek (levélbetegségek)
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2811-2/2017
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2020-01-31
+Tulajdonos: Spiess-Urania Chemicals GmbH
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Spiess-Urania
+Formuláció: nedvesíthető por (WP)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 10x20g, 1 kg, 5 kg, 10 kg, 25 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1750 mg/kg
+Vízi veszélyesség: –
+Méhveszélyesség: Kockázat alapú besorolás folyamatban
+Méhkímélő technológia: Nem

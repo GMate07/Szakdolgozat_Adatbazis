@@ -1,0 +1,49 @@
+Név: Biobest ragadozó katicabogár
+Rendeltetés: élő állat
+Hatóanyag összetétel: Adalia bipuctata, Cryptolaemus montrouzieri, Delphastus catalinae
+Felhasználásra vonatkozó előírások:
+dísznövények, fűszernövények (hajtatás), paprika, paradicsom, tojásgyümölcs, uborka: 50-200 db/100 m2
+Károsító: levéltetű (Adalia bipuctata)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+díszcserjék, szamóca (hajtatás), szamóca (szabadföld), útmenti fák: 50-200 db/100 m2
+Károsító: levéltetű (Adalia bipuctata)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények (hajtatás), paprika, paradicsom, tojásgyümölcs: 50-200 db/100 m2
+Károsító: liszteske (Bemisia tabaci), liszteske (Delphastus catalinae), liszteske (Trialeurodes vaporariorum)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények (hajtatás), paprika, paradicsom, tojásgyümölcs, uborka: 200-300 db/100 m2
+Károsító: gyapjas pajzstetű (Cryptolaemus montrouzieri), gyapjas pajzstetű (Planococcus spp.), gyapjas pajzstetű (Pseudococcus spp.)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/6353-1/2012
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2023-03-11
+Tulajdonos: Árpád Biokontroll Kft
+Altalános adatok:
+Magyarországi forgalmazó: Árpád Biokontroll 2003 Kft.
+Készítmény gyártó: Biobest NV.
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: –
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet

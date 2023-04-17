@@ -1,0 +1,52 @@
+Név: Cidely Top
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 125 g/l difenokonazol, 15 g/l ciflufenamid
+Felhasználásra vonatkozó előírások:
+paprika, paradicsom, tojásgyümölcs (hajtatás), tojásgyümölcs (szabadföld): 1 l/ha
+Károsító: alternáriás betegségek, kladospóriumos betegségek, lisztharmat
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, görögdinnye (hajtatás), görögdinnye (szabadföld), sárgadinnye, uborka: 1 l/ha
+Károsító: alternáriás betegségek, didimellás betegségek, kolletotrichumos betegségek, lisztharmat
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szamóca (hajtatás): 1 l/ha
+Károsító: antraknózis, lisztharmat, mikoszferellás betegségek
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/4314-1/2015
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-12-31
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: diszpergálható koncentrátum (DC)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: difenokonazol: 
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kalászosok[2]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kalászosok[2]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Kalászosok[2]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Kalászosok[2]
+ciflufenamid: 
+Horizontális szántó, Erózió-, Belvíz- és Aszály-érzékeny szántó: Tilos a rágcsálóirtó szerek és talajfertőtlenítő szerek alkalmazása. Zöldségfélék[5]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Zöldségfélék[5]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Zöldségfélék[5]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Zöldségfélék[5]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Zöldségfélék[5]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

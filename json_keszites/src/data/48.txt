@@ -1,0 +1,69 @@
+Név: Agroxone 75
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 750 g/l MCPA (DMA-só)
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi), fénymag, köles, rizs, rozs, tritikále, zab: 0,8-1 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+legelő, rét: 1,2-1,4 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+len (rost), olajlen: 0,4-0,5 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+gyümölcsfélék (4 évnél idősebb), szőlő (4 évnél idősebb): 0,8-1 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+római kamilla: 0,6-0,8 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 11372/2002.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-10-31
+Tulajdonos: Nufarm Limited UK
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Nufarm
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 10 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Agroxone 75A vízi szervezetek védelme érdekében a felszíni vizektől 5 m, légi kezelés esetén 10 m távolságban tartson meg egy kezeletlen biztonsági övezetet! A légi kezelés esetén a nem cél szervezetek védelme érdekében a nem mezőgazdasági földterülettől 20 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H318Súlyos szemkárosodást okoz.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P264Használatot követően a kezet alaposan meg kell mosni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P330A szájat ki kell öblíteni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: félálarc (FFP2B2SL), védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

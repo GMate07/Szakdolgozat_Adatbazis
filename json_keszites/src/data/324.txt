@@ -1,0 +1,68 @@
+Név: Conatra
+Rendeltetés: Gombaölő permetezőszer
+Hatóanyag összetétel: 60 g metkonazol
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi), búza (tavaszi), rozs, tritikále: 1,2 l/ha
+Károsító: gabonarozsda, helmintospóriumos betegségek (levélbetegségek), kalászfuzáriumos betegségek, lisztharmat, pirenofórás betegségek (levélbetegségek), szeptóriás betegségek (levélbetegségek)
+Lémennyiség: 250-350 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi): 0,7-1 l/ha
+Károsító: fagykár csökkentés, növekedés szabályozás
+Lémennyiség: 250-350 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi): 1 l/ha
+Károsító: alternáriás betegségek
+Lémennyiség: 250-350 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2722-1/2017
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-04-30
+Tulajdonos: Globachem NV.
+Altalános adatok:
+Magyarországi forgalmazó: UPL Hungary Kft.
+Készítmény gyártó: Globachem N.V.
+Formuláció: emulzióképző koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter, 5 liter, 10 liter, 20 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 2601 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 50 mA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H226Tűzveszélyes folyadék és gőz.
+H304Lenyelve és a légutakba kerülve halálos lehet.
+H315Bőrirritáló hatású.
+H317Allergiás bőrreakciót válthat ki.
+H318Súlyos szemkárosodást okoz.
+H335Légúti irritációt okozhat.
+H361dFeltehetően károsítja a születendő gyermeket.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P210Hőtől, forró felületektől, szikrától, nyílt lángtól és más gyújtóforrástól távol tartandó. Tilos a dohányzás.
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338 + P310SZEMBE KERÜLÉS ESETÉN: óvatos öblítés vízzel több percen keresztül. Adott esetben kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása. Azonnal forduljon orvoshoz.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P332 + P313Bőrirritáció esetén: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű, védőlábbeli, védőruha

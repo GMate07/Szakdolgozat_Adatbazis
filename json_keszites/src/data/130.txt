@@ -1,0 +1,108 @@
+Név: Avtar 75 NT
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 750 g/kg mankoceb
+Felhasználásra vonatkozó előírások:
+alma, birs, körte, naspolya: 2,1 kg/ha
+Károsító: gombás betegségek (kivéve lisztharmat), varasodás
+Lémennyiség: 400-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+tárkony: 2,1 kg/ha
+Károsító: rozsda betegségek
+Lémennyiség: 200-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dohány: 2,1 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kajszibarack, nektarin, őszibarack: 2,1 kg/ha
+Károsító: cilindrospóriumos betegségek (levélbetegségek), gnomóniás betegségek (levélbetegségek), moníliás betegségek
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, meggy, szilva: 2,1 kg/ha
+Károsító: blumeriellás betegségek (levélbetegségek), levélrozsda, moníliás betegségek
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 2,1 kg/ha
+Károsító: peronoszpóra, szőlőorbánc
+Lémennyiség: 200-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, mogyoróhagyma, vöröshagyma: 2,1 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 200-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 2,1 kg/ha
+Károsító: alternáriás betegségek, burgonyavész
+Lémennyiség: 200-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom, tojásgyümölcs: 2,1 kg/ha
+Károsító: alternáriás betegségek, paradicsomvész, szeptóriás betegségek
+Lémennyiség: 200-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika: 2,1 kg/ha
+Károsító: fenésedés
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+majoránna: 2,1 kg/ha
+Károsító: alternáriás betegségek
+Lémennyiség: 200-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/182-1/2019
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2021-07-04
+Tulajdonos: Indofil Industries (Netherlands) B.V.
+Türelmi idő kereskedőknek: 2021-10-04
+Türelmi idő felhasználóknak: 2022-01-04
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Indofil Ind. Ltd.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 20 g, 250 g, 500 g, 5 kg, 10 kg, 20 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Dithane DGA vízi szervezetek védelme érdekében a felszíni vizektől gyümölcsösben 35 m, szőlőben 10 m, egyéb kultúrákban 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H317Allergiás bőrreakciót válthat ki.
+H319Súlyos szemirritációt okoz.
+H361dFeltehetően károsítja a születendő gyermeket.
+H400Nagyon mérgező a vízi élővilágra.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű, védőruha

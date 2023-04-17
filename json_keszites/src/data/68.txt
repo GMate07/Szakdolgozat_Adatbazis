@@ -1,0 +1,51 @@
+Név: Ambora
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 607 g/l propamokarb
+Felhasználásra vonatkozó előírások:
+paradicsom (zárt termesztő berendezés): 300 ml/m3
+Megjegyzés a dózishoz: közegbe keverés
+Károsító: fitoftórás betegségek (palántadőlés), fitoftórás betegségek (szártő betegségek), pítiumos betegségek (palántadőlés), pítiumos betegségek (szártő betegségek)
+Lémennyiség: 10-20 l/m3
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom (zárt termesztő berendezés): 6 ml/m2
+Megjegyzés a dózishoz: beöntözés
+Károsító: fitoftórás betegségek (palántadőlés), fitoftórás betegségek (szártő betegségek), pítiumos betegségek (palántadőlés), pítiumos betegségek (szártő betegségek)
+Lémennyiség: 3-5 l/m2
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (zárt termesztő berendezés): 300 ml/m3
+Megjegyzés a dózishoz: közegbe keverés
+Károsító: fitoftórás betegségek (palántadőlés), fitoftórás betegségek (szártő betegségek), pítiumos betegségek (szártő betegségek), talajfertőtlenítés (telepítés előtt)
+Lémennyiség: 10-20 l/m3
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (zárt termesztő berendezés): 10 ml/m2
+Megjegyzés a dózishoz: beöntözés
+Károsító: fitoftórás betegségek (palántadőlés), fitoftórás betegségek (szártő betegségek), pítiumos betegségek (palántadőlés), pítiumos betegségek (szártő betegségek)
+Lémennyiség: 3-5 l/m2
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/190-1/2020
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2025-01-31
+Tulajdonos: Agria S.A.
+Altalános adatok:
+Magyarországi forgalmazó: Kőszegi Gábor
+Készítmény gyártó: Agria S.A.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,1 l, 0,25 l, 0,5 l, 1 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

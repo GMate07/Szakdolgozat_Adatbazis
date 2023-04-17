@@ -1,0 +1,118 @@
+Név: Cuprocaffaro Micro
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 630 g/kg rézoxiklorid
+Felhasználásra vonatkozó előírások:
+alma, birs, körte, naspolya: 3-4 kg/ha
+Megjegyzés a dózishoz: tavaszi lemosó permetezés, nyár végi záró permetezés
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), tűzelhalás
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, birs, körte, naspolya: 2-2,5 kg/ha
+Károsító: varasodás
+Lémennyiség: 600-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, csonthéjasok, dió, gesztenye, héjasok, kajszibarack, mandula, meggy, mogyoró, nektarin, őszibarack, szilva: 2-2,5 kg/ha
+Károsító: apiognomóniás betegségek, baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), levéllyukacsosodás, moníliás betegségek, tafrinás betegségek
+Lémennyiség: 600-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 1,75-2 kg/ha
+Megjegyzés a dózishoz: virágzás előtt
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 2-2,5 kg/ha
+Megjegyzés a dózishoz: virágzás után
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika: 1,5-2 kg/ha
+Károsító: baktériumos betegségek
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya, paradicsom: 2-2,5 kg/ha
+Károsító: baktériumos betegségek, fitoftórás betegségek
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab, borsó: 1,5-2 kg/ha
+Károsító: baktériumos betegségek, fenésedés, rozsda betegségek
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dinnye, kabakosok, tök, uborka: 1,5-1,8 kg/ha
+Károsító: fenésedés, peronoszpóra, pszeudomonászos betegségek
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, gyöngyhagyma, hagymafélék, póréhagyma, sarjadékhagyma, vöröshagyma, zöldhagyma: 2-2,5 kg/ha
+Károsító: baktériumos betegségek, peronoszpóra
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 2-2,5 kg/ha
+Károsító: cerkospórás betegségek, fómás betegségek, ramuláriás betegségek (levélbetegségek)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+édeskömény, konyhakömény: 2-3 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+orvosi csucsor: 2-3 kg/ha
+Károsító: fitoftórás betegségek
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/8009-1/2011
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2022-11-30
+Tulajdonos: Gowan Crop Protection Ltd.
+Tulajdonos hazai képviselője: Staphyt Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Isagro S.p.A.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 0,25 kg, 1 kg, 5 kg, 10 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 3 - Neoram 37,5 WGA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem-cél növények védelme érdekében a nem mezőgazdasági földterülettől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkesztyű, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkesztyű, védőruha, védőszemüveg

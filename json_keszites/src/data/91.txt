@@ -1,0 +1,35 @@
+Név: AppleSmart 3.3 VP
+Rendeltetés: Növekedésszabályzó szer
+Hatóanyag összetétel: 33 g/kg 1-metil-ciklopropén
+Felhasználásra vonatkozó előírások:
+alma: 0,037-0,068 g/m3
+Károsító: öregedés késleltetés érés és tárolás során
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 2 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/378-1/2019
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-09-30
+Tulajdonos: INNVIGO Sp. z o.o.
+Altalános adatok:
+Magyarországi forgalmazó: Innvigo Sp. z o.o.
+Készítmény gyártó: INNVIGO Sp. z o.o.
+Formuláció: gőzt kibocsátó szer (VP)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 2,5 g; 3,5 g; 4,9 g; 5,9 g; 8,5 g; 12,9 g; 17,8 g; 24,6 g
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: légzésvédő (A2B1), védőkesztyű, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: légzésvédő (A2B1), védőkesztyű, védőruha, védőszemüveg

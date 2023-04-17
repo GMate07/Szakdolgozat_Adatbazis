@@ -1,0 +1,121 @@
+Név: Champion 2 FL
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 36 % rézhidroxid
+Felhasználásra vonatkozó előírások:
+szőlő: 1,75-2 l/ha
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kabakosok: 1,75-2 l/ha
+Károsító: baktériumos betegségek, peronoszpóra
+Lémennyiség: 400-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+uborka (konzerv): 1,75-2 l/ha
+Károsító: baktériumos betegségek, peronoszpóra
+Lémennyiség: 400-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab, borsó, csicseriborsó, hüvelyesek, lencse, lóbab, szója: 1,75-2 l/ha
+Károsító: aszkohitás betegségek (foltosság), baktériumos betegségek, fenésedés, peronoszpóra, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+hagyma: 1,75-2 l/ha
+Károsító: baktériumos betegségek, peronoszpóra
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 1,75-2 l/ha
+Károsító: alternáriás betegségek, burgonyavész
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 1,75-2 l/ha
+Károsító: cerkospórás betegségek, fómás betegségek (levélbetegségek), ramuláriás betegségek (levélbetegségek)
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+díszfák, dísznövények: 1,75-2 l/ha
+Károsító: baktériumos betegségek, peronoszpóra, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+almatermésűek: 1,75-2 l/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+almatermésűek: 2,25-3 l/ha
+Károsító: tűzelhalás
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+héjas gyümölcsűek: 1,75-2 l/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 800-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+csonthéjasok: 1,75-2 l/ha
+Károsító: apiognomóniás betegségek (levélbetegségek), baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), levéllyukacsosodás, moníliás betegségek, tafrinás betegségek
+Lémennyiség: 1000-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+málna: 1,75-2 l/ha
+Károsító: vesszőbetegségek
+Lémennyiség: 500-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika, paradicsom: 2-3 l/ha
+Károsító: baktériumos betegségek, paradicsomvész
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 48536/2000
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-02-28
+Tulajdonos: Nufarm GmbH & Co KG
+Altalános adatok:
+Magyarországi forgalmazó: Biocont Magyarország Kft.
+Készítmény gyártó: Nufarm
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 10 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 2000 mg/kg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 20Belélegezve ártalmas
+R 36Szemizgató hatású
+R 50/53Nagyon mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 24/25Kerülni kell a bőrrel való érintkezést és a szembejutást
+S 26Ha szembe jut, bő vízzel azonnal ki kell mosni és orvoshoz kell fordulni
+S 35Az anyagot és az edényzetét megfelelő módon ártalmatlanítani kell
+S 39Szem-/arcvédőt kell viselni.
+S 46Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 57A környezetszennyezés elkerülésére megfelelő edényzetet kell használni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Champion 2 FlA vízi szervezetek védelme érdekében a felszíni vizektől 200 méter távolságban tartson meg egy nem permetezett biztonsági övezetet!

@@ -1,0 +1,63 @@
+Név: Amylo-X
+Rendeltetés: Gombaölő permetezőszer
+Hatóanyag összetétel: 250 g/kg Bacillus amyloliquefaciens subsp. plantarum D747 törzs
+Felhasználásra vonatkozó előírások:
+endívia (zárt termesztő berendezés), fejes saláta (zárt termesztő berendezés), levélzöldségek (zárt termesztő berendezés): 1,5-2,5 kg/ha
+Károsító: fehérpenész, peronoszpóra, szklerotíniás betegségek, szürkepenész
+Lémennyiség: 200-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szamóca (zárt termesztő berendezés): 1,5-2,5 kg/ha
+Károsító: lisztharmat, szürkepenész
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+csillagtök (zárt termesztőberendezés), cukkini (zárt termesztő berendezés), görögdinnye (zárt termesztő berendezés), kabakosok (zárt termesztőberendezés), lopótök (zárt termesztőberendezés), sárgadinnye (zárt termesztő berendezés), spárgatök (zárt termesztőberendezés), sütőtök (zárt termesztőberendezés), uborka (zárt termesztő berendezés): 1,5-2,5 kg/ha
+Károsító: szürkepenész
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (zárt termesztő berendezés), paradicsom (zárt termesztő berendezés), tojásgyümölcs (zárt termesztő berendezés): 1,5-2,5 kg/ha
+Károsító: lisztharmat, szürkepenész
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+termesztett gombák (zárt termesztő berendezés): 15 g/100 kg komposzt, szubsztrátum
+Károsító: lisztharmat, szürkepenész
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/425-1/2021
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-03-31
+Tulajdonos: Mitsui AgriScience International S.A./N.V.
+Altalános adatok:
+Magyarországi forgalmazó: Certis Europe BV
+Készítmény gyártó: Certis USA, LLC
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: félálarc (FFP3), védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: félálarc (FFP3), védőkesztyű

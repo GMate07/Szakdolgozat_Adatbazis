@@ -1,0 +1,71 @@
+Név: Actara SC
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 240 g/l tiametoxam
+Felhasználásra vonatkozó előírások:
+szamóca (hajtatás): 30-40 ml/100 l
+Károsító: levéltetű, liszteske
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), dinnye (hajtatás), paprika (hajtatás), paradicsom (hajtatás), salátafélék (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 400 ml/ha
+Károsító: kis pattanóbogár (lárva) (palánta beöntözéssel), levéltetű, üvegházi molytetű
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), dinnye (hajtatás), paprika (hajtatás), paradicsom (hajtatás), salátafélék (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 0,1-0,2 %
+Károsító: kis pattanóbogár (lárva) (palánta beöntözéssel), levéltetű, üvegházi molytetű
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), dinnye (hajtatás), paprika (hajtatás), paradicsom (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 10-20 ml/100 l
+Károsító: levéltetű (állománypermetezés)
+Lémennyiség: 600-2000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), dinnye (hajtatás), paprika (hajtatás), paradicsom (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 20-40 ml/100 l
+Károsító: üvegházi molytetű (állománypermetezés)
+Lémennyiség: 600-2000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+salátafélék (hajtatás): 20 ml/100 l
+Károsító: levéltetű (állománypermetezés)
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+zöldbab (hajtatás): 40 ml/100 l
+Károsító: levéltetű
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények: 200 ml/ha
+Károsító: amerikai lepkekabóca, levéltetű, liszteske, nyugati virágtripsz
+Lémennyiség: 500-2000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/4809-1/2012.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-04-30
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 ml, 50 ml, 250 ml
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem

@@ -1,0 +1,50 @@
+Név: Chikara Duo
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 288 g/kg glifozát, 6,7 g/kg flazaszulfuron
+Felhasználásra vonatkozó előírások:
+szőlő (4 évnél idősebb): 3 kg/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok, mezei aszat (Cirsium arvense), pongyola pitypang, tarackbúza (Agropyron repens)
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 75 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma (4 évnél idősebb), körte (4 évnél idősebb): 3 kg/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok, mezei aszat (Cirsium arvense), pongyola pitypang, tarackbúza (Agropyron repens)
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1296-1/2016.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2022-06-30
+Tulajdonos: ISK Biosciences Europe N.V.
+Tulajdonos hazai képviselője: AgChem Project Consulting Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Belchim Crop Protection Hungary Kft.
+Készítmény gyártó: ISK Biosciences Europe N.V.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 30 g, 60 g, 100 g, 120g, 300 g, 1 kg, 3 kg, 9 kg, 12 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - Chikara DuoA vízi szervezetek védelme érdekében a felszíni vizektől 10 m távolságban tartson meg egy kezeletlen, növényzettel borított (zárt gyep) biztonsági övezetet! A nem-cél növények védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H319Súlyos szemirritációt okoz.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P337 + P313Ha a szemirritáció nem múlik el: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

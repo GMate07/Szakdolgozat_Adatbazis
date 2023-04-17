@@ -1,0 +1,59 @@
+Név: Emperor
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 225 g/l klórpirifosz-metil
+Felhasználásra vonatkozó előírások:
+mustár, olajretek, káposztarepce: 2 l/ha
+Károsító: repcebecő-ormányos, repcebolha, repcedarázs, repcefénybogár, repceszár-ormányos
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 2,2 l/ha
+Károsító: amerikai szőlőkabóca, szőlőilonca, szőlőmoly
+Lémennyiség: 500-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, birs, körte, naspolya: 2,7 l/ha
+Károsító: almamoly, levélaknázó molyok, levéltetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, meggy: 2,7 l/ha
+Károsító: levéltetű, pajzstetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa, búza (tárolt), kukorica, rozs, tritikále, zab: 7-10,5 ml/t
+Károsító: raktári kártevők
+Lémennyiség: 0,3 l/t
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+raktár (üres): 1,05-1,95 ml/m2
+Károsító: raktári kártevők
+Lémennyiség: 50-100 ml/m2
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/4423-2/2017
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2020-02-16
+Tulajdonos: Dow AgroSciences Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Dow AgroSciences Hungary Kft.
+Készítmény gyártó: Dow AgroSciences Ltd.
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 50 ml; 200 ml; 500 ml; 1 l; 5 l; 10 l; 20 l.
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 3129 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem

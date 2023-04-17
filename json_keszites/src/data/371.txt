@@ -1,0 +1,118 @@
+Név: Cosavet DF Edge
+Rendeltetés: Gombaölő permetezőszer
+Hatóanyag összetétel: 800 g/kg kén
+Felhasználásra vonatkozó előírások:
+árpa, búza, kalászosok, rozs, tritikále, zab: 3-8 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+áfonya, fekete ribiszke, köszméte, málna, ribiszke, szeder, szedermálna, vörös ribiszke: 3-6 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika, paradicsom: 3-7 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 200-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+csillagtök, cukkini, görögdinnye, kabakosok, sárgadinnye, spárgatök, sütőtök, uborka: 3-5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 200-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szamóca: 3-6 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 200-600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+saláta: 2-5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+tölgy: 1,5-3 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+díszcserjék (kivéve erdőtelepítés), díszcserjék (kivéve közterület), díszfák, dísznövények: 1,5-5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 5-7,5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 200-600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab (fejtett), bab (száraz), bab (zöld), borsó (száraz), borsó (zöld), hüvelyesek, lencse: 2-5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, almatermésűek, birs, körte, naspolya: 5-7,5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, almatermésűek, birs, körte, naspolya: 3 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (bor), szőlő (csemege): 2-7,5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, csonthéjasok, kajszibarack, meggy, nektarin, őszibarack: 5 kg/ha
+Károsító: levéllikasztó gombák
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/13446-2/2019
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-06-30
+Tulajdonos: Sulphur Mills Ltd.
+Tulajdonos hazai képviselője: Kwizda Agro Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: Sulphur Mills Ltd.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 50 g, 500 g, 1 kg, 10 kg, 25 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/kg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Cosavet Df EdgeA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen (lehetőleg zárt gyep) biztonsági övezetet! A nem cél ízeltlábúak védelme érdekében a nem mezőgazdasági földterülettől almatermésűekben 20 m, csonthéjasokban 10 m, szőlőben, uborkában, paradicsomban 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

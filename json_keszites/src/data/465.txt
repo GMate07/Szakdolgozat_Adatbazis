@@ -1,0 +1,42 @@
+Név: Dimilin 25 WP
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 250 g/kg diflubenzuron
+Felhasználásra vonatkozó előírások:
+díszcserjék, díszfák, erdő (lombhullató), erdő (örökzöld): 0,2-0,5 kg/ha
+Károsító: amerikai fehér medvelepke, aranyfarú pille, fenyőilonca (Evetria buoliana), gűrűs lepke, gyapjaslepke, lombrágó hernyók
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 55297/1990
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2021-01-31
+Tulajdonos: Arysta Life Science Registration Ltd.
+Türelmi idő kereskedőknek: 2021-07-31
+Türelmi idő felhasználóknak: 2024-01-31
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Arysta LifeScience
+Formuláció: nedvesíthető por (WP)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 10 g, 500 g, 5 kg, 85 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >10000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Dimilin 25 WPA vízi szervezetek védelme érdekében a felszíni vizektől 50 m (légi kezelés esetén 100 m) távolságban tartson meg egy kezeletlen biztonsági övezetet! A légi kezelés esetén a nem cél szervezetek védelme érdekében a nem mezőgazdasági földterülettől 20 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkalap, védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: védőkalap, védőkesztyű, védőruha

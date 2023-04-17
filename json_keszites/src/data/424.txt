@@ -1,0 +1,54 @@
+Név: Delegate 250 WG
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 250 g/kg spinetoram
+Felhasználásra vonatkozó előírások:
+alma: 0,3 l/ha
+Károsító: aknázómolyok, almamoly, sodrómolyok
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+japán körte, körte: 0,3 l/ha
+Károsító: almamoly, körtelevélbolhák, körtemoly (Cydia pyrivora), sodrómolyok
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2181-1/2020.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-11-30
+Tulajdonos: Dow AgroSciences Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Dow AgroSciences Hungary Kft.
+Készítmény gyártó: Dow AgroSciences Ltd.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,25 kg, 0,5 kg, 1 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: spinetoram: 
+Horizontális ültetvény: Almatermésűek[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - DelegateA vízi szervezetek védelme érdekében a felszíni vizektől 90%-os elsodródás csökkentő szórófej használata mellett 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet, melyből legalább 20 m növényzettel borított (zárt gyep)! A nem-cél ízeltlábúak védelme érdekében a nem mezőgazdasági földterülettől 20 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPe 8 - VeszélyesMéhekre veszélyes! / Tilos méhek közelében felhasználni! Méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem használható.
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 212Figyelem! Használatkor veszélyes, belélegezhető por képződhet. A port nem szabad belélegezni.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H361fFeltehetően károsítja a termékenységet.
+H373Ismétlődő vagy hosszabb expozíció esetén károsíthatja a szerveket > vagy meg kell adni az összes érintett szervet, ha ismertek >.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P260A por/füst/gáz/köd/gőzök/permet belélegzése tilos.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: védőkesztyű, védőruha

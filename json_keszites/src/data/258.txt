@@ -1,0 +1,67 @@
+Név: Catane
+Rendeltetés: Lemosó szer
+Hatóanyag összetétel: 795 g/l paraffinolaj
+Felhasználásra vonatkozó előírások:
+alma: 1-2,5 %
+Megjegyzés a dózishoz: Más növényvédő szerrel történő permetezés után 7 nap elteltével juttatható ki a Catane, illetve más készítménnyel csak 7 nap elmúltával javasolt permetezni.
+Károsító: levéltetű, pajzstetű, piros gyümölcsfa-takácsatka
+Lémennyiség: 1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+körte: 1-2,5 %
+Megjegyzés a dózishoz: Más növényvédő szerrel történő permetezés után 7 nap elteltével juttatható ki a Catane, illetve más készítménnyel csak 7 nap elmúltával javasolt permetezni.
+Károsító: levéltetű, pajzstetű, piros gyümölcsfa-takácsatka, takácsatka
+Lémennyiség: 1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, csonthéjasok, kajszibarack, meggy, őszibarack, ringló, szilva: 1-2,5 %
+Megjegyzés a dózishoz: Más növényvédő szerrel történő permetezés után 7 nap elteltével juttatható ki a Catane, illetve más készítménnyel csak 7 nap elmúltával javasolt permetezni.
+Károsító: levéltetű, pajzstetű, piros gyümölcsfa-takácsatka, takácsatka
+Lémennyiség: 1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/586/1/2008
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2027-12-31
+Tulajdonos: Total Fluides
+Tulajdonos hazai képviselője: TOTAL Lubricants Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: UPL Hungary Kft.
+Készítmény gyártó: Total Fluides
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 1 liter, 5 liter, 10 liter, 20 liter, 50 liter, 60 liter, 1000 liter.
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: paraffinolaj: 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 5000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 52Ártalmas a vízi szervezetekre.
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H304Lenyelve és a légutakba kerülve halálos lehet.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P331TILOS hánytatni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

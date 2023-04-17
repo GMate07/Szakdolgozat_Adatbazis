@@ -1,0 +1,35 @@
+Név: BeePlus
+Rendeltetés: Méh attraktáns – beporzást segítő anyag
+Hatóanyag összetétel: 25 g/l eugenol, 50 g/l citrál
+Felhasználásra vonatkozó előírások:
+káposztarepce (őszi), mustár, olajretek: 1 l/ha
+Károsító: méhcsalogatás
+Lémennyiség: 300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, birs, cseresznye, fekete bodza, gyümölcsfélék, josta, kajszibarack, körte, köszméte, málna, mandula, meggy, naspolya, őszibarack, ribiszke, szamóca, szeder, szilva: 2 l/ha
+Károsító: méhcsalogatás
+Lémennyiség: 500-800 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/4623-1/2018.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2029-01-31
+Tulajdonos: ICB Pharma Tomasz Świętosławski, Paweł Świętosławski Sp. J
+Altalános adatok:
+Magyarországi forgalmazó: Malagrow Kft.
+Készítmény gyártó: ICB Pharma Tomasz Świętosławski, Paweł Świętosławski Sp. J
+Formuláció: mikrokapszulás szuszpenzió (CS)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter; 5 liter; 10 liter; 20 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem ismert
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

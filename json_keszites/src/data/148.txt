@@ -1,0 +1,67 @@
+Név: Banvel 480 S
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 480 g/l dikamba
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi): 0,2 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (takarmány): 0,5-0,6 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cirok: 0,5 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kiszáradt csatornák, legelő, rét: 0,5-0,6 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: nincs korlátozás, 14 napos legeltetési tilalom
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+gabonatarló: 0,5-0,7 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: nincs korlátozás, 14 napos legeltetési tilalom
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 15143/1994.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-12-31
+Tulajdonos: Syngenta A.G.
+Tulajdonos hazai képviselője: Syngenta Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta A.G.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 2467 mg/ttkg
+Vízi veszélyesség: Mérsékelten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - Banvel 480 SA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél növények védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet! 75%-os elsodródás csökkentő szórófej alkalmazása esetén a biztonsági távolság megtartása nem szükséges.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H319Súlyos szemirritációt okoz.
+H412Ártalmas a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P264Használatot követően a kezet alaposan meg kell mosni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P337 + P313Ha a szemirritáció nem múlik el: orvosi ellátást kell kérni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

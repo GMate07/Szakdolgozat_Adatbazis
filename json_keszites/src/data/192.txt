@@ -1,0 +1,29 @@
+Név: Biathlon
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 714 g/kg tritoszulfuron
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi): 0,05-0,07 kg/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/1145/2/2007
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2023-11-30
+Tulajdonos: BASF A.G.
+Altalános adatok:
+Magyarországi forgalmazó: BASF Hungária Kft.
+Készítmény gyártó: BASF S.E.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: –
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 3310 mg/kg
+Vízi veszélyesség: –
+Méhveszélyesség: Kockázat alapú besorolás folyamatban
+Méhkímélő technológia: Nem

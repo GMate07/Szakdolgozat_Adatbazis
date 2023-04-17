@@ -1,0 +1,47 @@
+Név: Calma
+Rendeltetés: Növekedésszabályzó szer
+Hatóanyag összetétel: 175 g/l trinexapak-etil
+Felhasználásra vonatkozó előírások:
+búza: 0,4-0,6 l/ha
+Károsító: szárszilárdítás
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (őszi): 0,6-0,9 l/ha
+Károsító: szárszilárdítás
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (tavaszi): 0,5-0,7 l/ha
+Károsító: szárszilárdítás
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+rozs, tritikále, zab: 0,4-0,6 l/ha
+Károsító: szárszilárdítás
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/14252-2/2019
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2023-04-30
+Tulajdonos: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Adama Agan Ltd.
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1l, 5l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

@@ -1,0 +1,45 @@
+Név: Casper
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 50 g/kg proszulfuron, 500 g/kg dikamba
+Felhasználásra vonatkozó előírások:
+kukorica (csemege), kukorica (takarmány): 0,3-0,4 kg/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-250 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cirok: 0,3-0,4 kg/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-250 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/695/2/2007
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2028-02-28
+Tulajdonos: Syngenta Crop Protection AG
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 2,5 kg-os flakon (4x2,5 kg gyűjtőcsomagolás)1 kg-os flakon (10x1 kg gyűjtőcsomagolás)
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/kg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - Caspervízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet. A nem cél növények védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

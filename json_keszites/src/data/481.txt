@@ -1,0 +1,49 @@
+Név: Dual Gold 960 EC - zeller
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 960 g/l S-metolaklór
+Felhasználásra vonatkozó előírások:
+zeller: 1,25-1,4 l/ha
+Károsító: magról kelő egyszikű gyomok
+Lémennyiség: 200-300 l/ha földi gépes kijuttatással
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1433-2/2021
+Engedély típusa: Szükséghelyzeti engedély
+Engedély érvényessége: 2021-05-10 - 2021-09-06
+Ügyfél: Syngenta Kft.
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,2 l; 1 l; 3 l; 5 l; 1000 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H317Allergiás bőrreakciót válthat ki.
+H319Súlyos szemirritációt okoz.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P337 + P313Ha a szemirritáció nem múlik el: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: arcvédő, védőkesztyű

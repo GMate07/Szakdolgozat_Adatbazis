@@ -1,0 +1,30 @@
+Név: Curzate Super DF
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 436 g/kg rézhidroxid, 62 g/kg cimoxanil
+Felhasználásra vonatkozó előírások:
+szőlő: 2 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 02.5/993/4/2008
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-01-31
+Tulajdonos: DuPont Magyarország Kft.
+Tulajdonos hazai képviselője: DuPont Magyarország Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Corteva
+Készítmény gyártó: DuPont Int. Op. S.A.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 3129 mg/kg
+Vízi veszélyesség: –
+Méhveszélyesség: Kockázat alapú besorolás folyamatban
+Méhkímélő technológia: Nem

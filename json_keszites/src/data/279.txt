@@ -1,0 +1,46 @@
+Név: Chanon
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 600 g/l aklonifen
+Felhasználásra vonatkozó előírások:
+napraforgó: 3 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/641-1/2021
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-12-31
+Tulajdonos: Globachem NV.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Globachem N.V.
+Formuláció: szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 liter, 10 liter, 20 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - ChanonA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet, melyből legalább 20 m növényzettel borított (zárt gyep)! A nem-cél növények védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H317Allergiás bőrreakciót válthat ki.
+H351Feltehetően rákot okoz .
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: védőkesztyű, védőruha

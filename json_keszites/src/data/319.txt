@@ -1,0 +1,118 @@
+Név: Combi-protec
+Rendeltetés: Hatásjavító segédanyag
+Hatóanyag összetétel: 1160 g/l növényi kivonatok, 140 g/l mono és poliszaharidok, 100 g/l oldószer, tartósítószer
+Felhasználásra vonatkozó előírások:
+cseresznye, meggy: 1 l/ha
+Megjegyzés a dózishoz: hatásjavítás
+Károsító: cseresznyelégy (Rhagoletis cerasi), pettyesszárnyú muslica
+Lémennyiség: az állománypermetezésre ajánlott lémennyiség az engedélyezett rovarölő szerrel kombinálva
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+homoktövis: 5 %
+Megjegyzés a dózishoz: csalétek
+Károsító: homoktövis-fúrólégy
+Lémennyiség: 20-40 l/ha a kezelendő növényszám, illetve lombfalfelület arányának megfelelően
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, mogyoró, nektarin, őszibarack: 1 l/ha
+Megjegyzés a dózishoz: hatásjavítás
+Károsító: ázsiai márványospoloska (Halyomorpha halys)
+Lémennyiség: az állománypermetezésre ajánlott lémennyiség az engedélyezett rovarölő szerrel kombinálva
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, mogyoró, nektarin, őszibarack: 5 %
+Megjegyzés a dózishoz: csalétek
+Károsító: ázsiai márványospoloska (Halyomorpha halys)
+Lémennyiség: 20-40 l/ha a kezelendő növényszám, illetve lombfalfelület arányának megfelelően
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, meggy: 5 %
+Megjegyzés a dózishoz: csalétek
+Károsító: cseresznyelégy (Rhagoletis cerasi), pettyesszárnyú muslica
+Lémennyiség: 20-40 l/ha a kezelendő növényszám, illetve lombfalfelület arányának megfelelően
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+áfonya, fekete bodza, kajszibarack, köszméte, málna, nektarin, őszibarack, ribiszke, szamóca, szeder, szilva, szőlő: 1 l/ha
+Megjegyzés a dózishoz: hatásjavítás
+Károsító: pettyesszárnyú muslica
+Lémennyiség: az állománypermetezésre ajánlott lémennyiség az engedélyezett rovarölő szerrel kombinálva
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+áfonya, fekete bodza, kajszibarack, köszméte, málna, nektarin, őszibarack, ribiszke, szamóca, szeder, szilva, szőlő: 5 %
+Megjegyzés a dózishoz: csalétek
+Károsító: pettyesszárnyú muslica
+Lémennyiség: 20-40 l/ha a kezelendő növényszám, illetve lombfalfelület arányának megfelelően
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom: 1 l/ha
+Megjegyzés a dózishoz: hatásjavítás
+Károsító: pettyesszárnyú muslica
+Lémennyiség: az állománypermetezésre ajánlott lémennyiség az engedélyezett rovarölő szerrel kombinálva
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom: 5 %
+Megjegyzés a dózishoz: csalétek
+Károsító: pettyesszárnyú muslica
+Lémennyiség: 20-40 l/ha a kezelendő növényszám, illetve lombfalfelület arányának megfelelően
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dió: 1 l/ha
+Megjegyzés a dózishoz: hatásjavítás
+Károsító: nyugati dióburok-fúrólégy
+Lémennyiség: az állománypermetezésre ajánlott lémennyiség az engedélyezett rovarölő szerrel kombinálva
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dió: 5 %
+Megjegyzés a dózishoz: csalétek
+Károsító: nyugati dióburok-fúrólégy
+Lémennyiség: 20-40 l/ha a kezelendő növényszám, illetve lombfalfelület arányának megfelelően
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+homoktövis: 1 l/ha
+Megjegyzés a dózishoz: hatásjavítás
+Károsító: homoktövis-fúrólégy
+Lémennyiség: az állománypermetezésre ajánlott lémennyiség az engedélyezett rovarölő szerrel kombinálva
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/836-2/2021
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2031-05-31
+Tulajdonos: Dedetec
+Tulajdonos hazai képviselője: Agro-Consulting Trade Kft.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Dedetec
+Formuláció: vízoldható koncentrátum (SL)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter, 5 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű

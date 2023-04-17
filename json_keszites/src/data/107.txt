@@ -1,0 +1,69 @@
+Név: Artemide
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 222 g/l lambda-cihalotrin
+Felhasználásra vonatkozó előírások:
+kukorica: 50-90 ml/25.000 mag
+Megjegyzés a dózishoz: max. 75.000 mag/ha
+Károsító: amerikai kukoricabogár, drótféreg
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+napraforgó: 150-270 ml/75.000 mag
+Megjegyzés a dózishoz: max. 75.000 mag/ha
+Károsító: drótféreg
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1010-2/2021.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-09-30
+Tulajdonos: Sipcam Oxon S.p.A.
+Tulajdonos hazai képviselője: Dr. Horn András
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Sipcam Oxon S.p.A.
+Formuláció: mikrokapszulás, vizes szuszpenzió (CS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 20 l, 50 l, 200 l, 500 l, 1000 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: lambda-cihalotrin: 
+Horizontális ültetvény: Almatermésűek[5, 7]Csonthéjasok, héjasok[7, 9, 10]Bogyósok[5, 9]Szőlő[5, 9]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 272 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 5A madarak/vadon élő emlősök védelme érdekében a növényvédő szert teljes egészében be kell dolgozni a talajba! Ügyeljen arra, hogy a szer a sorok végén is teljes egészében be legyen dolgozva!
+SPe 6A madarak/vadon élő emlősök védelme érdekében távolítsa el a véletlenül kiömlött növényvédő szert!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H301Lenyelve mérgező.
+H318Súlyos szemkárosodást okoz.
+H330Belélegezve halálos.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P260A por/füst/gáz/köd/gőzök/permet belélegzése tilos.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P273Kerülni kell az anyagnak a környezetbe való kijutását.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P284[Nem megfelelő szellőzés esetén] légzésvédelem kötelező. gyártó/szállító határozza meg a védőfelszerelést. — a szögletes zárójelek között szereplő szöveg akkor használható, ha a vegyi anyaghoz a felhasználási ponton kiegészítő tájékoztatást mellékelnek, amely kifejti, hogy a biztonságos használat érdekében milyen szellőztetést kell alkalmazni.”
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés (csávázás): arcvédő, félálarc (FFP2), szemvédő, védőkesztyű
+Védőfelszerelés (vetés): védőkesztyű

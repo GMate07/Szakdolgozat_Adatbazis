@@ -1,0 +1,29 @@
+Név: DropH
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 66 % tejsav
+Felhasználásra vonatkozó előírások:
+mezőgazdasági kultúrák: 100-210 ml/100 l permetlé
+Károsító: pH beállítás (permetlé), stabilitás növelés, vízkeménység káros hatásainak csökkentése
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/4495-1/2012
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2022-11-30
+Tulajdonos: Agronauta Kft.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Agronauta Kft.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,1 l, 0,2 l, 0,5 l, 1 l, 5 l, 10 l, 20 l, 25 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

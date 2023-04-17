@@ -1,0 +1,65 @@
+Név: Clinic Ready
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 7 g/l glifozát
+Felhasználásra vonatkozó előírások:
+mezőgazdaságilag nem művelt területek, vasúti pályatestek, vízzel nem borított csatornák és árokpartok: 3,3 l/100 m2
+Károsító: totális cserjeirtás, totális gyomirtás
+Lémennyiség: 3,3 l/100 m2 1l ~30 m2 - re elegendő
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+házikertek, közterületek (kivéve játszótér), temetők: 3,3 l/100 m2
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok, magról kelő egyszikű gyomok
+Lémennyiség: 3,3 l/100 m2 1l ~30 m2 - re elegendő
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+erdészet (duglaszfenyő) (2 évnél idősebb), erdészet (erdeifenyő) (2 évnél idősebb), erdészet (lucfenyő) (2 évnél idősebb), erdészet (összes fafaj) (telepítés előtt): 3,3 l/100 m2
+Károsító: totális cserjeirtás, totális gyomirtás
+Lémennyiség: 3,3 l/100 m2 1l ~30 m2 - re elegendő
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+erdészet (fakitermelés): 3,3 l/100 m2
+Károsító: sarjhajtások
+Lémennyiség: 3,3 l/100 m2 1l ~30 m2 - re elegendő
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+gyep, legelő: 3,3 l/100 m2
+Károsító: totális gyomirtás
+Lémennyiség: 3,3 l/100 m2 1l ~30 m2 - re elegendő
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye (3 évnél idősebb), dió, gesztenye, kajszibarack, mandula, meggy, mogyoró, szőlő (3 évnél idősebb): 3,3 l/100 m2
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok, magról kelő egyszikű gyomok
+Lémennyiség: 3,3 l/100 m2 1l ~30 m2 - re elegendő
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma (3 évnél idősebb), birs (3 évnél idősebb), körte (3 évnél idősebb), naspolya (3 évnél idősebb), nektarin (3 évnél idősebb), őszibarack (3 évnél idősebb), ringló (3 évnél idősebb), szilva (3 évnél idősebb): 3,3 l/100 m2
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok, magról kelő egyszikű gyomok
+Lémennyiség: 3,3 l/100 m2 1l ~30 m2 - re elegendő
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1342-2/2015.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2018-12-31
+Tulajdonos: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Nufarm
+Formuláció: felhasználásra kész folyadék (AL)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,5 L;1,0 L; 2,0 L; 5,0 L
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

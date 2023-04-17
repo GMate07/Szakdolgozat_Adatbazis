@@ -1,0 +1,63 @@
+Név: Doxa 30 WG
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 300 g/kg indoxakarb
+Felhasználásra vonatkozó előírások:
+káposztarepce (őszi): 0,085 kg/ha
+Károsító: repcefénybogár
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 45 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (bor): 0,1 kg/ha
+Károsító: tarka szőlőmoly
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (csemege): 0,1 kg/ha
+Károsító: tarka szőlőmoly
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/80-2/2020
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2022-03-19
+Tulajdonos: Sharda Cropchem Ltd.
+Tulajdonos hazai képviselője: Sharda Hungary Kft.
+Türelmi idő kereskedőknek: 2022-07-01
+Türelmi idő felhasználóknak: 2022-09-19
+Altalános adatok:
+Magyarországi forgalmazó: Sharda Hungary Kft.
+Készítmény gyártó: Sharda Cropchem Ltd.
+Formuláció: vízoldható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 30 g, 60 g, 150 g, 250 g, 500 g, 1 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+Spe 3 - DoxaA vízi szervezetek védelme érdekében a felszíni vizektől 10 m távolságban tartson meg egy kezeletlen biztonsági övezetet! 50%-os elsodródás csökkentő szórófej alkalmazása esetén 5 m kezeletlen biztonsági övezet megtartása szükséges! A nem-cél ízeltlábúak védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet! 50%-os elsodródás csökkentő szórófej alkalmazása esetén a biztonsági övezet megtartása nem szükséges!
+SPe 8 - VeszélyesMéhekre veszélyes! / Tilos méhek közelében felhasználni! Méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem használható.
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H372Ismétlődő vagy hosszabb expozíció esetén károsítja a szerveket.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P260A por/füst/gáz/köd/gőzök/permet belélegzése tilos.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P330A szájat ki kell öblíteni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: védőkesztyű, védőruha
+Védőfelszerelés mezőgazdasági dolgozóknak: védőkesztyű

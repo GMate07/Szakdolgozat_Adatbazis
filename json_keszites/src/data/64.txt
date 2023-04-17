@@ -1,0 +1,60 @@
+Név: Alsystin 480 SC
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 480 g/l triflumuron
+Felhasználásra vonatkozó előírások:
+alma, körte: 0,13-0,25 l/ha
+Károsító: almamoly, keleti gyümölcsmoly, kis farontólepke, körtelevélbolhák, körtemoly (Cydia pyrivora), levélaknázó molyok, sodrómolyok
+Lémennyiség: 1000-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+vadgesztenye: 0,04 %
+Károsító: vadgesztenye levélaknázómoly
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+platán: 0,04 %
+Károsító: platán csipkéspoloska
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2850-1/2014.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2021-06-30
+Tulajdonos: Bayer AG
+Türelmi idő kereskedőknek: 2021-09-30
+Türelmi idő felhasználóknak: 2022-09-30
+Altalános adatok:
+Magyarországi forgalmazó: Bayer Hungária Kft.
+Készítmény gyártó: Bayer
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 100 ml, 1 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 5000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+R-mondatok: R 50/53Nagyon mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat
+S-mondatok: S 35Az anyagot és az edényzetét megfelelő módon ártalmatlanítani kell
+S 37Megfelelő védőkesztyűt kell viselni
+S 57A környezetszennyezés elkerülésére megfelelő edényzetet kell használni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Alsystin 480 SCA vízi szervezetek védelme érdekében a felszíni vizektől 100 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPe 8 - Alsystin 480 SCTilos méhek közelében felhasználni! A méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem alkalmazható! Virágzó gyomnövények jelenléte esetén nem alkalmazható! Mézharmat jelenléte esetén nem alkalmazható!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

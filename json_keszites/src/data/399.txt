@@ -1,0 +1,56 @@
+Név: Curzate F
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 40 g/l cimoxanil, 480 g/l folpet
+Felhasználásra vonatkozó előírások:
+szőlő (bor): 2,5 l/ha
+Károsító: peronoszpóra
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+szőlő (bor): 2,5-4 l/ha
+Károsító: szürkepenész
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 02.5/771/1/2008.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2017-12-31
+Tulajdonos: DuPont Magyarország Kft.
+Tulajdonos hazai képviselője: DuPont Magyarország Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Corteva
+Készítmény gyártó: DuPont
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 50 mA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H319Súlyos szemirritációt okoz.
+H332Belélegezve ártalmas.
+H351Feltehetően rákot okoz .
+H361fdFeltehetően károsítja a termékenységet. Feltehetően károsítja a születendő gyermeket.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű, védőlábbeli, védőruha

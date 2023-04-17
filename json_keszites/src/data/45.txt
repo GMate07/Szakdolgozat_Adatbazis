@@ -1,0 +1,37 @@
+Név: AgroBio Poloska
+Rendeltetés: Makroszervezet
+Hatóanyag összetétel: makroszervezet(ek)
+Felhasználásra vonatkozó előírások:
+cukkini (hajtatás), dísznövények (cserepes), dísznövények (vágott), fűszernövények (hajtatás), paprika (hajtatás), paradicsom (hajtatás), sárgadinnye (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 0,5-1 db/m2
+Megjegyzés a dózishoz: MACROcontrol
+Károsító: levéltetű, paradicsom-aknázómoly, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), dísznövények (cserepes), dísznövények (vágott), fűszernövények (hajtatás), paprika (hajtatás), sárgadinnye (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 1,5-3 db/m2
+Megjegyzés a dózishoz: ORIcontrol
+Károsító: dohánytripsz (Thrips tabaci), nyugati virágtripsz
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/4341-1/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-08-08
+Tulajdonos: Agrobio S.L.
+Altalános adatok:
+Magyarországi forgalmazó: Brinkman Hungary Kft.
+Készítmény gyártó: Agrobio S.L.
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: –
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

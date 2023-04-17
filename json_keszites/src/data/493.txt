@@ -1,0 +1,44 @@
+Név: Effigo
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 240 g/l klopiralid, 40 g/l aminopiralid, 80 g/l pikloram
+Felhasználásra vonatkozó előírások:
+káposztarepce (őszi): 0,3 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/334/5/2008
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2027-02-28
+Tulajdonos: Corteva Agriscience Hungary Zrt.
+Altalános adatok:
+Magyarországi forgalmazó: Corteva
+Készítmény gyártó: Corteva Agriscience International Sàrl
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: aminopiralid: 
+Horizontális szántó, Erózió-, Belvíz- és Aszály-érzékeny szántó: Tilos a rágcsálóirtó szerek és talajfertőtlenítő szerek alkalmazása. Kalászosok[5]Ipari növények[5]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/kg
+Vízi veszélyesség: Mérsékelten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 52/53Ártalmas a vízi szervezetekre, a vízi környezetben hosszantartó károsodást okozhat
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 24/25Kerülni kell a bőrrel való érintkezést és a szembejutást
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 61Kerülni kell az anyag környezetbe jutását. Speciális adatokat kell kérni/biztonsági adatlap
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - IkarusA vízi szervezetek védelme érdekében felszíni vizektől 5 m távolságban tartson meg egy nem permetezett biztonsági övezetet! A nem célnövények védelme a nem mezőgazdasági földterülettől 1 m távolságban tartson meg egy nem permetezett biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha, védőszemüveg

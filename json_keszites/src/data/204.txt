@@ -1,0 +1,96 @@
+Név: Biobest ragacsos illatanyag- és színcsapda
+Rendeltetés: Ragacsos szín- és illatanyagcsapda (növényvédelmi célú eszköz)
+Hatóanyag összetétel: feromon ((E,Z)-3,8-tetradekadién-1-il acetát), feromon ((E,Z)-3,8,11-tetradecatrienil-acetát), feromon ((Z)-11-hexadekanal), feromon ((Z)-9-hexadekanal), feromon (hexadekán-1-ol), feromon (hexadekanal)
+Felhasználásra vonatkozó előírások:
+dísznövények, fűszernövények, paprika, paradicsom, tojásgyümölcs, uborka: 10-100 lap/ha
+Károsító: aknázólegyek, gombalégy, levéltetű, liszteske (BIOBEST RAGACSLAP sárga), paradicsom-aknázómoly, tripsz
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények, paprika, paradicsom, tojásgyümölcs, uborka: 10-100 lap/ha
+Károsító: tripsz (BIOBEST RAGACSLAP kék)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények, paprika, paradicsom, tojásgyümölcs, uborka: 
+Megjegyzés a dózishoz: szükség szerint
+Károsító: aknázólegyek, gombalégy, levéltetű, liszteske, paradicsom-aknázómoly (BIOBEST RAGACSSZALAG sárga), tripsz
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények, paprika, paradicsom, tojásgyümölcs, uborka: 
+Megjegyzés a dózishoz: szükség szerint
+Károsító: tripsz (BIOBEST RAGACSSZALAG kék)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya, paprika, paradicsom, tojásgyümölcs: 2-4 lap/ha
+Károsító: paradicsom-aknázómoly (BIOBESTTUTA-feromon)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (csemege), paprika, paradicsom: 2-4 lap/ha
+Károsító: gyapottok bagolylepke (BIOBESTHELICO)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények (hajtatás), paprika, sárgadinnye, szamóca, tojásgyümölcs, uborka: 400-600 db/100 m2
+Károsító: közönséges takácsatka (Phytoseiulus persimilis)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, paprika, paradicsom, tojásgyümölcs (hajtatás), uborka: 10000-25000 db/100 m2
+Károsító: dohánytripsz (Thrips tabaci), gombaszúnyog, nyugati virágtripsz (Hypoaspis miles)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fűszernövények, sárgadinnye, szamóca (hajtatás): 10000-25000 db/100 m2
+Károsító: dohánytripsz (Thrips tabaci), gombaszúnyog, nyugati virágtripsz (Hypoaspis miles)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények (hajtatás), paprika, sárgadinnye, szamóca (hajtatás), szamóca (szabadföld), tojásgyümölcs, uborka: 5000-10000 db/100 m2
+Károsító: dohánytripsz (Thrips tabaci), nyugati virágtripsz (Amblyseius swirskii)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+átmeneti fák, díszcserjék, dísznövények, fűszernövények (hajtatás), paprika, paradicsom, sárgadinnye, szamóca (hajtatás), szamóca (szabadföld), tojásgyümölcs, uborka: 10000-12500 db/100 m2
+Károsító: szélesatka, takácsatka, tripsz (Amblyseius andersoni)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2207-1/2013
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2023-04-26
+Tulajdonos: Árpád Biokontroll Kft
+Altalános adatok:
+Magyarországi forgalmazó: Árpád Biokontroll 2003 Kft.
+Készítmény gyártó: Biobest NV.
+Formuláció: –
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: –
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: S 2Gyermekek kezébe nem kerülhet
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 8 - TilosTilos méhek közelében felhasználni!
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

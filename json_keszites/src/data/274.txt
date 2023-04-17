@@ -1,0 +1,124 @@
+Név: Chamane
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 250 g/l azoxistrobin
+Felhasználásra vonatkozó előírások:
+búza (őszi), búza (tavaszi): 0,75-1 l/ha
+Károsító: alternáriás betegségek, kladospóriumos betegségek, levélrozsda, sárgarozsda, szeptóriás betegségek (levélbetegségek), szeptóriás betegségek (pelyvabarnulás)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+vöröshagyma: 0,75-1 l/ha
+Károsító: peronoszpóra
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+póréhagyma: 0,75-1 l/ha
+Károsító: rozsda betegségek
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+sárgarépa: 1 l/ha
+Károsító: alternáriás betegségek, peronoszpóra
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+brokkoli, fejes káposzta, karfiol, kelbimbó, kelkáposzta: 0,75-1 l/ha
+Károsító: alternáriás betegségek, peronoszpóra
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 3 l/ha
+Károsító: kolletotrichumos betegségek, rizoktóniás betegségek
+Lémennyiség: 50-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (őszi), árpa (tavaszi): 0,75-1 l/ha
+Károsító: hálózatos levélfoltosság, lisztharmat, rinhosporiumos betegségek (levélfoltosság), törperozsda
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+rozs, tritikále: 0,75-1 l/ha
+Károsító: levélrozsda, lisztharmat, rinhosporiumos betegségek (levélfoltosság)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+zab: 0,75-1 l/ha
+Károsító: koronás rozsda
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi): 1 l/ha
+Károsító: alternáriás betegségek (becőbetegségek), alternáriás betegségek (levélbetegségek), fehérpenész
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+spárga: 1 l/ha
+Károsító: rozsda betegségek, sztemfíliumos betegségek
+Lémennyiség: 200-600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+lóbab: 0,75-1 l/ha
+Károsító: rozsda betegségek
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó (zöld), cukorborsó: 0,75-1 l/ha
+Károsító: aszkohitás betegségek, szürkepenész
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó (száraz): 0,75-1 l/ha
+Károsító: aszkohitás betegségek, szürkepenész
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/3899-1/2020
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-12-31
+Tulajdonos: UPL Holdings Coöperatief U.A.
+Altalános adatok:
+Magyarországi forgalmazó: UPL Hungary Kft.
+Készítmény gyártó: UPL Europe Ltd.
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter, 5 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: azoxistrobin: 
+Horizontális ültetvény: Bogyósok[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - 10 mA vízi szervezetek védelme érdekében a felszíni vizektől 10 m távolságban tartson meg egy nem permetezett biztonsági övezetet!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

@@ -1,0 +1,105 @@
+Név: Bactospeine WG
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 540 g/kg Bacillus thuringiensis (var: kurstaki)
+Felhasználásra vonatkozó előírások:
+alma, körte: 1-1,5 kg/ha
+Károsító: aknázómolyok, almamoly, sodrómolyok
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+gerbera, hibiszkusz (hajtatás), muskátli, rózsa, szegfű: 0,75-1 kg/ha
+Károsító: lombrágó hernyók
+Lémennyiség: teljes fedettség biztosítása, megcsorgás nélkül
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, kajszibarack, meggy, szilva: 1-1,5 kg/ha
+Károsító: amerikai fehér medvelepke, gyümölcsmolyok, lombrágó hernyók
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fekete bodza, köszméte, málna, ribiszke, szamóca, szeder: 1-1,5 kg/ha
+Károsító: amerikai fehér medvelepke, lombrágó hernyók
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dió, mandula, mogyoró, szelídgesztenye: 1-1,5 kg/ha
+Károsító: amerikai fehér medvelepke, gyümölcsmolyok, lombrágó hernyók
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 1 kg/ha
+Károsító: szőlőmoly
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+őszibarack: 1,5 kg/ha
+Károsító: barackmoly, keleti gyümölcsmoly
+Lémennyiség: 1000-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (csemege), kukorica (takarmány), kukorica (vetőmag): 1,5 kg/ha
+Károsító: gyapottok bagolylepke, kukoricamoly
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+brokkoli, fejes káposzta, karfiol, kelbimbó: 1 kg/ha
+Károsító: káposzta bagolylepke (Mamestra brassicae), lombrágó hernyók, répalepke
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (szabadföld): 1,5 kg/ha
+Károsító: gyapottok bagolylepke, paradicsommoly
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab (hajtatás), paprika, paradicsom, tojásgyümölcs, uborka: 0,5-1,5 kg/ha
+Károsító: gyapottok bagolylepke, paradicsommoly
+Lémennyiség: teljes fedettség biztosítása, megcsorgás nélkül
+Élelmezés-egészségügyi várakozási idő: 2 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2953-2/2014.
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2025-04-30
+Tulajdonos: Sumitomo Chemical Agro Europe S.A.S.
+Tulajdonos hazai képviselője: Biocont Magyarország Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Biocont Magyarország Kft.
+Készítmény gyártó: Valent BioSciences Corp.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 20 g, 100 g, 500 g, 1 kg, 5 kg, 10 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: Bacillus thuringiensis (var: kurstaki): 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 5000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P220Ruhától és más éghető anyagoktól távol tartandó.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P350HA BŐRRE KERÜL: Lemosás bő szappanos vízzel.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű, védőruha

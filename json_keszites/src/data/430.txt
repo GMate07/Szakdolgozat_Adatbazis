@@ -1,0 +1,70 @@
+Név: Deltastop feromon csapda
+Rendeltetés: Ragasztós illatanyagcsapda
+Hatóanyag összetétel: feromon ((E,E)-8,10-dodekadién-1-ol), feromon ((Z)-9-tetradecén-1-il-acetát), feromon ((Z)-8-dodecén-1-ol), feromon ((Z)-8-dodecén-1-il acetát), feromon ((Z)-9-dodecén-1-il acetát), feromon ((E,Z)-7,9-dodekadien-1-ilacetát), feromon ((E,Z)-8,10-tetradekadienal)
+Felhasználásra vonatkozó előírások:
+alma, birs, dió, körte: 2 db (CP)/ültetvény 2 db (CP 10 mg)/ ültetvény
+Károsító: almamoly
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, birs, körte: 2 db (AO)/ültetvény
+Károsító: almailonca
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, birs, kajszibarack, körte, őszibarack, ringló, szilva: 2 db (GM)/ültétvény
+Károsító: keleti gyümölcsmoly
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+ringló, szilva: 2 db (GF)/ültetvény
+Károsító: szilvamoly
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 2 db (EA)/ültetvény
+Károsító: nyerges szőlőmoly
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 2 db (LB)/ültetvény
+Károsító: tarka szőlőmoly
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+vadgesztenye: 2 db (CO)/fasor, park
+Károsító: vadgesztenye levélaknázómoly
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/4563-1/2015
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-05-29
+Tulajdonos: Biocont Laboratory spol. s r.o.
+Altalános adatok:
+Magyarországi forgalmazó: Biocont Magyarország Kft.
+Készítmény gyártó: Propher s.r.o.
+Formuláció: –
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: –
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

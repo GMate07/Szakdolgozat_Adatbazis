@@ -1,0 +1,69 @@
+Név: Affirm Opti
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 9,5 g/kg emamektin-benzoát
+Felhasználásra vonatkozó előírások:
+alma, birs, japán naspolya, körte, naspolya: 2 kg/ha
+Károsító: aknázómolyok, almamoly, sodrómolyok
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szilva: 2,5 kg/ha
+Károsító: szilvamoly
+Lémennyiség: 500-1250 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+nektarin, őszibarack: 2,5 kg/ha
+Károsító: barackmoly, keleti gyümölcsmoly
+Lémennyiség: 500-1650 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kajszibarack: 2,5 kg/ha
+Károsító: barackmoly, keleti gyümölcsmoly
+Lémennyiség: 500-1650 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/7013-1/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-04-30
+Tulajdonos: Syngenta Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 250g, 500g, 1kg, 5kg, 10kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: emamektin-benzoát: 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Affirm OptiA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet 90%-os elsodródás csökkentő szórófej alkalmazása mellett! A nem-cél ízeltlábúak/rovarok védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet 90%-os elsodródás csökkentő szórófej alkalmazása mellett! 75%-os elsodródás csökkentő szórófej esetén 10 m, 50%-os elsodródás csökkentő szórófej alkalmazása mellett 20 m kezeletlen biztonsági övezet megtartása szükséges.
+SPe 8 - Affirm OptiMéhekre veszélyes! A méhek és egyéb beporzást végző rovarok védelme érdekében a készítmény csak az elvirágzást követően használható! Virágzó gyomnövények jelenléte esetén nem alkalmazható! Mézharmat jelenléte esetén nem alkalmazható! A növényvédő szer alkalmazása előtt távolítsa el vagy fedje le a virágzó gyomnövényeket!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H373Ismétlődő vagy hosszabb expozíció esetén károsíthatja a szerveket > vagy meg kell adni az összes érintett szervet, ha ismertek >.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P260A por/füst/gáz/köd/gőzök/permet belélegzése tilos.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P314Rosszullét esetén orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+P502A gyártó/szállító határozza meg a hasznosításra és újrafeldolgozásra vonatkozó információkat.
+Védőfelszerelés előkészítőknek: munkaruha, védőkesztyű
+Védőfelszerelés kijuttatóknak: munkaruha, védőkesztyű

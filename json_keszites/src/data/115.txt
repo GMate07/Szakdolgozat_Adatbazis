@@ -1,0 +1,166 @@
+Név: Astra Rézoxiklorid
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 88 % rézoxiklorid
+Felhasználásra vonatkozó előírások:
+alma, birs, körte, naspolya: 3-4 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), tűzelhalás
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, meggy, szilva: 2-3 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), levéllyukacsosodás, moníliás betegségek
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fekete bodza, köszméte, ribiszke, szamóca, szeder: 2-3 kg/ha
+Károsító: levélbetegségek, vesszőbetegségek
+Lémennyiség: 500-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (virágzás előtt): 2 kg/ha
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+málna: 2-3 kg/ha
+Károsító: levélbetegségek, vesszőbetegségek
+Lémennyiség: 500-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dió, mandula: 2-3 kg/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (virágzás után): 3 kg/ha
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika: 2 kg/ha
+Károsító: baktériumos betegségek
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom: 2-3 kg/ha
+Károsító: baktériumos betegségek, fitoftórás betegségek
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, uborka: 2-3 kg/ha
+Károsító: baktériumos betegségek, peronoszpóra
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+uborka (konzerv): 2-3 kg/ha
+Károsító: baktériumos betegségek, peronoszpóra
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+hagyma: 2-3 kg/ha
+Károsító: baktériumos betegségek, peronoszpóra
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab: 2 kg/ha
+Károsító: baktériumos betegségek, fenésedés, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó: 2 kg/ha
+Károsító: aszkohitás betegségek, baktériumos betegségek, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 2-3 kg/ha
+Károsító: fitoftórás betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, birs, körte, naspolya: 2-3 kg/ha
+Károsító: varasodás
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 2-3 kg/ha
+Károsító: cerkospórás betegségek (levélbetegségek), fómás betegségek (levélbetegségek), ramuláriás betegségek (levélbetegségek)
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+díszcserjék (kivéve erdőtelepítés), díszcserjék (kivéve közterület), díszfák, dísznövények: 0,2-0,3 %
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+őszibarack: 2-3 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), levéllyukacsosodás, moníliás betegségek, tafrinás betegségek
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kajszibarack: 2-3 kg/ha
+Károsító: apiognomóniás betegségek, baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), levéllyukacsosodás, moníliás betegségek
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bogyós gyümölcsűek: 2-3 kg/ha
+Károsító: levélbetegségek, vesszőbetegségek
+Lémennyiség: 500-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 45325/1999.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-05-31
+Tulajdonos: Industrias Químicas del Vallés S.A.
+Altalános adatok:
+Magyarországi forgalmazó: Sumi Agro Hungary Kft.
+Készítmény gyártó: Industrias Químicas del Vallés S.A.
+Formuláció: nedvesíthető por (WP)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 25 kg, 10kg, 1kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >500 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 3 - 50 mA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H332Belélegezve ártalmas.
+H400Nagyon mérgező a vízi élővilágra.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P312Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: félálarc (FFP2), védőkalap, védőkesztyű, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: védőkalap, védőkesztyű, védőruha, védőszemüveg

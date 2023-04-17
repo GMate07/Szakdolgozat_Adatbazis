@@ -1,0 +1,35 @@
+Név: Banarg
+Rendeltetés: Növekedésszabályozó készítmény
+Hatóanyag összetétel: 40 g/kg etilén
+Felhasználásra vonatkozó előírások:
+citrom, egyéb citrusfélék, lime, mandarin, narancs: 0,025-0,25 l/m3
+Károsító: érés elősegítése és gyorsítása
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+banán: 11,25-25 l/m3
+Károsító: érés elősegítése és gyorsítása
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1367-2/2017
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2023-08-31
+Tulajdonos: Linde Gáz Magyarország Zrt.
+Altalános adatok:
+Magyarországi forgalmazó: Linde Gáz Magyarország Zrt.
+Készítmény gyártó: Linde AG
+Formuláció: egyéb
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 50 l (200 bar)
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem releváns
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

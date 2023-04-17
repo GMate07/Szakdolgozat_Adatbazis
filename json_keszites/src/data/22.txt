@@ -1,0 +1,38 @@
+Név: AG40R
+Rendeltetés: Csávázási segédanyag
+Hatóanyag összetétel: 40 % zsírsav-észterek, 4 % színezőanyag, 1,5 % propán-1,2-diol, 0,05 m/m% benzizotiazolinon
+Felhasználásra vonatkozó előírások:
+gabonafélék: 50-200 ml/100 kg mag
+Károsító: –
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/653-2/2021.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2031-05-31
+Tulajdonos: Aegilops- Applications
+Tulajdonos hazai képviselője: Kamp János
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Aegilops- Applications
+Formuláció: vizes emulzió koncentrátum csávázás céljára (ES)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 20 l, 200 l, 500 l, 1000 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Mérsékelten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H412Ártalmas a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés (csávázás): védőkesztyű

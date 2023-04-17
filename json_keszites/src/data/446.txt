@@ -1,0 +1,47 @@
+Név: Dicarmon
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 120 g/l dikamba, 344 g/l 2,4-D
+Felhasználásra vonatkozó előírások:
+árpa (őszi), búza (őszi), kukorica (takarmány): 0,8-1 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2054-2/2022
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2026-12-31
+Tulajdonos: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Bayer Hungária Kft.
+Készítmény gyártó: Nufarm
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter, 5 liter, 10 liter, 25 liter, 1000 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1127 mg/kg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Dicopur TopA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy nem permetezett biztonsági övezetet! A nem cél-növények védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy nem permetezett biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H317Allergiás bőrreakciót válthat ki.
+H318Súlyos szemkárosodást okoz.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P264Használatot követően a kezet alaposan meg kell mosni.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P310Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P330A szájat ki kell öblíteni.
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű

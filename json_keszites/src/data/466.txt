@@ -1,0 +1,36 @@
+Név: Dingo
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 600 g/l 2,4-D
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi) (kivéve sörárpa), búza (őszi), búza (tavaszi), kukorica (takarmány), rozs, tritikále, zab: 1-1,25 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 40-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+legelő, rét: 1,2-1,5 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 40-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 04.2/3602-2/2017.
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2031-12-31
+Tulajdonos: Adama Hungary Zrt.
+Tulajdonos hazai képviselője: Adama Hungary Zrt.
+Altalános adatok:
+Magyarországi forgalmazó: Corteva
+Készítmény gyártó: Adama Manufacturing Poiand S.A.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 literes flakon, 5 literes kanna
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

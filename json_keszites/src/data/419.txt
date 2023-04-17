@@ -1,0 +1,53 @@
+Név: Darium
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 50 g/l kizalofop-P-etil
+Felhasználásra vonatkozó előírások:
+napraforgó: 0,7-1 l/ha
+Károsító: magról kelő egyszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+napraforgó: 0,8 l/ha
+Károsító: fenyércirok (magról kelő)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+napraforgó: 1-1,2 l/ha
+Károsító: fenyércirok (rizómáról kelő)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+napraforgó: 2-2,5 l/ha
+Károsító: tarackbúza
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+napraforgó: 3 l/ha
+Károsító: csillagpázsit
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/142-1/2019
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2024-01-31
+Tulajdonos: Zenith Crop Sciences Bulgaria Ltd.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Zenith Crop Sciences Bulgaria Ltd.
+Formuláció: emulzióképző koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 100 ml; 250 ml; 500 ml; 1 liter; 5 liter; 10 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

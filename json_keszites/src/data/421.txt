@@ -1,0 +1,59 @@
+Név: Daskor
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 400 g/l klórpirifosz-metil, 40 g/l cipermetrin
+Felhasználásra vonatkozó előírások:
+káposztarepce, mustár, olajretek: 0,75 l/ha
+Károsító: repcebecő-ormányos, repcebolha, repcedarázs, repcefénybogár, repceszár-ormányos
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa, búza, rozs, tritikále, zab: 0,75 l/ha
+Károsító: gabonapoloska, levéltetű, vetésfehérítő bogár
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 0,75 l/ha
+Károsító: burgonyabogár, levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+len: 0,75 l/ha
+Károsító: lenbolha
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+mák: 0,75 l/ha
+Károsító: levéltetű, máktokormányos
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 0,75 l/ha
+Károsító: kabócák, szőlőmoly
+Lémennyiség: 500-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2514-1/2011.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-02-16
+Tulajdonos: Arysta LifeScience Benelux Sprl.
+Altalános adatok:
+Magyarországi forgalmazó: Arysta LifeScience Magyarország Kft.
+Készítmény gyártó: Agriphar S. A.
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 100ml, 200ml, 500ml, 1l, 5l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1000 mg/ttkg
+Vízi veszélyesség: –
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem

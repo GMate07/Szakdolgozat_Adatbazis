@@ -1,0 +1,42 @@
+Név: Carpovirusine
+Rendeltetés: Biológiai rovarölő szer
+Hatóanyag összetétel: 10^13 db/I Cydia pomonella Granulo Vírus
+Felhasználásra vonatkozó előírások:
+alma: 1 l/ha
+Károsító: almamoly
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/11051-1/2010.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-04-30
+Tulajdonos: Arysta LifeScience S.A.S.
+Tulajdonos hazai képviselője: UPL Europe Ltd.
+Altalános adatok:
+Magyarországi forgalmazó: Arysta LifeScience Magyarország Kft.
+Készítmény gyártó: Goemar Laboratories S.A.S.
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 1 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, légzésvédő (FFP2D), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha

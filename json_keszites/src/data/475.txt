@@ -1,0 +1,41 @@
+Név: Dripp Extra
+Rendeltetés: Növényápoló szer
+Hatóanyag összetétel: 3 % lecitin, 85 % napraforgó olaj
+Felhasználásra vonatkozó előírások:
+almatermésűek, bogyós gyümölcsűek, csonthéjasok, héjas gyümölcsűek: 1-3 %
+Károsító: levéltetű
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 3 %
+Károsító: amerikai szőlőkabóca
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+mezőgazdasági kultúrák: 2 %
+Károsító: elsodródásgátlás
+Lémennyiség: a felhasznált növényvédőszer engedélyokirata szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/9460-2/2015
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2023-04-30
+Tulajdonos: BVN Növényvédő Kft.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: BVN Növényvédő Kft.
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,1l, 0,2l, 0,5 l,1l, 5l, 20l, 1000l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

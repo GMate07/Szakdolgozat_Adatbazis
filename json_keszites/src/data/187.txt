@@ -1,0 +1,54 @@
+Név: Betasana SC
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 160 g/l fenmedifam
+Felhasználásra vonatkozó előírások:
+cukorrépa: 3,5-6 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 6 l/ha
+Megjegyzés a dózishoz: 1. kezelés: 1,5 l/ha 2. kezelés: 2,0 l/ha 3. kezelés: 2,5 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/667/1/2009
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-02-28
+Tulajdonos: UPL Holdings Coöperatief U.A.
+Tulajdonos hazai képviselője: Arysta LifeScience Magyarország Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Agrometry Kft.
+Készítmény gyártó: UPL Europe Ltd.
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H317Allergiás bőrreakciót válthat ki.
+H319Súlyos szemirritációt okoz.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P337 + P313Ha a szemirritáció nem múlik el: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: munkaruha, védőkesztyű
+Védőfelszerelés kijuttatóknak: munkaruha, védőkesztyű

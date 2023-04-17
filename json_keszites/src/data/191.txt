@@ -1,0 +1,37 @@
+Név: BH Aphiza
+Rendeltetés: Makroszervezet
+Hatóanyag összetétel: Aphidoletes aphidimyza
+Felhasználásra vonatkozó előírások:
+dísznövények (cserepes), dísznövények (vágott), zöldségfélék (hajtatás): 1-3 egyed/m2
+Károsító: levéltetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1820-1/2020.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2030-10-31
+Tulajdonos: biohelp GmbH
+Altalános adatok:
+Magyarországi forgalmazó: biohelp GmbH
+Készítmény gyártó: –
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 250 egyed, 1000 egyed, 2000 egyed, 10000 egyed
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

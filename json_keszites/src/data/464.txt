@@ -1,0 +1,59 @@
+Név: Dimetoát Progress
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 400 g/l dimetoát
+Felhasználásra vonatkozó előírások:
+dohány: 0,6 l/ha
+Károsító: levéltetű, tripsz
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma: 0,6 l/ha
+Károsító: gyökératka, levélatka, szárfonálféreg
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+mogyoróhagyma, vöröshagyma: 0,6 l/ha
+Károsító: dohánytripsz (Thrips tabaci), drótféreg, gyökératka, szárfonálféreg
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (kivéve közterület): 0,08-0,12 %
+Károsító: aknázólegyek, aknázómolyok, fenyőgubacstetű, gubacsszúnyog, gubacstetű, gyümölcsdarazsak, hajtásfúródarazsak, kabócák, kéregtetvek, levéldarazsak, levéltetű, mogyorópoloska, molykártevők, pajzstetű, sörtéstetvek, vértetű
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fejes káposzta: 0,6 l/ha
+Károsító: földibolha, levéltetű, lombrágó hernyók
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 0,6 l/ha
+Károsító: bagolylepke (lárva), répalevéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1176-1/2014.
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2020-01-17
+Tulajdonos: Cheminova A/S
+Altalános adatok:
+Magyarországi forgalmazó: Cheminova Magyarország Kft.
+Készítmény gyártó: Cheminova A/S
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,2 l; 1 l; 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 300 mg/ttkg és &lt;500 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem

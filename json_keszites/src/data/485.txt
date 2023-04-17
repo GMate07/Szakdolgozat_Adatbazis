@@ -1,0 +1,47 @@
+Név: Duplosan KV
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 600 g/l mekoprop-P
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi), búza (tavaszi), rozs, tritikále, zab: 1,5 l/ha
+Károsító: kétszikű gyomok
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 11361/2002
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-05-31
+Tulajdonos: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Nufarm
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l; 5 l; 10 l; 20 l; 200 l; 1000 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 500-2000 mg/ttkg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Duplosan KVA vízi szervezetek védelme érdekében a felszíni vizektől 5 m, légi kezelés esetén 20 m távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél növények védelme érdekében a nem mezőgazdasági földterülettől és más mezőgazdasági kultúráktól 5 m, légi kezelés esetén 20 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H315Bőrirritáló hatású.
+H318Súlyos szemkárosodást okoz.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P330A szájat ki kell öblíteni.
+P332 + P313Bőrirritáció esetén: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkesztyű, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

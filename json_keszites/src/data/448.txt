@@ -1,0 +1,43 @@
+Név: Dicavel SL
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 480 g/l dikamba
+Felhasználásra vonatkozó előírások:
+kukorica (takarmány): 0,5-0,6 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/311-1/2017.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2027-02-28
+Tulajdonos: Globachem NV.
+Altalános adatok:
+Magyarországi forgalmazó: Belchim Crop Protection Hungary Kft.
+Készítmény gyártó: Globachem N.V.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - Dicavel SLA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél növények védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet! 75%-os elsodródás csökkentő szórófej alkalmazása esetén a biztonsági távolság megtartása nem szükséges
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H319Súlyos szemirritációt okoz.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P264Használatot követően a kezet alaposan meg kell mosni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P337 + P313Ha a szemirritáció nem múlik el: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: védőkesztyű

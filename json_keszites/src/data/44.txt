@@ -1,0 +1,51 @@
+Név: AgroBio Fürkészdarázs
+Rendeltetés: Makroszervezet
+Hatóanyag összetétel: makroszervezet(ek)
+Felhasználásra vonatkozó előírások:
+cukkini, dísznövények (cserepes), dísznövények (vágott), fűszernövények, paprika, paradicsom, tojásgyümölcs, uborka: 0,25-0,5 imágó/m2
+Megjegyzés a dózishoz: DIGLYcontrol
+Károsító: borsóaknázólegyek, gerbera aknázólegyek, zöldségaknázólegyek
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, dísznövények (cserepes), dísznövények (vágott), fűszernövények, paprika, paradicsom, tojásgyümölcs, uborka: 1,5-3 parazitált molytetű múmia/m2
+Megjegyzés a dózishoz: EREMIcontrol
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, díszcserjék (szabadföld), dísznövények (cserepes), dísznövények (vágott), fűszernövények, hüvelyesek, paprika, paradicsom, sárgadinnye, sorfák (szabadföld), tojásgyümölcs: 1-2 imágó/m2
+Megjegyzés a dózishoz: APHIconrol
+Károsító: uborka levéltetű, zöld őszibarack levéltetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, dísznövények (cserepes), dísznövények (vágott), fűszernövények, paprika, paradicsom, sárgadinnye, tojásgyümölcs, uborka: 1,5 imágó/m2
+Megjegyzés a dózishoz: ENCARconrol megelőzésre
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1179-1/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-08-08
+Tulajdonos: Agrobio S.L.
+Altalános adatok:
+Magyarországi forgalmazó: Brinkman Hungary Kft.
+Készítmény gyártó: Agrobio S.L.
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: –
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

@@ -1,0 +1,34 @@
+Név: Bellis
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 128 g/kg piraklostrobin, 252 g/kg boszkalid
+Felhasználásra vonatkozó előírások:
+alma, birs, körte: 0,8 kg/ha
+Károsító: tárolási betegségek
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2596-1/2012
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-07-31
+Tulajdonos: BASF A.G.
+Altalános adatok:
+Magyarországi forgalmazó: BASF Hungária Kft.
+Készítmény gyártó: BASF
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: piraklostrobin: 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1490 mg/kg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

@@ -1,0 +1,64 @@
+Név: Azumo WG
+Rendeltetés: Gombaölő permetezőszer
+Hatóanyag összetétel: 800 g/kg kén
+Felhasználásra vonatkozó előírások:
+szőlő (bor), szőlő (csemege): 3-4 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 500-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, almatermésűek, birs, körte, naspolya: 5-7,5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 600-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 1 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, csonthéjasok, kajszibarack, meggy, nektarin, őszibarack, szilva: 5-7,5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 500-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 1 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom, tojásgyümölcs: 2 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 400-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa, takarmányrépa: 5-7,5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2987-1/2020
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-01-31
+Tulajdonos: AZUFRERA Y FERTILIZANTES PALLARÉS S.A.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: AZUFRERA Y FERTILIZANTES PALLARÉS S.A.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 1 kg, 5 kg, 10 kg, 25 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - településiA tartalom/edény elhelyezése hulladékként: A kiürült és kitisztított csomagolóeszköz települési hulladékként kezelhető.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

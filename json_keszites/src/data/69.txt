@@ -1,0 +1,42 @@
+Név: Ambora Duo
+Rendeltetés: Gombaölő permetezőszer
+Hatóanyag összetétel: 334,6 g/l propamokarb, 50 g/l cimoxanil
+Felhasználásra vonatkozó előírások:
+burgonya: 2,5 kg/ha
+Károsító: fitoftórás betegségek
+Lémennyiség: 200-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/191-1/2020
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2025-01-31
+Tulajdonos: Agria S.A.
+Altalános adatok:
+Magyarországi forgalmazó: Kőszegi Gábor
+Készítmény gyártó: Agria S.A.
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H361fdFeltehetően károsítja a termékenységet. Feltehetően károsítja a születendő gyermeket.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: védőkesztyű, védőruha

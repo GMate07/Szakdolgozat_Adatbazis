@@ -1,0 +1,66 @@
+Név: Curalia
+Rendeltetés: Atkaölő szer
+Hatóanyag összetétel: 240 g/l spirodiklofen
+Felhasználásra vonatkozó előírások:
+alma: 0,4-0,6 l/ha
+Károsító: levélatka, takácsatka
+Lémennyiség: 600-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+körte: 0,6 l/ha
+Károsító: körtelevélbolhák
+Lémennyiség: 600-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (bor), szőlő (csemege): 0,4 l/ha
+Károsító: szőlőlevélatka, takácsatka
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2199-2/2018
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2020-07-31
+Tulajdonos: Bayer CropScience AG
+Türelmi idő kereskedőknek: 2020-12-31
+Türelmi idő felhasználóknak: 2021-07-31
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Bayer
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: II. kat.: 1 1iter, III. kat.: 50 ml, 5 ml
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2500 mg/kg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+R-mondatok: R 40A rákkeltő hatás korlátozott mértékben bizonyított
+R 43Bőrrel érintkezve túlérzékenységet okozhat (szenzibilizáló hatású lehet)
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 24A bőrrel való érintkezés kerülendő
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 46Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 30 mA vízi szervezetek védelme érdekében a felszíni vizektől 30 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+Spe 8 - EnvidorA készítmény felhasználása méhekre kifejezetten kockázatos! Tilos méhek közelében felhasználni! A méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem alkalmazható! Virágzó gyomnövények jelenléte esetén nem alkalmazható!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H317Allergiás bőrreakciót válthat ki.
+H351Feltehetően rákot okoz .
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P401A ... -nak/-nek megfelelően tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, légzésvédő (A1P2), védőkesztyű, védőruha

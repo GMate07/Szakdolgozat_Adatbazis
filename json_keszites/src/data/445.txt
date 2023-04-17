@@ -1,0 +1,36 @@
+Név: Dianem
+Rendeltetés: Makroszervezet
+Hatóanyag összetétel: 10 % Heterorhabditis bacteriophora
+Felhasználásra vonatkozó előírások:
+kukorica, kukorica (csemege): 2 milliárd db/ha
+Károsító: amerikai kukoricabogár (lárva)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/6912-1/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-11-18
+Tulajdonos: e-nema GmbH.
+Altalános adatok:
+Magyarországi forgalmazó: Biocont Magyarország Kft.
+Készítmény gyártó: e-nema GmbH
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 900 g
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű

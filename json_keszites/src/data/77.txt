@@ -1,0 +1,217 @@
+Név: Amistar Top
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 125 g/l difenokonazol, 200 g/l azoxistrobin
+Felhasználásra vonatkozó előírások:
+paradicsom (hajtatás): 0,6-1 l/ha
+Károsító: alternáriás betegségek, fitoftórás betegségek, kladospóriumos betegségek, szeptóriás betegségek, szürkepenész
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsmustár (szabadföld), fejes saláta (szabadföld): 0,8-1 l/ha
+Károsító: fehérpenész, peronoszpóra, szürkepenész
+Lémennyiség: 300-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+póréhagyma: 0,6-1 l/ha
+Károsító: alternáriás betegségek, szürkepenész
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, vöröshagyma: 1 l/ha
+Károsító: alternáriás betegségek, peronoszpóra, szürkepenész
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+mogyoróhagyma (szabadföld): 1 l/ha
+Károsító: alternáriás betegségek, hagymarozsda, peronoszpóra, szürkepenész
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+újhagyma (szabadföld): 1 l/ha
+Károsító: alternáriás betegségek, hagymarozsda, peronoszpóra, szürkepenész
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó (zöld): 1 l/ha
+Károsító: aszkohitás betegségek, lisztharmat, peronoszpóra, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kapor (levél), koriander, petrezselyem (levél), zeller (levél): 1 l/ha
+Károsító: fehérpenész, lisztharmat, peronoszpóra, szeptóriás betegségek, szürkepenész
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+torma: 0,6-1 l/ha
+Károsító: albugós betegségek, cerkospórás betegségek, lisztharmat
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+édeskömény: 0,6-1 l/ha
+Károsító: lisztharmat, passzalórás betegségek
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+sóska, spenót: 0,6-1 l/ha
+Károsító: lisztharmat, peronoszpóra, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+csicsóka: 0,8-1 l/ha
+Károsító: fehérpenész, lisztharmat
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 42 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+díszcserjék, díszfák, dísznövények: 0,6-1 l/ha
+Károsító: alternáriás betegségek, apiognomóniás betegségek, guignardiás betegségek, lisztharmat, peronoszpóra, rozsda betegségek, varasodás
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsmustár (hajtatás), fejes saláta (hajtatás): 0,8-1 l/ha
+Károsító: fehérpenész, peronoszpóra, szürkepenész
+Lémennyiség: 300-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+rizs: 0,8-1 l/ha
+Károsító: bipoláriszos levélfoltosság, helmintospóriumos betegségek, pirikuláriás barnulás
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+édesburgonya: 1 l/ha
+Károsító: lisztharmat
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+articsóka (szabadföld): 0,8-1 l/ha
+Károsító: lisztharmat, szürkepenész
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (hajtatás): 0,6-1 l/ha
+Károsító: alternáriás betegségek, kolletotrichumos betegségek, paprika-lisztharmat, szürkepenész
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini: 0,8-1 l/ha
+Károsító: kladospóriumos betegségek, lisztharmat, peronoszpóra
+Lémennyiség: 500-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+sárgadinnye (szabadföld), spárgatök (szabadföld), sütőtök (szabadföld): 0,8-1 l/ha
+Károsító: kladospóriumos betegségek, lisztharmat, peronoszpóra
+Lémennyiség: 500-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+sárgadinnye (hajtatás), spárgatök (hajtatás), sütőtök (hajtatás): 0,8-1 l/ha
+Károsító: kladospóriumos betegségek, lisztharmat, peronoszpóra
+Lémennyiség: 500-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szamóca (hajtatás), szamóca (szabadföld): 1 l/ha
+Károsító: antraknózis, gnomóniás betegségek, lisztharmat, mikoszferellás betegségek (levélbetegségek)
+Lémennyiség: 300-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fűszernövények, gyógynövények: 0,6-1 l/ha
+Károsító: alternáriás betegségek, fehérpenész, fómás betegségek, lisztharmat, peronoszpóra, rozsda betegségek, szeptóriás betegségek
+Lémennyiség: 250-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, mogyoróhagyma, vöröshagyma: 1 l/ha
+Károsító: alternáriás betegségek, hagymarozsda, peronoszpóra, szürkepenész
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+tojásgyümölcs (hajtatás): 0,6-1 l/6ha
+Károsító: alternáriás betegségek, fitoftórás betegségek, lisztharmat, szürkepenész
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bimbós kel, fejes káposzta: 0,6-1 l/ha
+Károsító: alternáriás betegségek, káposzta-peronoszpóra, lisztharmat, plenodómuszos betegségek
+Lémennyiség: 500-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+brokkoli, karfiol, kelkáposzta, kínai kel: 0,6-1 l/ha
+Károsító: alternáriás betegségek, káposzta-peronoszpóra, lisztharmat, plenodómuszos betegségek
+Lémennyiség: 500-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cékla, gyökérzöldségek, petrezselyem, sárgarépa, zeller (gumó): 0,6-1 l/ha
+Károsító: alternáriás betegségek, cerkospórás betegségek (levélbetegségek), lisztharmat, peronoszpóra, rozsda betegségek, szeptóriás betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+spárga: 0,6-1 l/ha
+Károsító: spárgarozsda
+Lémennyiség: 500-800 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/2452/5/2008
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2022-11-30
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 250 ml, 1 liter, 5 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/kg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 50 mA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H317Allergiás bőrreakciót válthat ki.
+H332Belélegezve ártalmas.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P312Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, légzésvédő (FFP2D), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha

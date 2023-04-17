@@ -1,0 +1,41 @@
+Név: BIOBEST MONTI
+Rendeltetés: Biológiai rovarölő szer
+Hatóanyag összetétel: Amblyseius montdorensis
+Felhasználásra vonatkozó előírások:
+dísznövények (hajtatás), fűszernövények (hajtatás), paprika (hajtatás), sárgadinnye (hajtatás), szamóca (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 5000-10000 egyed/100 m2
+Károsító: dohánytripsz (Thrips tabaci), molytetű, nyugati virágtripsz, takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2802-2/2020
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2030-09-30
+Tulajdonos: Árpád Biokontroll Kft
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Biobest NV.
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 250 db atka/ papírtasak; 500 tasak/doboz; 50 000 db atka/ szóróhenger; 125 000 db atka/ szóróvödör
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): –
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H335Légúti irritációt okozhat.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P403 + P433Jól szellőző helyen tárolandó. Az edény szorosan lezárva tartandó.
+Védőfelszerelés előkészítőknek: arcvédő, védőkesztyű
+Védőfelszerelés kijuttatóknak: arcvédő, védőkesztyű

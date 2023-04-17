@@ -1,0 +1,47 @@
+Név: El Cappo 80 WG
+Rendeltetés: Gombaölő permetezőszer
+Hatóanyag összetétel: 800 g/kg kaptán
+Felhasználásra vonatkozó előírások:
+alma, almatermésűek, birs, körte, naspolya: 1,5-1,9 kg/ha
+Károsító: varasodás
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/3369-2/2020
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2024-07-31
+Tulajdonos: Pestila SP. z o.o.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Pestila Sp. z.o.o.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 100 g, 500 g, 1 kg, 3 kg, 5 kg, 10 kg, 20 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 300-2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - 20 mA vízi szervezetek védelme érdekében a felszíni vizektől 20 m távolságban tartson meg egy kezeletlen, növényzettel borított (zárt gyep) biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H317Allergiás bőrreakciót válthat ki.
+H318Súlyos szemkárosodást okoz.
+H351Feltehetően rákot okoz .
+H400Nagyon mérgező a vízi élővilágra.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkesztyű
+Védőfelszerelés kijuttatóknak: arcvédő, védőkesztyű, védőruha

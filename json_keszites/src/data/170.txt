@@ -1,0 +1,29 @@
+Név: Bell
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 233 g/l boszkalid, 67 g/l epoxikonazol
+Felhasználásra vonatkozó előírások:
+árpa, búza, rozs, tritikále, zab: 1-1,5 l/ha
+Károsító: kalászbetegségek, levélbetegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/7708-1/2011
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-04-30
+Tulajdonos: BASF S.E.
+Altalános adatok:
+Magyarországi forgalmazó: BASF Hungária Kft.
+Készítmény gyártó: BASF
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,15 l; 0,25 l; 0,5 l; 1,0 l; 3,0 l; 5,0 l; 10,0 l;
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

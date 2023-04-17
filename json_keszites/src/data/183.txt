@@ -1,0 +1,29 @@
+Név: Betanal Expert
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 111,8 g/l etofumezát, 71,1 g/l dezmedifam, 91,4 g/l fenmedifam
+Felhasználásra vonatkozó előírások:
+cukorrépa: 4 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 24754/1997.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-01-01
+Tulajdonos: Bayer CropScience S.A.S.
+Altalános adatok:
+Magyarországi forgalmazó: Bayer Hungária Kft.
+Készítmény gyártó: Bayer
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 3255 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Kockázat alapú besorolás folyamatban
+Méhkímélő technológia: Nem

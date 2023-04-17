@@ -1,0 +1,42 @@
+Név: Avola EC
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 10 m/m% avokádó olaj, 1 % chili kivonat, 60 m/m% napraforgó olaj
+Felhasználásra vonatkozó előírások:
+erdészet, kertészeti kultúrák, szántóföldi kultúrák: 3-5 l/ha
+Megjegyzés a dózishoz: 1 %
+Károsító: hatásfokozás (atkaölő szerekhez)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/3984-1/2020.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2030-12-31
+Tulajdonos: BVN Növényvédő Kft.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: BVN Növényvédő Kft.
+Formuláció: emulzióképző koncentrátum (EC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 0,05 l; 0,2 l; 0,5 l; 1 l; 5 l; 20 l; 1000 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H412Ártalmas a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

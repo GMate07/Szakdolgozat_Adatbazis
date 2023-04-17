@@ -1,0 +1,52 @@
+Név: Biola-plant növényápoló szer
+Rendeltetés: Növényápoló szer
+Hatóanyag összetétel: 10 g/l napraforgó olaj
+Felhasználásra vonatkozó előírások:
+bogyós gyümölcsűek, héjas gyümölcsűek: 1,5-2 %
+Károsító: levéltetű, pajzstetű, szennyeződések távoltartása, takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények, gyógynövények, zöldségfélék: 1,5-2 %
+Károsító: levéltetű, szennyeződések távoltartása
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szántóföldi kultúrák: 1,5-2 %
+Károsító: levéltetű, szennyeződések távoltartása
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények (lakás), fűszernövények (zárt termesztő berendezés), gyógynövények: 
+Megjegyzés a dózishoz: permetezés
+Károsító: levéltetű, pajzstetű, szennyeződések távoltartása
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/10776-3/2010
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2021-12-01
+Tulajdonos: Idea-Chem Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Idea-Chem Kft.
+Készítmény gyártó: Idea-Chem Kft.
+Formuláció: felhasználásra kész folyadék (AL)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,22l, 0,5l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/kg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: S 2Gyermekek kezébe nem kerülhet
+S 24/25Kerülni kell a bőrrel való érintkezést és a szembejutást
+S 26Ha szembe jut, bő vízzel azonnal ki kell mosni és orvoshoz kell fordulni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!

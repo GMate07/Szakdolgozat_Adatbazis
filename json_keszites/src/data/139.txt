@@ -1,0 +1,101 @@
+Név: Badge SC
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 236,64 g/l réz-hidroxid, 239,36 g/l réz-oxiklorid
+Felhasználásra vonatkozó előírások:
+szőlő: 1,3-1,8 l/ha
+Megjegyzés a dózishoz: virágzásig
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 400-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+dísznövények: 2,8 l/ha
+Károsító: antraknózis, baktériumos betegségek, cerkospórás betegségek (levélbetegségek), peronoszpóra, rozsda betegségek
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+komló: 4-5,5 l/ha
+Károsító: peronoszpóra
+Lémennyiség: 1000-2000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+szőlő: 1,8-2,6 l/ha
+Megjegyzés a dózishoz: virágzás után
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+alma, birs, körte, naspolya: 2,6 l/ha
+Károsító: varasodás (ventúriás)
+Lémennyiség: 700-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+alma, birs, körte, naspolya: 3 l/ha
+Károsító: varasodás (ventúriás)
+Lémennyiség: 1000-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+alma, birs, körte, naspolya: 3 l/ha
+Károsító: tűzelhalás
+Lémennyiség: 700-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+alma, birs, körte, naspolya: 3 l/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás)
+Lémennyiség: 1000-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+cseresznye, kajszibarack, meggy, nektarin, őszibarack, szilva: 3,6-4 l/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), moníliás betegségek, sztigminás betegségek (levéllyukacsosodás), tafrinás betegségek
+Lémennyiség: 1000-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+burgonya: 2,5-3 l/ha
+Károsító: burgonyavész
+Lémennyiség: 600-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/655-1/2019
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-03-31
+Tulajdonos: Isagro S.p.A.
+Tulajdonos hazai képviselője: Staphyt Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Belchim Crop Protection Hungary Kft.
+Készítmény gyártó: Isagro S.p.A.
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: III. kat.: 50 ml; 100 ml; II. kat.: 250 ml 1 liter; 3,5 liter; 5 liter; 10 liter; 17,5 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Mérsékelten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 3 - Badge SCA vízi szervezetek védelme érdekében a felszíni vizektől az alább feltüntetett távolságban tartson meg egy kezeletlen biztonsági övezetet! Komló: elsodródás csökkentő technológia nélkül: 125 m; 50%-os elsodródás csökkentő technológiával: 100 m; 75%-os elsodródás csökkentő technológiával: 75 m. Almatermésűek, csonthélyasok: elsodródás csökkentő technológia nélkül: 150 m; 50%-os elsodródás csökkentő technológiával: 125 m; 75%-os elsodródás csökkentő technológiával: 100 m. Dísznövények (50 cm növény-magasság alatt): elsodródás csökkentő technológia nélkül: 125 m; 50%-os elsodródás csökkentő technológiával: 75 m; 75%-os elsodródás csökkentő technológiával: 30 m. Dísznövények (50 cm növény-magasság felett): elsodródás csökkentő technológia nélkül: 150 m; 50%-os elsodródás csökkentő technológiával: 125 m; 75%-os elsodródás csökkentő technológiával: 75 m. Szőlő elsodródás csökkentő technológia nélkül: 100 m; 50%-os elsodródás csökkentő technológiával: 75 m; 75%-os elsodródás csökkentő technológiával: 50 m. Burgonya: elsodródás csökkentő technológia nélkül: 125 m; 50%-os elsodródás csökkentő technológiával: 75 m; 75%-os elsodródás csökkentő technológiával: 30 m.
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

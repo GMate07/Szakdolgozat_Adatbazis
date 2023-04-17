@@ -1,0 +1,58 @@
+Név: Chikara 25 WG
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 250 g/l flazaszulfuron
+Felhasználásra vonatkozó előírások:
+szőlő (2 évnél idősebb): 150-200 g/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 400-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 75 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+vasúti pályatestek: 200 g/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 400-500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+erdészet, karácsonyfa ültetvény (3 évnél idősebb): 150-200 g/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 400-500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fekete bodza (4 évnél idősebb): 150 g/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 400-500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2080-1/2022
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2033-07-31
+Tulajdonos: ISK Biosciences Europe N.V.
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: ISK Biosciences Europe N.V.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 40 g; 50 g; 100 g, 150 g, 200 g, 1,0 kg, 4 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe3 - Chikara 25 WGA vízi szervezetek védelme érdekében a felszíni vizektől az alább feltüntetett távolságban tartson meg egy kezeletlen biztonsági övezetet! Elsodródás csökkentő technológia nélkül: szőlő, fekete bodza: 20 m zárt gyep; erdészet (karácsonyfa ültetvény, erdősítés): 10 m. A nem-cél növények védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet, 50 %-os elsodródás csökkentő szórófej alkalmazása esetén a biztonsági övezet megtartása nem szükséges!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: munkaruha, védőkesztyű
+Védőfelszerelés kijuttatóknak: munkaruha, védőkesztyű

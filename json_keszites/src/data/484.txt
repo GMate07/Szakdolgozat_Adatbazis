@@ -1,0 +1,29 @@
+Név: Duplosan DP
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 600 g/l diklórprop-P
+Felhasználásra vonatkozó előírások:
+kalászosok: 1,5-2 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 42 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 11360/2002
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2022-05-31
+Tulajdonos: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Nufarm
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 l; 10 l; 20 l; 200 l; 1000 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >300, &lt;2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

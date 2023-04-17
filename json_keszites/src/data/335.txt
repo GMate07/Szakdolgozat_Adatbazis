@@ -1,0 +1,164 @@
+Név: Colpenn
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 800 g/kg kén
+Felhasználásra vonatkozó előírások:
+alma, almatermésűek, birs, körte, naspolya: 5-8 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cékla, gumós zeller, pasztinák, retek, torma: 5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cickafark, gyógynövények, gyűszűvirág, kamilla, körömvirág, levendula, macskagyökér, máriatövis, orbáncfű, orvosi csucsor, vasfű: 2,5-5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 300-800 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+áfonya, bodza, csipkebogyó, fekete ribiszke, köszméte, málna, szamóca, szeder, vörös ribiszke: 3-7 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 600-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+angelika, bazsalikom, borsikafű, citromfű, fűszernövények, izsóp, kakukkfű, kapor, koriander, lestyán, levélzeller, majoránna, menta, metélőhagyma, metélőpetrezselyem, rozmaring, szurokfű, tárkony, zamatos turbolya, zeller (levél), zsálya: 2,5-5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 300-800 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, csonthéjasok, kajszibarack, meggy, őszibarack, szilva: 5-7,5 kg/ha
+Károsító: levéllikasztó gombák, lisztharmat
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+díszcserjék (közterület), díszfák (közterület): 2,5-5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 350-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (bor), szőlő (csemege): 3-8 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+tojásgyümölcs: 5-8 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+csillagtök, cukkini, kabakosok, spárgatök, sütőtök, uborka: 5-7,5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 200-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (őszi), árpa (tavaszi), búza (őszi), búza (tavaszi), kalászosok, köles, pohánka, rozs, tritikále, zab: 5-7,5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+olajretek: 5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 5-7,5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+mogyoró: 5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+földimogyoró: 5-7,5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 200-600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kender: 5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bimbós kel, brokkoli, karfiol, kelkáposzta: 5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 350-650 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+karalábé: 5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 350-650 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+csicseriborsó, lencse, lóbab: 5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 300-800 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+gyöngyhagyma, póréhagyma, sarjadékhagyma: 5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 200-500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cikória, endívia, fejes saláta, mángold, sóska, spenót: 5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 350-650 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+rebarbara, spárga: 2,5-5 kg/ha
+Károsító: lisztharmat
+Lémennyiség: 300-800 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/20035-2/2019
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2025-12-31
+Tulajdonos: UPL Holdings Coöperatief U.A.
+Altalános adatok:
+Magyarországi forgalmazó: UPL Hungary Kft.
+Készítmény gyártó: UPL Europe Ltd.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 30 g, 250 g, 500 g, 1 kg, 5 kg, 10 kg, 20 kg, 25 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 5000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Microthiol SpecialA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított (lehetőleg zárt gyep) biztonsági övezetet! A nem cél ízeltlábúak/rovarok védelme érdekében a nem mezőgazdasági földterülettől szőlő kultúrában 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet! 50%-os elsodródás csökkentő szórófej alkalmazása mellett a biztonsági övezet megtartása nem szükséges. Almatermésű és csonthéjas kultúrákban 15 m távolságban tartson meg
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

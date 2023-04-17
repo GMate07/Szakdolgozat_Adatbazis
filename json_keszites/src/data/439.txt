@@ -1,0 +1,49 @@
+Név: Detia Degesch Schneckenkorn
+Rendeltetés: Csigaölő szer
+Hatóanyag összetétel: 6 % metaldehid
+Felhasználásra vonatkozó előírások:
+dísznövények, szamóca, zöldségfélék (kivéve leveles): 0,6 g/m2
+Károsító: meztelen csiga
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 11683/2002
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2023-05-31
+Tulajdonos: Sharda Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Novochem Kereskedelmi és Szolgáltató Kft.
+Készítmény gyártó: Sharda Cropchem Ltd.
+Formuláció: granulátum (GR)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 6 g; 60 g; 0,25 kg; 0,6 kg; 1 kg; 25 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: metaldehid: 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 4714 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPe 4A vízi szervezetek védelme érdekében a vizet nem áteresztő felületeken (pl. aszfalt, beton, utcakövezet, vasúti pályák és az elfolyás egyéb veszélye esetén) ne alkalmazza!
+SPe 6A madarak/vadon élő emlősök védelme érdekében távolítsa el a véletlenül kiömlött növényvédő szert!
+SPo 4A csomagolóeszközt csak a szabad levegőn, száraz időben lehet kinyitni!
+SPo 5A visszatérést megelőzően a kezelt helyiséget alaposan ki kell szellőztetni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H361fFeltehetően károsítja a termékenységet.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés kijuttatóknak: védőkesztyű, védőruha

@@ -1,0 +1,54 @@
+Név: Cleanclaster
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 478,2 g/l magnézium-foszfonát
+Felhasználásra vonatkozó előírások:
+szántóföldi kultúrák: 1,5 l/ha
+Károsító: hatásfokozás (gyomirtó szerekhez)
+Lémennyiség: a felhasznált növényvédőszer engedélyokirata szerint
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma: 1,5 l/ha
+Károsító: hatásfokozás (gyomirtó szerekhez)
+Lémennyiség: a felhasznált növényvédőszer engedélyokirata szerint
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 1,5 l/ha
+Károsító: hatásfokozás (gyomirtó szerekhez)
+Lémennyiség: a felhasznált növényvédőszer engedélyokirata szerint
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/531-2/2018
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2028-07-31
+Tulajdonos: EURO TSA s.r.l. Technology Serving Agriculture
+Altalános adatok:
+Magyarországi forgalmazó: EURO TSA s.r.l. Technology Serving Agriculture
+Készítmény gyártó: EURO TSA s.r.l. Technology Serving Agriculture
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,1 l, 0,25 l, 0,5 l, 1 l, 5 l, 10 l, 20 l, 25 l, 30 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Mérsékelten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 20 mA vízi szervezetek védelme érdekében a felszíni vizektől 20 m távolságban tartson meg egy kezeletlen, növényzettel borított (zárt gyep) biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H290Fémekre korrozív hatású lehet.
+H412Ártalmas a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P234Az eredeti csomagolásban tartandó.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

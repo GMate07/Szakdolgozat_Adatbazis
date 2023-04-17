@@ -1,0 +1,41 @@
+Név: Collage
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 4 g/l tifenszulfuron-metil, 60 g/l nikoszulfuron
+Felhasználásra vonatkozó előírások:
+kukorica (takarmány): 0,75-1 l/ha
+Károsító: évelő egyszikű gyomok, magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (siló): 0,75-1 l/ha
+Károsító: évelő egyszikű gyomok, magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (siló): 0,5+0,5 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/6651-1/2015.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2018-06-30
+Tulajdonos: DuPont Magyarország Kft.
+Altalános adatok:
+Magyarországi forgalmazó: DuPont Magyarország Kft.
+Készítmény gyártó: DuPont
+Formuláció: olaj alapú szuszpenzió koncentrátum (OD)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter; 3 liter; 5 liter; 10 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 5000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

@@ -1,0 +1,79 @@
+Név: Biocont színcsapdás rovarfogó lap
+Rendeltetés: Egyéb szer
+Hatóanyag összetétel: 26 % ragasztóanyag, 16 % polietilén, 12 % polipropilén, 46 % polipropilén oligomerek
+Felhasználásra vonatkozó előírások:
+fólia, házikertek, lakás, szántóföld, üvegház: 1 db lap/10-100 m2
+Megjegyzés a dózishoz: Sárga rovarfogó lap előrejelzési és rajzáskövetési célra
+Károsító: földibolha, gubacsszúnyog, levélaknázó legyek, levéltetű, molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+fólia, házikertek, lakás, szántóföld, üvegház: 1 db lap/2-4 m2
+Megjegyzés a dózishoz: Sárga rovarfogó lap gyérítési célra
+Károsító: földibolha, gubacsszúnyog, levélaknázó legyek, levéltetű, molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+fólia, házikertek, lakás, üvegház: 1 db lap/10-100 m2
+Megjegyzés a dózishoz: Kék rovarfogó lap előrejelzési és rajzáskövetési célra
+Károsító: nyugati virágtripsz
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+fólia, házikertek, lakás, üvegház: 1 db lap/2-4 m2
+Megjegyzés a dózishoz: Kék rovarfogó lap gyérítési célra
+Károsító: földibolha, gubacsszúnyog, levélaknázó legyek, levéltetű, molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+cseresznye, meggy: 2-3 db/2 m lomkorona
+Megjegyzés a dózishoz: Cseresznyelégy színcsapda lap
+Károsító: cseresznyelégy (Rhagoletis cerasi)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+almatermésűek, szilva: 2-3 db/1 m lombkorona
+Megjegyzés a dózishoz: Gyümölcsdarázs színcsapda lap
+Károsító: poloskaszagú darazsak
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+almatermésűek, csonthéjasok: 1 db/fa
+Megjegyzés a dózishoz: Rovarfogó ragadós szalag
+Károsító: araszoló lepkék, gyümölcsmolyok, hangyák
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/3730-1/2020
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2030-11-30
+Tulajdonos: Biocont Laboratory spol. s r.o.
+Tulajdonos hazai képviselője: Biocont Magyarország Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Biocont Magyarország Kft.
+Készítmény gyártó: Biocont Laboratory spol. s r.o.
+Formuláció: színcsapdás rovarfogó lap, papírszalag
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 5 db lap/csomag; 6 db lap/csomag; 5 m szalag/csomag; 2 m szalag 1 db/csomag
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+Védőfelszerelés kijuttatóknak: védőkesztyű

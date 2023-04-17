@@ -1,0 +1,29 @@
+Név: Drop-Air
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 15,6 % trisziloxan, 27 % sztirol-akrilát kopolimer, 7,5 % propilén-glikol
+Felhasználásra vonatkozó előírások:
+mezőgazdasági kultúrák: 0,1 %
+Károsító: elsodródásgátlás
+Lémennyiség: 0,1 %
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 04.2/1353-2/2018
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2022-10-31
+Tulajdonos: Evonik Degussa GmbH.
+Altalános adatok:
+Magyarországi forgalmazó: Sharda Hungary Kft.
+Készítmény gyártó: Evonik Degussa GmbH.
+Formuláció: diszpergálható koncentrátum (DC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,05l, 0,1l, 0,2l, 0,25l, 0,5 l,1l, 5l, 10l, 20l, 25l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

@@ -1,0 +1,50 @@
+Név: Enter
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 765 g/l poliéterrel módosított trisziloxán, 255 g/l poliéter
+Felhasználásra vonatkozó előírások:
+kertészeti kultúrák, szántóföldi kultúrák: 0,2 l/ha
+Megjegyzés a dózishoz: gombaölő, rovarölő, gyomirtó szerekhez
+Károsító: hatásfokozás, tapadásfokozás
+Lémennyiség: a felhasznált növényvédőszer engedélyokirata szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/515-2/2021
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2025-07-28
+Tulajdonos: Evonik Industries AG
+Tulajdonos hazai képviselője: Certis Europe BV Magyarország
+Altalános adatok:
+Magyarországi forgalmazó: Adama Hungary Zrt.
+Készítmény gyártó: Evonik Degussa GmbH.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,05 l, 0,1 l, 0,5 l, 1 l, 5 l, 10 l, 20 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 3200 mg/ttkg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 50 mA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H312Bőrrel érintkezve ártalmas.
+H319Súlyos szemirritációt okoz.
+H332Belélegezve ártalmas.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P312Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű

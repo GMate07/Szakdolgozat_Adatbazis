@@ -1,0 +1,51 @@
+Név: Chinook 200 FS
+Rendeltetés: Csávázószer (rovarölő)
+Hatóanyag összetétel: 100 g/l béta-ciflutrin, 100 g/l imidakloprid
+Felhasználásra vonatkozó előírások:
+aszparágusz (zárt termesztő berendezés): 6 ml/kg vetőmag
+Károsító: tőzeglégy (lárva)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+ciklámen (zárt termesztő berendezés): 800 ml/kg vetőmag
+Károsító: tőzeglégy (lárva), tripsz
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/11582-1/2010
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2021-01-20
+Tulajdonos: Bayer AG
+Türelmi idő kereskedőknek: 2021-05-31
+Türelmi idő felhasználóknak: 2021-07-20
+Altalános adatok:
+Magyarországi forgalmazó: Bayer Hungária Kft.
+Készítmény gyártó: Bayer
+Formuláció: vizes szuszpenzió koncentrátum csávázás céljára (FS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 15 l, 20 l, 200 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >200 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H301Lenyelve mérgező.
+H317Allergiás bőrreakciót válthat ki.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés (csávázás): arcvédő (3-as jelölésű), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli (3. védelmi osztályú), védőruha (4. típusú), védőszemüveg (3-as jelölésű)
+Védőfelszerelés (vetés): védőkesztyű

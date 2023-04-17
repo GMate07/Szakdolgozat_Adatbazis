@@ -1,0 +1,54 @@
+Név: Autentic
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 200 g/kg acetamiprid
+Felhasználásra vonatkozó előírások:
+káposztarepce (őszi), mustár, olajretek: 0,15-0,2 kg/ha
+Károsító: levéltetű, repcebecő-ormányos, repcebolha, repcedarázs, repcefénybogár, repceszár-ormányos
+Lémennyiség: 300-400 l/ha légi: 80 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+napraforgó: 0,15-0,2 kg/ha
+Károsító: levéltetű
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/402-2/2021
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2024-12-31
+Tulajdonos: Nippon Soda Co. Ltd
+Tulajdonos hazai képviselője: Sumi Agro Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Sumi Agro Hungary Kft.
+Készítmény gyártó: Nippon Soda
+Formuláció: vízoldható por (SP)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 kg, 2 kg, 5 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: acetamiprid: 
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Mospilan 20 SPA vízi szervezetek védelme érdekében a felszíni vizektől 50 m, légi kezelés esetén 100 m távolságban tartson meg egy kezeletlen biztonsági övezetet. A nem cél-ízeltlábúak/rovarok védelme érdekében a nem mezőgazdasági földterülettől 10 m, légi kezelés esetén 20 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: légzésvédő (FFP3SL), védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: légzésvédő (FFP3SL), védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

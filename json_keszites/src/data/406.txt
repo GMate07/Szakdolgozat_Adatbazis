@@ -1,0 +1,78 @@
+Név: Cyperfor 100 EC
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 100 g/l cipermetrin
+Felhasználásra vonatkozó előírások:
+árpa, búza, tritikále, zab: 0,375 l/ha
+Károsító: gabonapoloska, levéltetű, vetésfehérítő bogár
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce: 0,2-0,25 l/ha
+Károsító: levéltetű, ormányosbogarak, repcebolha, repcedarázs, repcefénybogár
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 
+Károsító: levéltetű
+Lémennyiség: 0,25 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 0,25 l/ha
+Károsító: bagolylepke, levéltetű, lisztes répabarkó, répabolha
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+saláta, sárgarépa: 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó: 0,25 l/ha
+Károsító: bagolylepke, csipkéző bogarak, levéltetű, tripsz
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab: 0,25 l/ha
+Károsító: bagolylepke, levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+komló: 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 400-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/19603-2/2019
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2023-10-31
+Tulajdonos: SBM Développement
+Tulajdonos hazai képviselője: Dr. Horn András
+Altalános adatok:
+Magyarországi forgalmazó: Belchim Crop Protection Hungary Kft.
+Készítmény gyártó: SBM Développement
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 10ml, 50ml, 0,20 l; 0,25 l; 1 l; 5 l; 200 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: cipermetrin: 
+Horizontális ültetvény: Almatermésűek[T]Szőlő[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >300 mg/ttkg -
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem

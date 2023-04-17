@@ -1,0 +1,79 @@
+Név: Ciprodor Extra
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 200 g/l azoxistrobin, 80 g/l ciprokonazol
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi): 0,75-1 l/ha
+Károsító: helmintospóriumos betegségek, kalászfuzáriumos betegségek, lisztharmat, rozsda betegségek, szeptóriás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+árpa (őszi), árpa (tavaszi), búza (őszi): 0,6 l/ha
+Megjegyzés a dózishoz: osztott kezelés: 1., 2. kezelés
+Károsító: levélbetegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+borsó: 0,6-0,8 l/ha
+Károsító: lisztharmat, peronoszpóra, rozsda betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+napraforgó: 0,8-1 l/ha
+Károsító: alternáriás betegségek, diaportés betegségek, fehérpenész, fómás betegségek, levélbetegségek, peronoszpóra, rozsda betegségek, szárbetegségek, szürkepenész, tányérbetegségek
+Lémennyiség: 250-400 l/ha légi: 60-80 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+káposztarepce (őszi): 0,75-1 l/ha
+Károsító: alternáriás betegségek (becőbetegségek), alternáriás betegségek (levélbetegségek), fehérpenész (szárrothadás), fómás betegségek (levélbetegségek), fómás betegségek (szárrákfoltosság), termésnövelés
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+kukorica (vetőmag): 0,5-1 l/ha
+Károsító: csőbetegségek, levélbetegségek
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 6300/119-1/2021
+Engedély típusa: Párhuzamos engedély
+Engedély érvényessége: 2021-05-31
+Tulajdonos: Agrometry Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Agrometry Kft.
+Készítmény gyártó: Syngenta
+Formuláció: diszpergálható koncentrátum (DC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 liter, 10 liter, 20 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 200
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - 30 mA vízi szervezetek védelme érdekében a felszíni vizektől 30 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H332Belélegezve ártalmas.
+H360dKárosíthatja a születendő gyermeket.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: félálarc (FFP3), védőkesztyű, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: védőkesztyű, védőruha

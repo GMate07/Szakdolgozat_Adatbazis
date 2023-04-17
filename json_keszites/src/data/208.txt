@@ -1,0 +1,48 @@
+Név: Biocera fasebkezelő és oltóviasz
+Rendeltetés: Fasebkezelő és oltóviasz
+Hatóanyag összetétel: 450 g/kg denaturált szesz, 233 g/kg fenyőgyanta, 103 g/kg marhafaggyú, 39,5 g/kg méhviasz, 21 g/kg növényolaj, 3,5 g/kg vas(III)-oxid (hematit)
+Felhasználásra vonatkozó előírások:
+díszcserjék, díszfák (nem használható citromfák szemzésénél), fák, szőlő: 
+Károsító: metszési felületek kezelése, metszési felületek lezárása, oltásnál keletkezett sebek lezárása, sérülési felületek kezelése, sérülési felületek lezárása, vágási felületek kezelése, vágási felületek lezárása
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/20857-1/2019
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2029-12-31
+Tulajdonos: Szolvegy Vegyipari Kft
+Altalános adatok:
+Magyarországi forgalmazó: Szolvegy Vegyipari Kft.
+Készítmény gyártó: Szolvegy Kft.
+Formuláció: paszta (PA)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 100 g, 200 g, 1 l, 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >7060 mg/ ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H226Tűzveszélyes folyadék és gőz.
+H317Allergiás bőrreakciót válthat ki.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P210Hőtől, forró felületektől, szikrától, nyílt lángtól és más gyújtóforrástól távol tartandó. Tilos a dohányzás.
+P233Az edény szorosan lezárva tartandó.
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P370 + P378 - ABC por, CO2Tűz esetén: Az oltáshoz ABC porral oltó, vagy szén-dioxiddal oltó használandó
+P403 + P235Jól szellőző helyen tárolandó. Hűvös helyen tartandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

@@ -1,0 +1,59 @@
+Név: Cuprablau Z 35 WP
+Rendeltetés: Gombaölő permetezőszer
+Hatóanyag összetétel: 615 g/kg rézoxiklorid
+Felhasználásra vonatkozó előírások:
+burgonya: 3 kg/ha
+Károsító: alternáriás betegségek, burgonyavész, levélfoltosság
+Lémennyiség: 350-700 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom: 3 kg/ha
+Károsító: alternáriás betegségek, paradicsomvész
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+konzerv: 3 kg/ha
+Károsító: alternáriás betegségek, paradicsomvész
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 3 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 700-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, birs, naspolya, körte: 3 kg/ha
+Károsító: varasodás, gombás betegségek (kivéve lisztharmat), baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás)
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kajszibarack, őszibarack, nektarin: 3 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), tafrinás betegségek
+Lémennyiség: 350-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/746-1/2017
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-03-31
+Tulajdonos: CINKARNA-Metalursko Kemicna Celje d.d
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Cinkarna
+Formuláció: nedvesíthető por (WP)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 kg 5 kg, 10 kg, 25 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

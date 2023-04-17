@@ -1,0 +1,37 @@
+Név: Biobest parazita fonálféreg
+Rendeltetés: élő állat
+Hatóanyag összetétel: Phasmarhabditis hermaphrodita, Steinernema feltiae (EN05)
+Felhasználásra vonatkozó előírások:
+dísznövények, fűszernövények (hajtatás), paprika, paradicsom: 15-50 mill. db/100 m2
+Károsító: dohánytripsz (Thrips tabaci), gombaszúnyog, nyugati virágtripsz (Steinernema feltiae)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények (hajtatás), fűszernövények (szabadföld), paprika, paradicsom: 30 mill. db/100 m2
+Károsító: meztelen csiga (Arion spp.), meztelen csiga (Deroceras spp.)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/6352-1/2012
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2023-03-11
+Tulajdonos: Árpád Biokontroll Kft
+Altalános adatok:
+Magyarországi forgalmazó: Árpád Biokontroll 2003 Kft.
+Készítmény gyártó: Biobest NV.
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: Steinernema feltiae: 50 millió/tasak; Phasmarhabditis hermaphrodita: 30 millió/tasak
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet

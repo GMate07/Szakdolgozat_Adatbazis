@@ -1,0 +1,50 @@
+Név: Agrideal-Tiben 55
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 150 g/kg tribenuron-metil, 400 g/kg tifenszulfuron-metil
+Felhasználásra vonatkozó előírások:
+árpa, búza (őszi), rozs, tritikále: 40-60 g/ha
+Károsító: magról kelő kétszikű gyomok, mezei aszat (Cirsium arvense)
+Lémennyiség: 200-250 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+zab: 40-60 g/ha
+Károsító: magról kelő kétszikű gyomok, mezei aszat (Cirsium arvense)
+Lémennyiség: 200-250 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/438-1/2022
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2032-10-31
+Tulajdonos: Rotam Agrochemical Europe. Ltd.
+Tulajdonos hazai képviselője: Dr. Selmeczi József
+Altalános adatok:
+Magyarországi forgalmazó: AgriDeal Kft.
+Készítmény gyártó: Rotam Agrochem. Co. Ltd.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 60 g, 120 g, 200 g, 400 g, 500 g, 800 g
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+Spe 3 - NatiusA vízi szervezetek védelme érdekében a felszíni vizektől 20 m távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél-növények védelme érdekében a nem mezőgazdasági földterülettől 10 m távolságban tartson meg egy kezeletlen biztonsági övezetet! 50%-os elsodródás csökkentő szórófej alkalmazása esetén 5 m kezeletlen biztonsági övezet megtartása szükséges!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H373Ismétlődő vagy hosszabb expozíció esetén károsíthatja a szerveket > vagy meg kell adni az összes érintett szervet, ha ismertek >.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P260A por/füst/gáz/köd/gőzök/permet belélegzése tilos.
+P314Rosszullét esetén orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

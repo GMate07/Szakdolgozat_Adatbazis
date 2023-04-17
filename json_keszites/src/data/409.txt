@@ -1,0 +1,138 @@
+Név: Cyperkill Max PL
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 500 g/l cipermetrin
+Felhasználásra vonatkozó előírások:
+árpa, búza, rozs, zab: 50 ml/ha
+Károsító: gabonapoloska, levéltetű, vetésfehérítő bogár
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab (száraz), borsó (száraz), csillagfürt, lencse: 50 ml/ha
+Károsító: gyapottok bagolylepke, levéltetű, ormányosbogarak, tripsz
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+zöldbab, zöldborsó: 50 ml/ha
+Károsító: gyapottok bagolylepke, levéltetű, ormányosbogarak, tripsz
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+pasztinák, petrezselyem, sárgarépa, zeller: 50 ml/ha
+Károsító: levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+feketegyökér, retek: 50 ml/ha
+Károsító: földibolha, káposztalégy
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bimbós kel, brokkoli, fejes káposzta, karfiol: 50 ml/ha
+Károsító: bagolylepke, hernyók, levéltetű
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsmustár, endívia, saláta: 50 ml/ha
+Károsító: bagolylepke, levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fűszernövények: 50 ml/ha
+Károsító: rágókártevők, szívókártevők
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények: 30-150 ml/ha
+Károsító: rágókártevők, szívókártevők
+Lémennyiség: 400-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (csemege), kukorica (takarmány): 100-150 ml/ha
+Károsító: bagolylepke, kukoricabogár, kukoricamoly
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce, mustár: 50 ml/ha
+Károsító: levéltetű, ormányosbogarak, repcebolha, repcedarázs, repcefénybogár
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 49 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 50-60 ml/ha
+Károsító: levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cékla, cukorrépa, takarmányrépa: 50 ml/ha
+Károsító: bagolylepke, levéltetű, lisztes répabarkó, répabolha
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+len: 50 ml/ha
+Károsító: lenbolha, lentripsz
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 49 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, mogyoróhagyma, póréhagyma, vöröshagyma: 50 ml/ha
+Károsító: dohánytripsz (Thrips tabaci), hagymalégy, hagymamoly
+Lémennyiség: 400-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/3545-1/2020
+Engedély típusa: Párhuzamos engedély
+Engedély érvényessége: 2022-02-28
+Tulajdonos: Nitrogénművek Vegyipari Zrt.
+Tulajdonos hazai képviselője: UPL Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Nitrogénművek Zrt.
+Készítmény gyártó: Arysta LifeScience Benelux Sprl.
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 100 ml, 200 ml, 250 ml, 500 ml, 1 l, 5 l, 10 l, 20 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 30 mA vízi szervezetek védelme érdekében a felszíni vizektől 30 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPe 8 - VeszélyesMéhekre veszélyes! / Tilos méhek közelében felhasználni! Méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem használható.
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H226Tűzveszélyes folyadék és gőz.
+H304Lenyelve és a légutakba kerülve halálos lehet.
+H315Bőrirritáló hatású.
+H318Súlyos szemkárosodást okoz.
+H332Belélegezve ártalmas.
+H335Légúti irritációt okozhat.
+H336Álmosságot vagy szédülést okozhat.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P210Hőtől, forró felületektől, szikrától, nyílt lángtól és más gyújtóforrástól távol tartandó. Tilos a dohányzás.
+P271Kizárólag szabadban vagy jól szellőző helyiségben használható.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P303 + P361 + P353HA BŐRRE (vagy hajra) KERÜL: Az összes szennyezett ruhadarabot azonnal le kell vetni. A bőrt le kell öblíteni vízzel/zuhanyozás.
+P308 + P311Expozíció vagy annak gyanúja esetén: Forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli (3. védelmi osztályú), védőruha (4. típusú), védőszemüveg (3-as jelölésű)
+Védőfelszerelés kijuttatóknak: védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli (3. védelmi osztályú), védőruha (4. típusú), védőszemüveg (3-as jelölésű)

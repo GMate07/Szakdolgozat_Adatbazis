@@ -1,0 +1,35 @@
+Név: Eminent Star
+Rendeltetés: Gombaölő permetezőszer
+Hatóanyag összetétel: 250 g/l klórtalonil, 62,5 g/l tetrakonazol
+Felhasználásra vonatkozó előírások:
+búza (őszi): 1,8-2 l/ha
+Károsító: lisztharmat, pirenofórás betegségek (levélbetegségek), rozsda betegségek (levélbetegségek), szeptóriás betegségek (levélbetegségek)
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi): 1,8-2 l/ha
+Károsító: alternáriás betegségek, fehérpenész, fómás betegségek, szürkepenész
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/4047-1/2014
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2019-11-20
+Tulajdonos: Isagro S.p.A.
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: Isagro
+Formuláció: szuszpoé-emulzió (szilárd részecskék stabil vizes diszperziója) (SE)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

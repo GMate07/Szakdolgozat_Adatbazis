@@ -1,0 +1,55 @@
+Név: Emblem
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 200 g/kg bromoxinil
+Felhasználásra vonatkozó előírások:
+kukorica (csemege), kukorica (takarmány), kukorica (vetőmag): 1,2-1,5 kg/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+vöröshagyma: 1 kg/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 786/2006.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2021-03-14
+Tulajdonos: Nufarm GmbH.
+Tulajdonos hazai képviselője: Nufarm Hungária Kft.
+Türelmi idő kereskedőknek: 2021-07-14
+Türelmi idő felhasználóknak: 2021-09-14
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Nufarm
+Formuláció: baktériumos nedvesíthető poralakú permetezőszer (WP)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,5 kg, 1,0kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1889 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 50 mA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H361dFeltehetően károsítja a születendő gyermeket.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P304 + P341BELÉLEGZÉS ESETÉN: Légzési nehézségek esetén az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: félálarc (FFP3), védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

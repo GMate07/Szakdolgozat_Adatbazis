@@ -1,0 +1,56 @@
+Név: Agrideal-Flufen 500
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 500 g/l flufenacet
+Felhasználásra vonatkozó előírások:
+búza (őszi): 0,24-0,3 l/ha
+Károsító: nagy széltippan (Apera spica-venti)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+búza (őszi): 0,24-0,35 l/ha
+Károsító: nagy széltippan (Apera spica-venti)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2143-2/2022
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2023-08-31
+Tulajdonos: INNVIGO Sp. z o.o.
+Altalános adatok:
+Magyarországi forgalmazó: AgriDeal Kft.
+Készítmény gyártó: INNVIGO Sp. z o.o.
+Formuláció: szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 250 ml; 275 ml; 312 ml; 318 ml; 323 ml; 500 ml; 550 ml; 570 ml; 575 ml; 580 ml; 585 ml;1 l; 1,1 l; 1150 ml; 1160 ml; 1170 ml; 1185 ml; 1200 ml; 5 l; 5,5 l; 5850 ml; 5880 ml; 5950 ml; 10 l; 20 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 300 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - 10 mA vízi szervezetek védelme érdekében a felszíni vizektől 10 m távolságban tartson meg egy nem permetezett biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H317Allergiás bőrreakciót válthat ki.
+H373Ismétlődő vagy hosszabb expozíció esetén károsíthatja a szerveket > vagy meg kell adni az összes érintett szervet, ha ismertek >.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: védőkesztyű
+Védőfelszerelés mezőgazdasági dolgozóknak: védőkesztyű

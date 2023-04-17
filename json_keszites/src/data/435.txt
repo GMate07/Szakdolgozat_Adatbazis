@@ -1,0 +1,120 @@
+Név: Dessicash 20 SL - állományszárítás
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 374 g/l diquat-dibromid
+Felhasználásra vonatkozó előírások:
+napraforgó, napraforgó (vetőmag): 1,5-2 l/ha
+Károsító: állományszárítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+pohánka: 2 l/ha
+Károsító: állományszárítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: A készítménnyel kezelt kultúrnövény betakarítása után a visszamaradó növényi részeket takarmányozás céljára felhasználni tilos!
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Igen
+bíborhere (vetőmag): 2,5-3,5 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: A készítménnyel kezelt kultúrnövény betakarítása után a visszamaradó növényi részeket takarmányozás céljára felhasználni tilos!
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Igen
+alexandriai here (vetőmag): 3-4 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: A készítménnyel kezelt kultúrnövény betakarítása után a visszamaradó növényi részeket takarmányozás céljára felhasználni tilos!
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Igen
+borsó (takarmány): 2-3 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+magrépa: 2,5-3,5 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+fehérhere (vetőmag), lucerna (vetőmag), vöröshere (vetőmag): 4 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+káposztarepce (őszi), mustár, olajretek: 1,5-2 l/ha
+Károsító: állományszárítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+lencse: 2-2,5 l/ha
+Károsító: állományszárítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+kukorica (vetőmag): 2-2,5 l/ha
+Károsító: állományszárítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+burgonya (vető): 4-5 l/ha
+Megjegyzés a dózishoz: osztott kezelés: 2,5+2,5 l/ha (nagy lombozatú fajtáknál)
+Károsító: lombtalanítás
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+facélia (vetőmag): 1,5-2 l/ha
+Károsító: állományszárítás
+Lémennyiség: 300-400 l/ha légi: 50-60 l/ha (legalább 10 ha összefüggő területen,cseppnehezítő adalékanyag kötelező hozzáadásával)
+Élelmezés-egészségügyi várakozási idő: A készítménnyel kezelt kultúrnövény betakarítása után a visszamaradó növényi részeket takarmányozás céljára felhasználni tilos!
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 6300/571-2/2022
+Engedély típusa: Szükséghelyzeti engedély
+Engedély érvényessége: 2022-05-25 - 2022-09-21
+Ügyfél: Magyar Növényvédő Mérnöki és Növényorvosi Kamara
+Tulajdonos: Sharda Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Sharda Hungary Kft.
+Készítmény gyártó: Sharda Cropchem Ltd.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l; 5 l; 20 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 500 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Dessicash 20 SLA vízi szervezetek védelme érdekében a felszíni vizektől 5 m (hidastraktorral végzett kezelés esetén 25 m, légi kezelés esetén 50 m) távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél-növények védelme érdekében a nem mezőgazdasági földterülettől 5 m (hidastraktorral végzett kezelés esetén 25 m, légi kezelés esetén 50 m), más mezőgazdasági kultúráktól 10 m (hidastraktorral végzett kezelés esetén 50 m, légi kezelés esetén 100 m) távolságban tartson meg egy kezeletlen bizt. öv-t
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H314Súlyos égési sérülést és szemkárosodást okoz.
+H317Allergiás bőrreakciót válthat ki.
+H330Belélegezve halálos.
+H335Légúti irritációt okozhat.
+H372Ismétlődő vagy hosszabb expozíció esetén károsítja a szerveket.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P260A por/füst/gáz/köd/gőzök/permet belélegzése tilos.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P284[Nem megfelelő szellőzés esetén] légzésvédelem kötelező. gyártó/szállító határozza meg a védőfelszerelést. — a szögletes zárójelek között szereplő szöveg akkor használható, ha a vegyi anyaghoz a felhasználási ponton kiegészítő tájékoztatást mellékelnek, amely kifejti, hogy a biztonságos használat érdekében milyen szellőztetést kell alkalmazni.”
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P303 + P361 + P353HA BŐRRE (vagy hajra) KERÜL: Az összes szennyezett ruhadarabot azonnal le kell vetni. A bőrt le kell öblíteni vízzel/zuhanyozás.
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: légzésvédő (A1P2), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (4. típusú), védőszemüveg (3-as jelölésű)
+Védőfelszerelés kijuttatóknak: légzésvédő félálarc (A1P3), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (4. típusú), védőszemüveg (3-as jelölésű)

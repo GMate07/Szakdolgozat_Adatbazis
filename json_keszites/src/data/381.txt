@@ -1,0 +1,47 @@
+Név: Cruiser 70 WS
+Rendeltetés: Csávázószer
+Hatóanyag összetétel: 700 g/kg tiametoxam
+Felhasználásra vonatkozó előírások:
+borsmustár (zárt termesztő berendezés), endívia (zárt termesztő berendezés), fejes saláta (zárt termesztő berendezés), jégsaláta (zárt termesztő berendezés): 80-114 g/U
+Megjegyzés a dózishoz: U = 100.000 szem mag
+Károsító: levéltetű, pattanóbogár (lárva), tripsz
+Lémennyiség: 20 l/100 000 mag
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bimbós kel (zárt termesztő berendezés), brokkoli (zárt termesztő berendezés), fejes káposzta (zárt termesztő berendezés), karalábé (zárt termesztő berendezés), karfiol (zárt termesztő berendezés), kelkáposzta (zárt termesztő berendezés), kínai kel (zárt termesztő berendezés), leveles kel (zárt termesztő berendezés), vöröskáposzta (zárt termesztő berendezés): 200 g/U
+Károsító: káposzta levéltetű, pattanóbogár (lárva), tripsz
+Lémennyiség: 20-40 l/100 000 mag
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 16369/2003.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-04-30
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: vízben diszpergálható por, csávázás céljára (WS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 900 g
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1987 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H228Tűzveszélyes szilárd anyag.
+H302Lenyelve ártalmas.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P210Hőtől, forró felületektől, szikrától, nyílt lángtól és más gyújtóforrástól távol tartandó. Tilos a dohányzás.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

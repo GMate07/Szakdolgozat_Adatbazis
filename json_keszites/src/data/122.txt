@@ -1,0 +1,77 @@
+Név: Attack
+Rendeltetés: Rovarölő csávázószer
+Hatóanyag összetétel: 200 g/l teflutrin
+Felhasználásra vonatkozó előírások:
+cukorrépa: 60 ml/U
+Megjegyzés a dózishoz: 1 U (unit = egység = 100 ezer szem)
+Károsító: répabolha, talajlakó kártevők (drótféreg), talajlakó kártevők (pajorok)
+Lémennyiség: 10 l/t
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (csemege), kukorica (hibrid), kukorica (takarmány): 100 ml/U
+Megjegyzés a dózishoz: 1 U (unit = egység = 100 ezer szem)
+Károsító: talajlakó kártevők (drótféreg), talajlakó kártevők (pajorok)
+Lémennyiség: 10 l/t
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa, búza, kalászosok, rozs, tritikále: 100 ml/100 kg mag
+Károsító: talajlakó kártevők (drótféreg)
+Lémennyiség: 10 l/t
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+napraforgó: 2 mikroliter/mag
+Károsító: talajlakó kártevők (drótféreg)
+Lémennyiség: 10 l/t
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/3350-2/2020
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2021-09-30
+Tulajdonos: Syngenta Crop Protection AG
+Tulajdonos hazai képviselője: Syngenta Kft.
+Türelmi idő kereskedőknek: 2022-01-31
+Türelmi idő felhasználóknak: 2024-09-30
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta Crop Protection AG
+Formuláció: mikrokapszulás szuszpenzió (CS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 20 liter, 200 liter, 1000 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: teflutrin: 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H317Allergiás bőrreakciót válthat ki.
+H332Belélegezve ártalmas.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P271Kizárólag szabadban vagy jól szellőző helyiségben használható.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P304 + P340 + P312BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni. Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ vagy orvoshoz.
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés (csávázás): arcvédő, szemvédő, védőkesztyű, védőruha
+Védőfelszerelés (vetés): arcvédő, félálarc (FFP2), szemvédő, védőkesztyű, védőruha

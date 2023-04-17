@@ -1,0 +1,35 @@
+Név: Cera Trap
+Rendeltetés: Cseresznyelégy szignalizációs csapda
+Hatóanyag összetétel: 25 g/kg ammónium-acetát, 55 g/kg fehérjék (hidralizált)
+Felhasználásra vonatkozó előírások:
+cseresznye, meggy: 4 db/ültetvény
+Károsító: cseresznyelégy (Rhagoletis cerasi)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2135-3/2020
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2030-09-30
+Tulajdonos: Pro-Feed Kft.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Bioiberica S.A.
+Formuláció: hígítatlan formában kijutatott folyadék (AL)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 1 l, 5 l, 20 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2500 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SPe 8 - VeszélyesMéhekre veszélyes! / Tilos méhek közelében felhasználni! Méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem használható.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

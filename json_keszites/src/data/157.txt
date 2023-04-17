@@ -1,0 +1,75 @@
+Név: Basamid G
+Rendeltetés: Talajfertőtlenítő szer
+Hatóanyag összetétel: 965 g/kg dazomet
+Felhasználásra vonatkozó előírások:
+dísznövények (palántanevelő ágyak), dohány (palántanevelő ágyak), zöldségfélék (palántanevelő ágyak): 250 g/m3
+Károsító: cserebogár (lárva), csírázó gyommagvak, drótféreg, fonálféreg (szabadon élő), gyökérgubacs fonálféreg, kórokozó talajgombák, mocskospajor, növényparazita fonálféreg, talajlakó kártevők
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+díszfák (iskola), dísznövények (szabadföld), erdészeti csemetekert, gyógynövények, gyümölcsiskola, szőlő (iskola), zöldségfélék (szabadföld): 50-60 g/m2
+Károsító: cserebogár (lárva), csírázó gyommagvak, drótféreg, fonálféreg (szabadon élő), gyökérgubacs fonálféreg, kórokozó talajgombák, mocskospajor, növényparazita fonálféreg, talajlakó kártevők
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (zárt termesztő berendezés), zöldségfélék (zárt termesztő berendezés): 50-60 g/m2
+Károsító: cserebogár (lárva), csírázó gyommagvak, drótféreg, fonálféreg (szabadon élő), gyökérgubacs fonálféreg, kórokozó talajgombák, mocskospajor, növényparazita fonálféreg, talajlakó kártevők
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+gyümölcsfélék, komló, szőlő: 40-100 g/m2
+Károsító: cserebogár (lárva), csírázó gyommagvak, drótféreg, fonálféreg (szabadon élő), gyökérgubacs fonálféreg, kórokozó talajgombák, mocskospajor, növényparazita fonálféreg, talajlakó kártevők
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 14.887/1977.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-05-31
+Tulajdonos: Kanesho Soil Treatment SPRL/BVBA
+Tulajdonos hazai képviselője: UPL Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: UPL Hungary Kft.
+Készítmény gyártó: Kanesho Soil Treatment SPR/BV
+Formuláció: granulátum (GR)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,6 kg; 5 kg; 20 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: dazomet: 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 596 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 3 - 50 mA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H315Bőrirritáló hatású.
+H317Allergiás bőrreakciót válthat ki.
+H319Súlyos szemirritációt okoz.
+H335Légúti irritációt okozhat.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P262Szembe, bőrre vagy ruhára nem kerülhet.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P284[Nem megfelelő szellőzés esetén] légzésvédelem kötelező. gyártó/szállító határozza meg a védőfelszerelést. — a szögletes zárójelek között szereplő szöveg akkor használható, ha a vegyi anyaghoz a felhasználási ponton kiegészítő tájékoztatást mellékelnek, amely kifejti, hogy a biztonságos használat érdekében milyen szellőztetést kell alkalmazni.”
+P312Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: por elleni védőszemüveg, védőkalap, védőkesztyű, védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: védőkalap, védőkesztyű, védőlábbeli, védőruha

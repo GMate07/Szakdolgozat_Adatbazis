@@ -1,0 +1,56 @@
+Név: Eco-Film
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 96 % pinolén
+Felhasználásra vonatkozó előírások:
+gyógynövények, gyümölcsfélék, szántóföldi kultúrák, szőlő, zöldségfélék: 0,2-0,3 l/ha
+Károsító: hatásfokozás, tapadásfokozás
+Lémennyiség: 0,05 % 800 l/ha feletti permetlé adag esetén
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/154-2/2015
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-03-09
+Tulajdonos: Miller Chemical & Fertilizer Corporation
+Altalános adatok:
+Magyarországi forgalmazó: Farmmix Csoport
+Készítmény gyártó: MILLER Chemical & Fertilizer Corporation
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 10 ml, 50 ml, 100 ml, 200 ml, 500 ml, 1 l, 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 38Bőrizgató hatású
+R 43Bőrrel érintkezve túlérzékenységet okozhat (szenzibilizáló hatású lehet)
+R 50/53Nagyon mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat
+S-mondatok: S 2Gyermekek kezébe nem kerülhet
+S 24/25Kerülni kell a bőrrel való érintkezést és a szembejutást
+S 35Az anyagot és az edényzetét megfelelő módon ártalmatlanítani kell
+S 37Megfelelő védőkesztyűt kell viselni
+S 57A környezetszennyezés elkerülésére megfelelő edényzetet kell használni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 50 mA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H315Bőrirritáló hatású.
+H317Allergiás bőrreakciót válthat ki.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P273Kerülni kell az anyagnak a környezetbe való kijutását.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P362 + P364A szennyezett ruhadarabot le kell vetni és újbóli használat előtt ki kell mosni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

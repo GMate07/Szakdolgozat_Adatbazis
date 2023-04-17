@@ -1,0 +1,41 @@
+Név: Celest Trio
+Rendeltetés: Csávázószer (gombaölő)
+Hatóanyag összetétel: 10 g/l tebukonazol, 25 g/l difenokonazol, 25 g/l fludioxonil
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi), rozs, tritikále, zab: 1-2 l/t
+Károsító: csírakori betegségek
+Lémennyiség: 10-25 l/t
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/5171-1/2011
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2027-08-31
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta A.G.
+Formuláció: vizes szuszpenzió koncentrátum csávázás céljára (FS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 5 l, 20 l, 50 l, 200 l, 1000 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: difenokonazol: 
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kalászosok[2]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kalászosok[2]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Kalászosok[2]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Kalászosok[2]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés (csávázás): védőkesztyű

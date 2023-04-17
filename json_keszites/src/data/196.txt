@@ -1,0 +1,59 @@
+Név: Bio-Film Ultra
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 197,2 g/l etoxilált szójabab olaj, 345,1 g/l polioxietilén-szorbitán-monooleát
+Felhasználásra vonatkozó előírások:
+szántóföldi kultúrák: 0,3-0,5 l/ha
+Károsító: kártevők (állománypermetezés), kórokozók (állománypermetezés)
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+dísznövények, gyümölcsfélék, szőlő, zöldségfélék: 0,3-0,5 l/ha
+Károsító: kártevők (állománypermetezés), kórokozók (állománypermetezés)
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+szántóföldi kultúrák: 0,5 l/ha
+Károsító: gyomok (posztemergens)
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+napraforgó, káposztarepce: 0,5 l/ha
+Károsító: állományszárítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+dísznövények, gyümölcsfélék, szőlő, zöldségfélék: 0,5 l/ha
+Károsító: gyomok (posztemergens)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+mezőgazdaságilag nem művelt területek: 0,5 l/ha
+Károsító: gyomok (posztemergens)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 04.2/889-3/2018
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2028-06-22
+Tulajdonos: Merhav Agro Ltd.
+Altalános adatok:
+Magyarországi forgalmazó: Adama Hungary Zrt.
+Készítmény gyártó: KALO Inc.
+Formuláció: emulzióképző koncentrátum (EC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,2 l, 1 l, 5 l, 20 l, 200 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Kockázat alapú besorolás folyamatban
+Méhkímélő technológia: Nem

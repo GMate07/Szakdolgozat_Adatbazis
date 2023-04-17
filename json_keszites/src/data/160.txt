@@ -1,0 +1,41 @@
+Név: Basis 75 DF
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 25 % tifenszulfuron-metil, 50 % rimszulfuron
+Felhasználásra vonatkozó előírások:
+kukorica (áru), kukorica (siló), kukorica (takarmány): 15-25 g/ha
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok, magról kelő egyszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 24761/1997.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2021-11-30
+Tulajdonos: DuPont Magyarország Kft.
+Türelmi idő kereskedőknek: 2022-06-30
+Türelmi idő felhasználóknak: Eltarthatósági idő végéig
+Altalános adatok:
+Magyarországi forgalmazó: Corteva
+Készítmény gyártó: DuPont
+Formuláció: vízoldható granulátum (SG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 60 g
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/kg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 50/53Nagyon mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 35Az anyagot és az edényzetét megfelelő módon ártalmatlanítani kell
+S 57A környezetszennyezés elkerülésére megfelelő edényzetet kell használni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Basis 75 DFA vízi szervezetek védelme érdekében a felszíni vizektől 5 méter távolságban tartson meg egy nem permetezett biztonsági övezetet! A nem cél-növények védelme érdekében a nem mezőgazdasági földterülettől 1 méter távolságban tartson meg egy nem permetezett biztonsági övezetet!
+Védőfelszerelés előkészítőknek: por elleni védőszemüveg, védőkalap, védőkesztyű, védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: sav elleni védőszemüveg, védőkalap, védőkesztyű, védőlábbeli, védőruha

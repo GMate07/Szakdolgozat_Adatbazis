@@ -1,0 +1,49 @@
+Név: Difeno 3 FS
+Rendeltetés: Csávázószer (gombaölő)
+Hatóanyag összetétel: 30 g/l difenokonazol
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi), rozs, tritikále: 2 l/t
+Károsító: gombás betegségek (csírakori betegségek)
+Lémennyiség: 10-12 l/tonna
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/5029-1/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-12-31
+Tulajdonos: Sharda Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Sharda Hungary Kft.
+Készítmény gyártó: Sharda Cropchem Ltd.
+Formuláció: vizes szuszpenzió koncentrátum csávázás céljára (FS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter, 5 liter, 20 liter, 600 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: difenokonazol: 
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kalászosok[2]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kalászosok[2]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Kalászosok[2]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Kalászosok[2]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 5A madarak/vadon élő emlősök védelme érdekében a növényvédő szert teljes egészében be kell dolgozni a talajba! Ügyeljen arra, hogy a szer a sorok végén is teljes egészében be legyen dolgozva!
+SPe 6A madarak/vadon élő emlősök védelme érdekében távolítsa el a véletlenül kiömlött növényvédő szert!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P273Kerülni kell az anyagnak a környezetbe való kijutását.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés (csávázás): védőkesztyű
+Védőfelszerelés (vetés): védőkesztyű

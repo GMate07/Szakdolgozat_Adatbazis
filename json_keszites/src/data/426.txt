@@ -1,0 +1,66 @@
+Név: Delprima 050 CS
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 50 g/l deltametrin
+Felhasználásra vonatkozó előírások:
+káposztarepce (őszi): 0,1 l/ha
+Károsító: nagy repceormányos, repcebecő-ormányos, repcefénybogár, repceszár-ormányos
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 45 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+búza (őszi): 0,1 l/ha
+Károsító: levéltetű, vetésfehérítő bogár
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1719-2/2020
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2024-11-13
+Tulajdonos: Innvigo Sp. z o.o.
+Altalános adatok:
+Magyarországi forgalmazó: Völgység Agrár Kft.
+Készítmény gyártó: Innvigo Sp. z o.o.
+Formuláció: mikrokapszulás szuszpenzió (CS)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 100 ml, 250 ml, 500 ml, 1 liter, 5 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: deltametrin: 
+Horizontális ültetvény: Almatermésűek[T]Csonthéjasok, héjasok[7]Bogyósok[T]Szőlő[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+Spe 3 - DelCapsA vízi szervezetek védelme érdekében a felszíni vizektől 75%-os elsodródás csökkentő szórófej használata mellett 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem-cél ízeltlábúak védelme érdekében a nem mezőgazdasági földterülettől 30 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPe 8 - VeszélyesMéhekre veszélyes! / Tilos méhek közelében felhasználni! Méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem használható.
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H315Bőrirritáló hatású.
+H319Súlyos szemirritációt okoz.
+H332Belélegezve ártalmas.
+H334Belélegezve allergiás és asztmás tüneteket, és nehéz légzést okozhat.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P271Kizárólag szabadban vagy jól szellőző helyiségben használható.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P310Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P332 + P313Bőrirritáció esetén: orvosi ellátást kell kérni.
+P337 + P313Ha a szemirritáció nem múlik el: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, légzésvédő (A1P2), szemvédő, védőkesztyű
+Védőfelszerelés kijuttatóknak: légzésvédő (A1P2), védőkesztyű

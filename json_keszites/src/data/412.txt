@@ -1,0 +1,50 @@
+Név: Dacor
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 287,5 g/l etofenprox
+Felhasználásra vonatkozó előírások:
+káposztarepce (őszi): 0,2 l/ha
+Károsító: nagy repceormányos, repcebecő-ormányos, repcefénybogár, repceszár-ormányos
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/130-3/2020
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2022-12-31
+Tulajdonos: Certis Europe B.V.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Mitsui Chemicals Agro Inc.
+Formuláció: emulzióképző koncentrátum (EC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Trebon OSRA vízi szervezetek védelme érdekében a felszíni vizektől 30 m távolságban tartson meg egy kezeletlen biztonsági övezetet, amelyből legalább 10 m növényzettel borított zárt gyep!
+SPe 8 - VeszélyesMéhekre veszélyes! / Tilos méhek közelében felhasználni! Méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem használható.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H304Lenyelve és a légutakba kerülve halálos lehet.
+H315Bőrirritáló hatású.
+H318Súlyos szemkárosodást okoz.
+H336Álmosságot vagy szédülést okozhat.
+H362A szoptatott gyermeket károsíthatja.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P260A por/füst/gáz/köd/gőzök/permet belélegzése tilos.
+P263A terhesség/szoptatás alatt kerülni kell az anyaggal való érintkezést.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P330 + P331LENYELÉS ESETÉN: a szájat ki kell öblíteni. TILOS hánytatni.
+P305 + P351 + P338 + P310SZEMBE KERÜLÉS ESETÉN: óvatos öblítés vízzel több percen keresztül. Adott esetben kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása. Azonnal forduljon orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű

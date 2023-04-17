@@ -1,0 +1,91 @@
+Név: Encarit
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 720 g/l dimeténamid-P
+Felhasználásra vonatkozó előírások:
+kukorica (takarmány): 1-1,4 l/ha
+Károsító: magról kelő egyszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+kukorica (takarmány): 1,4 l/ha
+Károsító: magról kelő egyszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+cukorrépa: 1-1,2 l/ha
+Károsító: magról kelő egyszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+cukorrépa: 1 l/ha
+Károsító: magról kelő egyszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+cukorrépa: 0,6 l/ha
+Megjegyzés a dózishoz: 1. kezelés
+Károsító: magról kelő egyszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+cukorrépa: 0,4 l/ha
+Megjegyzés a dózishoz: 2. kezelés
+Károsító: magról kelő egyszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+napraforgó, szója: 1-1,4 l/ha
+Károsító: magról kelő egyszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/4419-2/2018
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2023-12-31
+Tulajdonos: BASF S.E.
+Tulajdonos hazai képviselője: BASF Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Corteva
+Készítmény gyártó: BASF
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 200 ml; 1 liter; 5 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1581 mg/kg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 10 mA vízi szervezetek védelme érdekében a felszíni vizektől 10 m távolságban tartson meg egy nem permetezett biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H315Bőrirritáló hatású.
+H317Allergiás bőrreakciót válthat ki.
+H319Súlyos szemirritációt okoz.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P312 + P330LENYELÉS ESETÉN: Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ vagy orvoshoz. A szájat ki kell öblíteni.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P337 + P313Ha a szemirritáció nem múlik el: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

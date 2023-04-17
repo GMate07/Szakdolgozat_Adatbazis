@@ -1,0 +1,49 @@
+Név: Cruiser 350 FS
+Rendeltetés: Csávázószer
+Hatóanyag összetétel: 350 g/l tiametoxam
+Felhasználásra vonatkozó előírások:
+aszparágusz fajok, cikász fajok, gyompálma, könnyező pálma, szobaciprus, szobafenyő: 0,4 ml/100 db mag
+Károsító: tőzeglégy (lárva)
+Lémennyiség: 40 ml/100 db mag
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 16368/2003.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-04-30
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: vizes szuszpenzió koncentrátum csávázás céljára (FS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 l, 20 l, 200 l, 1000 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >3000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 5A madarak/vadon élő emlősök védelme érdekében a növényvédő szert teljes egészében be kell dolgozni a talajba! Ügyeljen arra, hogy a szer a sorok végén is teljes egészében be legyen dolgozva!
+SPe 6A madarak/vadon élő emlősök védelme érdekében távolítsa el a véletlenül kiömlött növényvédő szert!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 066Ismétlődő expozíció a bőr kiszáradását vagy megrepedezését okozhatja.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H317Allergiás bőrreakciót válthat ki.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

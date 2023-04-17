@@ -1,0 +1,6 @@
+Név: NULLRendeltetés: NULLHatóanyag összetétel: NULLFelhasználásra vonatkozó előírások:
+NULLEngedélyokirat:
+NULLAltalános adatok:
+NULLAgrár-környezet gazdálkodásban engedélyezve:
+NULLVeszélyességre, biztonságra vonatkozó előírások:
+NULL

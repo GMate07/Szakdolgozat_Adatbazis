@@ -1,0 +1,55 @@
+Név: Elumis
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 30 g/l nikoszulfuron, 75 g/l mezotrion
+Felhasználásra vonatkozó előírások:
+kukorica (takarmány), kukorica (vetőmag): 1,3-2 l/ha
+Károsító: fenyércirok (Sorghum halepense), magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+kukorica (takarmány), kukorica (vetőmag): 1+0,7 l/ha
+Megjegyzés a dózishoz: osztott kezelés
+Károsító: fenyércirok (Sorghum halepense), magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 02.5/1495/5/2008
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2023-09-30
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: olaj alapú szuszpenzió koncentrátum (OD)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 12x1 liter; 4x5 liter; 1x20 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: mezotrion: 
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kukorica[T]Ipari növények[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kukorica[T]Ipari növények[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Kukorica[T]Ipari növények[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Kukorica[T]Ipari növények[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/kg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 38Bőrizgató hatású
+R 50/53Nagyon mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 24/25Kerülni kell a bőrrel való érintkezést és a szembejutást
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 61Kerülni kell az anyag környezetbe jutását. Speciális adatokat kell kérni/biztonsági adatlap
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - ElumisA vízi szervezetek védelme érdekében a felszíni vizektől 20m távolságban tartson meg egy nem permetezett biztonsági övezetet! A nem cél-növények védelme érdekében a nem mezőgazdasági földterülettől 5m távolságban tartson meg egy nem permetezett biztonsági övezetet! A nem cél növények védelme érdekében a nem mezőgazdasági földterülettől a biztonsági övezet megtartása mellett elsodródás csökkentő szórófej használata javasolt.
+SPo 2Használat után minden védőruházatot ki kell mosni.
+Védőfelszerelés előkészítőknek: arcvédő (3-as jelölésű), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (6. típusú), védőszemüveg (3-as jelölésű)
+Védőfelszerelés kijuttatóknak: arcvédő (3-as jelölésű), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (6. típusú), védőszemüveg (3-as jelölésű)

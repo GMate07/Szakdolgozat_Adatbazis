@@ -1,0 +1,72 @@
+Név: Delta Super
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 25 g/l deltametrin
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi), rozs, tritikále, zab: 0,1-0,2 l/ha
+Károsító: levéltetű, vetésfehérítő bogár
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce, mustár: 0,2-0,3 l/ha
+Károsító: repcebecő-ormányos, repcefénybogár, repceszár-ormányos
+Lémennyiség: 200-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 45 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1122-1/2011.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2027-10-31
+Tulajdonos: Sharda Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Farmmix Csoport
+Készítmény gyártó: Sharda Cropchem Ltd.
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 50 ml, 1 liter, 5 liter.
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: deltametrin: 
+Horizontális ültetvény: Almatermésűek[T]Csonthéjasok, héjasok[7]Bogyósok[T]Szőlő[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 500 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Delta SuperA vízi szervezetek védelme érdekében a felszíni vizektől 30 m távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél ízeltlábúak védelme érdekében a nem mezőgazdasági földterülettől 20 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPe 8 - Delta SuperMéhekre veszélyes! A méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem alkalmazható! Tilos méhek közelében felhasználni! Virágzó gyomnövények jelenléte esetén nem alkalmazható! Mézharmat jelenléte esetén nem alkalmazható!
+H-mondatok: EUH 066Ismétlődő expozíció a bőr kiszáradását vagy megrepedezését okozhatja.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H226Tűzveszélyes folyadék és gőz.
+H302Lenyelve ártalmas.
+H304Lenyelve és a légutakba kerülve halálos lehet.
+H318Súlyos szemkárosodást okoz.
+H332Belélegezve ártalmas.
+H335Légúti irritációt okozhat.
+H336Álmosságot vagy szédülést okozhat.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P210Hőtől, forró felületektől, szikrától, nyílt lángtól és más gyújtóforrástól távol tartandó. Tilos a dohányzás.
+P233Az edény szorosan lezárva tartandó.
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P271Kizárólag szabadban vagy jól szellőző helyiségben használható.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P303 + P361 + P353HA BŐRRE (vagy hajra) KERÜL: Az összes szennyezett ruhadarabot azonnal le kell vetni. A bőrt le kell öblíteni vízzel/zuhanyozás.
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P391A kiömlött anyagot össze kell gyűjteni.
+P403 + P235Jól szellőző helyen tárolandó. Hűvös helyen tartandó.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkesztyű, védőszemüveg
+Védőfelszerelés kijuttatóknak: védőkesztyű

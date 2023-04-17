@@ -1,0 +1,48 @@
+Név: Buzz Ultra DF
+Rendeltetés: Gombaölő permetezőszer
+Hatóanyag összetétel: 750 g/kg tebukonazol
+Felhasználásra vonatkozó előírások:
+búza (őszi), búza (tavaszi): 0,33 kg/ha
+Károsító: helmintospóriumos betegségek (levélbetegségek), kalászfuzáriumos betegségek, lisztharmat, pirenofórás betegségek (levélbetegségek), rozsda betegségek, szeptóriás betegségek
+Lémennyiség: 200-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi): 0,33 kg/ha
+Károsító: leptoszfériás betegségek, szklerotíniás betegségek
+Lémennyiség: 200-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/163-1/2018
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2027-11-30
+Tulajdonos: Helm AG
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: Sulphur Mills Ltd.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,5 kg, 0,66 kg, 1 kg, 1,66 kg, 5 kg, 10 kg, 25 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H361dFeltehetően károsítja a születendő gyermeket.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

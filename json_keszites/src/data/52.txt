@@ -1,0 +1,72 @@
+Név: Elastiq Ultra
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 456 g/l karboxilált-sztirol -1,3 butadién, 71 g/l alkohol alkoxilát
+Felhasználásra vonatkozó előírások:
+káposztarepce (őszi): 0,5-1 l/ha
+Károsító: kipergéscsökkentés
+Lémennyiség: 60-80 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+mustár: 0,5-1 l/ha
+Károsító: kipergéscsökkentés
+Lémennyiség: 60-80 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+szója: 0,5-1 l/ha
+Károsító: kipergéscsökkentés
+Lémennyiség: 60-80 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+borsó: 0,5-1 l/ha
+Károsító: kipergéscsökkentés
+Lémennyiség: 60-80 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+napraforgó: 1-1,5 l/ha
+Károsító: kipergéscsökkentés
+Lémennyiség: 60-80 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+mezőgazdasági kultúrák: 0,35-0,5 l/ha
+Károsító: elsodródásgátlás
+Lémennyiség: a felhasznált növényvédőszer engedélyokirata szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 04.2/1541-3/2014
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-08-28
+Tulajdonos: UPL Holdings Coöperatief U.A.
+Tulajdonos hazai képviselője: UPL Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: UPL Hungary Kft.
+Készítmény gyártó: De Sangosse Ltd.
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Elastiq UltraA vízi szervezetek védelme érdekében a felszíni vizektől 20 m (hidastraktorral végzett és légi kezelés esetén 40 m) távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél-növények és a nem cél ízeltlábúak védelme érdekében a nem mezőgazdasági földterülettől a légi kezelés esetén 20 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H318Súlyos szemkárosodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P312Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű, védőruha

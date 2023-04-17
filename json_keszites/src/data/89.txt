@@ -1,0 +1,116 @@
+Név: Aphox
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 500 g/kg pirimikarb
+Felhasználásra vonatkozó előírások:
+árpa, búza (őszi), rozs, tritikále, zab: 0,25-0,3 kg/ha
+Károsító: levéltetű
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+napraforgó: 0,25-0,3 kg/ha
+Károsító: levéltetű
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+mák: 0,5 kg/ha
+Károsító: levéltetű
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+alma, birs, körte, naspolya: 0,35-0,5 kg/ha
+Károsító: levéltetű
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+őszibarack: 0,8 kg/ha
+Károsító: levéltetű
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+paprika, paradicsom, uborka: 0,35-0,5 kg/ha
+Károsító: levéltetű
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+fejes káposzta (fehér), fejes káposzta (vörös), kelbimbó: 0,35-0,5 kg/ha
+Károsító: levéltetű
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+kelkáposzta, kínai kel: 0,4 kg/ha
+Károsító: levéltetű
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+saláta: 0,35-0,5 kg/ha
+Károsító: levéltetű
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+cukorrépa: 0,25-0,3 kg/ha
+Károsító: levéltetű
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+dohány: 0,25-0,3 kg/ha
+Károsító: levéltetű
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/93-2/2019.
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2024-12-31
+Tulajdonos: Adama Hungary Zrt.
+Altalános adatok:
+Magyarországi forgalmazó: UPL Hungary Kft.
+Készítmény gyártó: Syngenta A.G.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 10 g, 50 g, 200 g, 1 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: pirimikarb: 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 87 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 40 mA vízi szervezetek védelme érdekében a felszíni vizektől 40 m távolságban tartson meg egy kezeletlen, növényzettel borított (lehetőleg zárt gyep) biztonsági övezetet!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H301Lenyelve mérgező.
+H319Súlyos szemirritációt okoz.
+H332Belélegezve ártalmas.
+H351Feltehetően rákot okoz .
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P271Kizárólag szabadban vagy jól szellőző helyiségben használható.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, légzésvédő (A1P2), légzésvédő (FFA1P2SL), szemvédő, védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, légzésvédő (A1P2), légzésvédő (FFA1P2SL), szemvédő, védőkesztyű, védőruha

@@ -1,0 +1,48 @@
+Név: Avalon
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 400 g/l pirimetanil
+Felhasználásra vonatkozó előírások:
+szőlő (bor), szőlő (csemege): 2-2,5 l/ha
+Károsító: szürkepenész
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 5 nap
+Légi kijuttatás: Nem
+alma, körte: 1-1,125 l/ha
+Károsító: varasodás
+Lémennyiség: 700-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/3099-1/2022.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2027-04-30
+Tulajdonos: Galenika-Fitofarmacija d.o.o.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Galenika-Fitofarmacija a.d.
+Formuláció: szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 60 ml, 100 ml, 150 ml, 250 ml, 500 ml, 1 l, 5 l, 10 l, 20 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - AvalonA vízi szervezetek védelme érdekében felszíni vizektől szőlőben 10 m, gyümölcsösben 20 m (75%-os elsodródás csökkentő szórófej alkalmazása esetén 10 m) távolságban tartson meg egy kezeletlen, növényzettel borított (zárt gyep) biztonsági övezetet!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: munkaruha, védőkesztyű
+Védőfelszerelés kijuttatóknak: munkaruha, védőkesztyű
+Védőfelszerelés mezőgazdasági dolgozóknak: munkaruha, védőkesztyű

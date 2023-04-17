@@ -1,0 +1,44 @@
+Név: Barclay Propyz
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 400 g/l propizamid
+Felhasználásra vonatkozó előírások:
+káposztarepce (őszi): 1,9-2,1 l/ha
+Károsító: árvakelés (búza (őszi)), ebszékfű, évelő egyszikű gyomok, magról kelő egyszikű gyomok, magról kelő kétszikű gyomok, nagy széltippan, pásztortáska, piros árvacsalán, sebforrasztó zsombor, tarackbúza, veronika fajok
+Lémennyiség: 200-250 l/ha
+Élelmezés-egészségügyi várakozási idő: 180 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2524-1/2022
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-06-30
+Tulajdonos: Barclay Chemicals R&D Ltd.
+Altalános adatok:
+Magyarországi forgalmazó: Adama Hungary Zrt.
+Készítmény gyártó: Barclay Chemicals Manufacturing Ltd.
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter, 5 liter, 10 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 3 - Barcley PropyzA vízi szervezetek védelme érdekében felszíni vizektől 20 m távolságban tartson meg egy kezeletlen, növényzettel borított (zárt gyep) biztonsági övezetet! A nem-cél növények védelme érdekében a nem mezőgazdasági földterülettől 5 m (75%-os elsodródás csökkentő szórófej alkalmazása esetén 0 m) távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H351Feltehetően rákot okoz .
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: munkaruha, védőkesztyű
+Védőfelszerelés kijuttatóknak: munkaruha, védőkesztyű

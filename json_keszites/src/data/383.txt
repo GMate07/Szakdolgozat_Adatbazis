@@ -1,0 +1,46 @@
+Név: Cruiser OSR 322 FS
+Rendeltetés: Csávázószer
+Hatóanyag összetétel: 280 g/l tiametoxam, 33,3 g/l metalaxil-M, 8 g/l fludioxonil
+Felhasználásra vonatkozó előírások:
+fejes saláta (tápkockákban nevelt): 0,1-0,15 %
+Megjegyzés a dózishoz: palánta beöntözéssel, bemártással
+Károsító: cserebogár (lárva), levéltetű, pattanóbogár (lárva), talajlakó kártevők, tripsz
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+aszparágusz fajok (zárt termesztő berendezés), cikász fajok (zárt termesztő berendezés), gyompálma (zárt termesztő berendezés), könnyező pálma (zárt termesztő berendezés), szobaciprus (zárt termesztő berendezés), szobafenyő (zárt termesztő berendezés), szobanövények (magról szaporított) (zárt termesztő berendezés): 0,5 ml/100 db mag
+Megjegyzés a dózishoz: fito-drip, vetéssel egymenetben végzett magkezelés
+Károsító: csírakori betegségek, tőzeglégy (lárva)
+Lémennyiség: 20 ml/100 db mag
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 35761/2001.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-04-30
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: vizes szuszpenzió koncentrátum csávázás céljára (FS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 l, 20 l, 200 l, 1000 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >3000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg, légzésvédő (FFA1P2SL)

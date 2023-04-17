@@ -1,0 +1,47 @@
+Név: Equation Contact
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 62,5 g/kg famoxadon, 625 g/kg mankoceb
+Felhasználásra vonatkozó előírások:
+szőlő: 0,8 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/622/1/2007.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2021-07-04
+Tulajdonos: DuPont Magyarország Kft.
+Türelmi idő kereskedőknek: 2021-10-04
+Türelmi idő felhasználóknak: 2022-01-04
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: DuPont
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 10 g, 50 g, 80 g, 160 g, 200 g, 400 g, 800 g, 1,6 kg,
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 43Bőrrel érintkezve túlérzékenységet okozhat (szenzibilizáló hatású lehet)
+R 50/53Nagyon mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat
+R 63A születendő gyermeket károsíthatja
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 24/25Kerülni kell a bőrrel való érintkezést és a szembejutást
+S 35Az anyagot és az edényzetét megfelelő módon ártalmatlanítani kell
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 46Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 57A környezetszennyezés elkerülésére megfelelő edényzetet kell használni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 10 mA vízi szervezetek védelme érdekében a felszíni vizektől 10 m távolságban tartson meg egy nem permetezett biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű, védőruha

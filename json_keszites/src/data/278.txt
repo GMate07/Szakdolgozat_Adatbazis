@@ -1,0 +1,126 @@
+Név: Champion WG
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 770 g/kg rézhidroxid
+Felhasználásra vonatkozó előírások:
+szőlő (bor), szőlő (csemege): 2 kg/ha
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+gyökérzöldségek, pasztinák, petrezselyem, sárgarépa, zeller: 2 kg/ha
+Károsító: alternáriás betegségek (levélbetegségek), baktériumos betegségek (levélbetegségek), cerkospórás betegségek (levélbetegségek), gombás betegségek (levélbetegségek)
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsmustár (hajtatás), endívia (hajtatás), fejes káposzta (hajtatás), salátafélék (hajtatás), vörös saláta (hajtatás): 0,2 %
+Károsító: peronoszpóra
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), cukkini (szabadföld), uborka (hajtatás), uborka (szabadföld): 2-3 kg/ha
+Károsító: alternáriás betegségek, baktériumos betegségek, fenésedés, gombás betegségek, kolletotrichumos betegségek, peronoszpóra
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab (zöld), borsó (zöld), zöldbab, zöldborsó: 2 kg/ha
+Károsító: aszkohitás betegségek, baktériumos betegségek, fenésedés, gombás betegségek, kolletotrichumos betegségek, peronoszpóra, szeptóriás betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 2 kg/ha
+Károsító: alternáriás betegségek, baktériumos betegségek, burgonyavész
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, almatermésűek, birs, körte, naspolya: 2 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), tűzelhalás, varasodás
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, kajszibarack, mandula, meggy, őszibarack, szilva: 2 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), sztigminás betegségek (levéllyukacsosodás), tafrinás betegségek
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (szabadföld): 2 kg/ha
+Károsító: alternáriás betegségek, baktériumos betegségek, fenésedés, fitoftórás betegségek, gombás betegségek, kolletotrichumos betegségek, pszeudomonászos betegségek
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+díszcserjék (hajtatás), díszfák (hajtatás), dísznövények (hajtatás): 0,2 %
+Károsító: –
+Lémennyiség: 300-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+komló: 2 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 800-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom (hajtatás), tojásgyümölcs (hajtatás): 2-3 kg/ha
+Károsító: alternáriás betegségek, baktériumos betegségek, fenésedés, fitoftórás betegségek, gombás betegségek, kolletotrichumos betegségek, pszeudomonászos betegségek
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap (feldolgozás esetén 10)
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, hagymafélék, mogyoróhagyma, vöröshagyma: 2 kg/ha
+Károsító: alternáriás betegségek, baktériumos betegségek, fenésedés, gombás betegségek, peronoszpóra, sztemfíliumos betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+díszcserjék, díszfák, dísznövények: 2 kg/ha
+Károsító: baktériumos betegségek (levélbetegségek), gombás betegségek (levélbetegségek)
+Lémennyiség: 600-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/13206-1/2019
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-03-29
+Tulajdonos: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: Nufarm GmbH & Co KG
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 20 g 100 g, 150 g, 200 g, 500 g, 1 kg; 5 kg; 10 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 893 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Mérsékelten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 8 - Champion WGMéhekre veszélyes! Virágzó kultúrában a méhek napi aktív gyűjtési időszaka idején nem alkalmazható! Virágzó gyomnövények vagy mézharmat jelenléte esetén méhkímélő technológiában alkalmazható!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H318Súlyos szemkárosodást okoz.
+H400Nagyon mérgező a vízi élővilágra.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P310Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P330A szájat ki kell öblíteni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű

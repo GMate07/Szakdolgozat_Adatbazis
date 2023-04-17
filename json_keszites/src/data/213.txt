@@ -1,0 +1,61 @@
+Név: Biola-agro növényápoló szer
+Rendeltetés: Növényápoló szer
+Hatóanyag összetétel: 500 g/l napraforgó olaj
+Felhasználásra vonatkozó előírások:
+almatermésűek, csonthéjasok: 3-5 %
+Károsító: levéltetű, pajzstetű, szennyeződések távoltartása (vegetáció előtt), takácsatka
+Lémennyiség: A kultúrában alkalmazott lémennyiség szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+almatermésűek, csonthéjasok: 1,5-2 %
+Károsító: levéltetű, pajzstetű, szennyeződések távoltartása (vegetáció előtt), takácsatka
+Lémennyiség: A kultúrában alkalmazott lémennyiség szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bogyós gyümölcsűek, héjas gyümölcsűek: 1,5-2 %
+Károsító: levéltetű, pajzstetű, szennyeződések távoltartása, takácsatka
+Lémennyiség: A kultúrában alkalmazott lémennyiség szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények, fűszernövények, gyógynövények, zöldségfélék: 1,5-2 %
+Károsító: levéltetű, szennyeződések távoltartása
+Lémennyiség: A kultúrában alkalmazott lémennyiség szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szántóföldi kultúrák: 1,5-2 %
+Károsító: levéltetű, szennyeződések távoltartása
+Lémennyiség: A kultúrában alkalmazott lémennyiség szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/10776-2/2010
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2031-12-01
+Tulajdonos: Idea-Chem Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Idea-Chem Kft.
+Készítmény gyártó: Idea-Chem Kft.
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 0,25l, 1l, 5l, 10l, 20l, 60l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/kg
+Vízi veszélyesség: Mérsékelten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+R-mondatok: R 52/53Ártalmas a vízi szervezetekre, a vízi környezetben hosszantartó károsodást okozhat
+S-mondatok: S 2Gyermekek kezébe nem kerülhet
+S 24/25Kerülni kell a bőrrel való érintkezést és a szembejutást
+S 26Ha szembe jut, bő vízzel azonnal ki kell mosni és orvoshoz kell fordulni
+S 57A környezetszennyezés elkerülésére megfelelő edényzetet kell használni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 20 mA vízi szervezetek védelme érdekében a felszíni vizektől 20 m távolságban tartson meg egy kezeletlen, növényzettel borított (zárt gyep) biztonsági övezetet!
+SPe 8 - VeszélyesMéhekre veszélyes! / Tilos méhek közelében felhasználni! Méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem használható.

@@ -1,0 +1,58 @@
+Név: Capitol
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 133 g/l tebukonazol, 267 g/l prokloráz
+Felhasználásra vonatkozó előírások:
+búza (őszi), rozs, tritikále: 1-1,5 l/ha
+Károsító: kalászbetegségek, levélbetegségek
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi): 1-1,25 l/ha
+Károsító: alternáriás betegségek, fehérpenész, fómás betegségek
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+napraforgó: 1-1,25 l/ha
+Károsító: alternáriás betegségek, diaportés betegségek, fehérpenész, fómás betegségek, szürkepenész
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/14188-2/2019
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2021-12-31
+Tulajdonos: Nufarm Hungária Kft.
+Türelmi idő kereskedőknek: 2022-06-30
+Türelmi idő felhasználóknak: 2023-06-30
+Altalános adatok:
+Magyarországi forgalmazó: Farmmix Csoport
+Készítmény gyártó: Adama Makhteshim Ltd.
+Formuláció: olajemulzió vizes fázisban (EW)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter, 5 liter, 10 liter, 20 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/kg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 36Szemizgató hatású
+R 63A születendő gyermeket károsíthatja
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 24/25Kerülni kell a bőrrel való érintkezést és a szembejutást
+S 35Az anyagot és az edényzetét megfelelő módon ártalmatlanítani kell
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 45Baleset vagy rosszullét esetén azonnal orvost kell hívni. Ha lehetséges, a címkét meg kell mutatni.
+S 57A környezetszennyezés elkerülésére megfelelő edényzetet kell használni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+Védőfelszerelés előkészítőknek: arcvédő (3-as jelölésű), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (4. típusú)
+Védőfelszerelés kijuttatóknak: arcvédő (3-as jelölésű), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (4. típusú)

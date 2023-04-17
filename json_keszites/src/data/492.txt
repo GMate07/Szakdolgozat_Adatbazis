@@ -1,0 +1,35 @@
+Név: Effect
+Rendeltetés: Adalékanyag
+Hatóanyag összetétel: 0,5 % poliakrilamid, 30 % karbamid, 40 % ammónium-nitrát
+Felhasználásra vonatkozó előírások:
+árpa (őszi), búza (őszi), kukorica, napraforgó: 2 l/ha
+Károsító: hatásfokozás (posztemergens gyomirtó szerekhez)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (őszi), búza (őszi), kukorica, napraforgó: 3 l/ha
+Károsító: elsodródásgátlás
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/552-5/2013
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2029-05-31
+Tulajdonos: Sharda Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Sharda Hungary Kft.
+Készítmény gyártó: Creres s.r.o.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter; 5 liter; 10 liter; 20 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/kg
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

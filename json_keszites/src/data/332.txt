@@ -1,0 +1,41 @@
+Név: Collis SC
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 100 g/l krezoxim-metil, 200 g/l boszkalid
+Felhasználásra vonatkozó előírások:
+uborka (szabadföld): 0,3-0,4 l/ha
+Károsító: lisztharmat
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+uborka (hajtatás): 0,05-0,06 %
+Károsító: lisztharmat
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 0,3-0,4 l/ha
+Károsító: lisztharmat, szürkepenész
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/1334/2/2007.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-12-31
+Tulajdonos: BASF S.E.
+Altalános adatok:
+Magyarországi forgalmazó: BASF Hungária Kft.
+Készítmény gyártó: BASF
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Kockázat alapú besorolás folyamatban
+Méhkímélő technológia: Nem

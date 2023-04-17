@@ -1,0 +1,35 @@
+Név: Emendo F
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 480 g/kg folpet, 60 g/kg valifenal
+Felhasználásra vonatkozó előírások:
+szőlő (bor): 2 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 200-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (bor): 2 kg/ha
+Károsító: szürkepenész
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/14227-2/2019
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2024-06-30
+Tulajdonos: Belchim Crop Protection N.V.
+Altalános adatok:
+Magyarországi forgalmazó: Belchim Crop Protection Hungary Kft.
+Készítmény gyártó: S.T.I Solfotecnica Italiana SpA
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1kg, 5kg, 10 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

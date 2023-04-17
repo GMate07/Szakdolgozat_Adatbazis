@@ -1,0 +1,97 @@
+Név: Corprima 20 SC
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 200 g/l klorantraniliprol
+Felhasználásra vonatkozó előírások:
+burgonya: 50-60 ml/ha
+Károsító: burgonyabogár
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+birs, körte, naspolya: 0,125-0,2 l/ha
+Károsító: almamoly, körtemoly (Cydia pyrivora), sodrómolyok
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+birs, körte, naspolya: 0,16-0,2 l/ha
+Károsító: aknázómolyok
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (bor), szőlő (csemege): 0,15-0,175 l/ha
+Károsító: szőlőmoly
+Lémennyiség: 400-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (csemege): 0,1-0,125 l/ha
+Károsító: kukoricamoly
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (csemege): 0,125-0,15 l/ha
+Károsító: gyapottok bagolylepke
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (takarmány), kukorica (vetőmag): 0,125-0,15 l/ha
+Károsító: gyapottok bagolylepke
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (takarmány), kukorica (vetőmag): 0,1-0,125 l/ha
+Károsító: kukoricamoly
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma: 0,125-0,2 l/ha
+Károsító: almamoly, sodrómolyok
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma: 0,16-0,2 l/ha
+Károsító: aknázómolyok
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/3238-2/2020.
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2026-11-30
+Tulajdonos: FMC-Agro Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: FMC International Switzerland Sárl
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 2,5 ml, 5 ml, 10 ml, 20 ml, 50 ml, 200 ml, 1 liter, 5 liter.
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: klorantraniliprol: 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - Coragen 20 SCA vízi szervezetek védelme érdekében a felszíni vizektől kukorica és burgonya kultúráknál 5 m, almaültetvény esetében 20 m távolságban tartson meg egy nem permetezett biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű (3. védelmi osztályú), védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű (3. védelmi osztályú), védőruha, védőszemüveg

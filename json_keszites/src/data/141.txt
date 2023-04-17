@@ -1,0 +1,49 @@
+Név: Bagani
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 125 g/l tetrakonazol
+Felhasználásra vonatkozó előírások:
+árpa, búza, rozs, tritikále, zab: 0,8-1 l/ha
+Károsító: kalászfuzáriumos betegségek, lisztharmat, pirenofórás betegségek, rozsda betegségek, szeptóriás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 42 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 0,8 l/ha
+Károsító: cerkospórás betegségek, lisztharmat
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 45 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/400-1/2017.
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2024-05-31
+Tulajdonos: Isagro S.p.A.
+Tulajdonos hazai képviselője: Staphyt Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Belchim Crop Protection Hungary Kft.
+Készítmény gyártó: Isagro S.p.A.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 4090 mg/kg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 20/22Belélegezve és lenyelve ártalmas
+R 36Szemizgató hatású
+R 38Bőrizgató hatású
+R 51/53Mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat.
+S-mondatok: S 1/2Elzárva és gyermekek számára hozzáférhetetlen helyen tartandó
+S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 24/25Kerülni kell a bőrrel való érintkezést és a szembejutást
+S 26Ha szembe jut, bő vízzel azonnal ki kell mosni és orvoshoz kell fordulni
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 46Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

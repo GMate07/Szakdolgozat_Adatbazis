@@ -1,0 +1,53 @@
+Név: Agrideal-Timet 75
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 68 g/kg metszulfuron-metil, 682 g/kg tifenszulfuron-metil
+Felhasználásra vonatkozó előírások:
+árpa (őszi), búza (őszi), rozs, tritikále: 60-70 g/ha
+Károsító: magról kelő kétszikű gyomok, mezei aszat (Cirsium arvense)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (tavaszi): 60 g/ha
+Károsító: magról kelő kétszikű gyomok, mezei aszat (Cirsium arvense)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (őszi), árpa (tavaszi), búza (őszi): 35 g/ha
+Megjegyzés a dózishoz: csak kombinációban
+Károsító: magról kelő kétszikű gyomok, mezei aszat (Cirsium arvense)
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/437-1/2022
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2026-11-30
+Tulajdonos: Rotam Agrochemical Europe. Ltd.
+Tulajdonos hazai képviselője: Dr. Selmeczi József
+Altalános adatok:
+Magyarországi forgalmazó: AgriDeal Kft.
+Készítmény gyártó: Rotam Agrochem. Co. Ltd.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 350 g
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 5000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - ErgonA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél-növények védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (6. típusú), védőszemüveg (3. típusú)
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (6. típusú), védőszemüveg (3. típusú)

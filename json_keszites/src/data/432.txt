@@ -1,0 +1,52 @@
+Név: Delu pocokriasztó szer
+Rendeltetés: Riasztó szer
+Hatóanyag összetétel: 800 g/kg kalcium-karbid
+Felhasználásra vonatkozó előírások:
+erdészet (csemetekert), faiskola, gyümölcsös, legelő, mezőgazdaságilag nem művelt területek, rét, szántóföldi kultúrák, szőlő, zöldségfélék: 5 g/lakott járat
+Károsító: kósza pocok, mezei pocok
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+erdészet (csemetekert), faiskola, gyümölcsös, legelő, mezőgazdaságilag nem művelt területek, rét, szántóföldi kultúrák, szőlő, zöldségfélék: 20 g/lakott járat
+Károsító: vakond
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/13713-2/2019
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2029-01-31
+Tulajdonos: Detia Freyberg GmbH.
+Altalános adatok:
+Magyarországi forgalmazó: Bio-Kalibra Környezetgazdálkodási Mérnöki Tanácsadó Kft.
+Készítmény gyártó: Detia Freyberg GmbH.
+Formuláció: gázfejlesztő szer (GE)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 150 g; 250 g; 500 g; 50 db, egyenként 5 g granulátum
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): korrozív anyag, nem mérhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H260Vízzel érintkezve öngyulladásra hajlamos tűzveszélyes gázokat bocsát ki.
+H314Súlyos égési sérülést és szemkárosodást okoz.
+H335Légúti irritációt okozhat.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P260A por/füst/gáz/köd/gőzök/permet belélegzése tilos.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P303 + P361 + P353HA BŐRRE (vagy hajra) KERÜL: Az összes szennyezett ruhadarabot azonnal le kell vetni. A bőrt le kell öblíteni vízzel/zuhanyozás.
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P310Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P370 + P378 - CO2/oltóporTűz esetén: Az oltáshoz oltásra szén-dioxid vagy száraz oltópor használandó.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű, védőruha

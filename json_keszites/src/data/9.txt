@@ -1,0 +1,44 @@
+Név: Actirob B
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 842 g/l repceolaj
+Felhasználásra vonatkozó előírások:
+kukorica: 1-2 l/ha
+Károsító: hatásfokozás (szulfonil karbamid típusú gyomirtó szerekhez)
+Lémennyiség: a felhasznált növényvédőszer engedélyokirata szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (őszi), árpa (tavaszi), búza (őszi), rozs, tritikále, zab: 1-2 l/ha
+Károsító: hatásfokozás (szulfonil karbamid típusú gyomirtó szerekhez)
+Lémennyiség: a felhasznált növényvédőszer engedélyokirata szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2477-1/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-12-06
+Tulajdonos: Oleon N.V.
+Altalános adatok:
+Magyarországi forgalmazó: OLEON N.V.
+Készítmény gyártó: Oleon N.V.
+Formuláció: emulzióképző koncentrátum (EC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 5 l, 15 l, 20 l, 200 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): -
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

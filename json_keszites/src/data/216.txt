@@ -1,0 +1,84 @@
+Név: Bioline fürkészdarázs
+Rendeltetés: Makroszervezet
+Hatóanyag összetétel: Encarsia Formosa
+Felhasználásra vonatkozó előírások:
+cukkini, dísznövények (cserepes), dísznövények (vágott), fűszernövények, hüvelyesek, paprika, paradicsom, sárgadinnye, tojásgyümölcs: 1-2 egyed/m2
+Megjegyzés a dózishoz: APHILINE:
+Károsító: uborka levéltetű, zöld őszibarack levéltetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, dísznövények (cserepes), dísznövények (vágott), fűszernövények, paprika, paradicsom, tojásgyümölcs, uborka: 3-5 egyed/m2
+Megjegyzés a dózishoz: ERETLINE:
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+rózsa: 20-30 egyed/m2
+Megjegyzés a dózishoz: ERETLINE:
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+mikulásvirág: 5-10 egyed/m2
+Megjegyzés a dózishoz: ERETLINE:
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, dísznövények (cserepes), dísznövények (vágott), fűszernövények, paprika, paradicsom, sárgadinnye, tojásgyümölcs, uborka: 1,5-3 egyed/m2
+Megjegyzés a dózishoz: ENCARLINE: megelőzésre:
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, dísznövények (cserepes), dísznövények (vágott), fűszernövények, paprika, paradicsom, sárgadinnye, tojásgyümölcs, uborka: 3-5 egyed/m2
+Megjegyzés a dózishoz: ENCARLINE: erős fertőzéskor:
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, dísznövények (cserepes), dísznövények (vágott), fűszernövények, paprika, paradicsom, sárgadinnye, tojásgyümölcs, uborka: 1,5-3 egyed/m2
+Megjegyzés a dózishoz: ENCARLINE MIX: megelőzésre:
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, dísznövények (cserepes), dísznövények (vágott), fűszernövények, paprika, paradicsom, sárgadinnye, tojásgyümölcs, uborka: 3-5 egyed/m2
+Megjegyzés a dózishoz: ENCARLINE MIX: erős fertőzéskor:
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1800-2/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2029-03-31
+Tulajdonos: Bioline AgroSciences Ltd
+Altalános adatok:
+Magyarországi forgalmazó: KITE Zrt.
+Készítmény gyártó: Bioline AgroSciences Ltd.
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: –
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+Védőfelszerelés kijuttatóknak: védőkesztyű

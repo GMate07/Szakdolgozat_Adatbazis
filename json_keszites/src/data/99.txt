@@ -1,0 +1,50 @@
+Név: Argos
+Rendeltetés: Növekedésszabályozó készítmény
+Hatóanyag összetétel: 843,2 g/l narancsolaj
+Felhasználásra vonatkozó előírások:
+burgonya (tárolt): 100 ml/t
+Megjegyzés a dózishoz: meleg ködképzéssel vagy hideg párásítással
+Károsító: kihajtásgátlás
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1056-1/2021
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-07-31
+Tulajdonos: Arysta LifeScience Benelux Sprl.
+Tulajdonos hazai képviselője: UPL Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: UPL Hungary Kft.
+Készítmény gyártó: Arysta LifeScience Benelux Sprl.
+Formuláció: meleg ködképző és hideg párásító berendezésben alkalmazható koncentrátum (HN, KN)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 liter; 10 liter; 20 liter, 200 liter, 500 liter, 1000 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Igen
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H226Tűzveszélyes folyadék és gőz.
+H315Bőrirritáló hatású.
+H317Allergiás bőrreakciót válthat ki.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P210Hőtől, forró felületektől, szikrától, nyílt lángtól és más gyújtóforrástól távol tartandó. Tilos a dohányzás.
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P273Kerülni kell az anyagnak a környezetbe való kijutását.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P403 + P235Jól szellőző helyen tárolandó. Hűvös helyen tartandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

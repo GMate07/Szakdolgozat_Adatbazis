@@ -1,0 +1,48 @@
+Név: Dursban 480 EC
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 480 g/l klórpirifosz
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi), rozs, tritikále, zab: 1,5 l/ha
+Károsító: gabonalégy, levéltetű, vetésfehérítő bogár
+Lémennyiség: 300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+cukorrépa: 2 l/ha
+Károsító: bagolylepke, levéltetű
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi), mustár, olajretek: 1 l/ha
+Károsító: földibolha, repcebecő-ormányos, repcebolha, repcedarázs, repcefénybogár, repceszár-ormányos
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi), mustár, olajretek: 0,7 l/ha
+Megjegyzés a dózishoz: zéta-cipermetrin hatóanyagú, 10 EW formuiációjú szerrel kombinálva
+Károsító: földibolha, repcebecő-ormányos, repcebolha, repcedarázs, repcefénybogár, repceszár-ormányos
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 27357/1998.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-02-16
+Tulajdonos: Dow AgroSciences Hungary Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: Dow AgroSciences
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 300 mg/ttkg és &lt; 500 mg/ttkg
+Vízi veszélyesség: –
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem

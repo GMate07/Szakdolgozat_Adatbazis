@@ -1,0 +1,87 @@
+Név: Biocont élő szervezetek
+Rendeltetés: Makroszervezet
+Hatóanyag összetétel: Encarsia Formosa, Aphidius colemani, Macrolophus pygmaeus, Bombus terrestris (földi poszméh), Phytoseiulus persimilis, Orius laevigatus (ragadozó poloska), Amblyseius Swirskii
+Felhasználásra vonatkozó előírások:
+cukkini (hajtatás), cukkini (szabadföld), dísznövények (cserepes), dísznövények (vágott), fűszernövények, hüvelyesek, paprika (hajtatás), paprika (szabadföld), sárgadinnye (hajtatás), sárgadinnye (szabadföld), szamóca, tojásgyümölcs (hajtatás), tojásgyümölcs (szabadföld), uborka (hajtatás), uborka (szabadföld): 2 egyed/m2
+Megjegyzés a dózishoz: Aphidius colemani
+Károsító: uborka levéltetű, zöld őszibarack levéltetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), cukkini (szabadföld), dísznövények (cserepes), dísznövények (vágott), fűszernövények, hüvelyesek, paprika (hajtatás), paprika (szabadföld), sárgadinnye (hajtatás), sárgadinnye (szabadföld), tojásgyümölcs (hajtatás), tojásgyümölcs (szabadföld), uborka (hajtatás), uborka (szabadföld): 1,5-3 fürkészdarázs/m2
+Megjegyzés a dózishoz: Encarsia formosa megelőzésre
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), cukkini (szabadföld), dísznövények (cserepes), dísznövények (vágott), fűszernövények, hüvelyesek, paprika (hajtatás), paprika (szabadföld), sárgadinnye (hajtatás), sárgadinnye (szabadföld), tojásgyümölcs (hajtatás), tojásgyümölcs (szabadföld), uborka (hajtatás), uborka (szabadföld): 3-10 fürkészdarázs/m2
+Megjegyzés a dózishoz: Encarsia formosa nagy fertőzés esetén
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), cukkini (szabadföld), dísznövények (cserepes), dísznövények (vágott), fűszernövények, hüvelyesek, paprika (hajtatás), paprika (szabadföld), sárgadinnye (hajtatás), sárgadinnye (szabadföld), szamóca, tojásgyümölcs (hajtatás), tojásgyümölcs (szabadföld), uborka (hajtatás), uborka (szabadföld): 0,5-5 egyed/m2
+Megjegyzés a dózishoz: Macrolophus pygmaeus
+Károsító: dohány molytetű, paradicsom-aknázómoly, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), cukkini (szabadföld), dísznövények (cserepes), dísznövények (vágott), fűszernövények, hüvelyesek, paprika (hajtatás), paprika (szabadföld), sárgadinnye (hajtatás), sárgadinnye (szabadföld), szamóca, tojásgyümölcs (hajtatás), tojásgyümölcs (szabadföld), uborka (hajtatás), uborka (szabadföld): 0,5-10 egyed/m2
+Megjegyzés a dózishoz: Orius laevigatus
+Károsító: dohánytripsz (Thrips tabaci), nyugati virágtripsz, paradicsom-aknázómoly, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dinnye, dísznövények, fűszernövények, gyógynövények, paprika (hajtatás), paradicsom (hajtatás), szamóca, tojásgyümölcs (hajtatás), uborka (hajtatás): 2-50 egyed/m2
+Megjegyzés a dózishoz: Phytoseiulus persimilis
+Károsító: takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dinnye, dísznövények, fűszernövények, gyógynövények, paprika (hajtatás), paradicsom (hajtatás), szamóca, uborka (hajtatás): 20-50 egyed/m2
+Megjegyzés a dózishoz: Amblyseius swirskii
+Károsító: dohánytripsz (Thrips tabaci), nyugati virágtripsz, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+áfonya, alma, gyümölcsfélék, kajszibarack, körte, málna, őszibarack, paprika (hajtatás), paradicsom (hajtatás), sárgadinnye (hajtatás), szamóca (hajtatás), szeder, szilva, tojásgyümölcs (hajtatás), tök (hajtatás), uborka (hajtatás), zöldségfélék (hajtatás): 1 kaptár 500-2000 m2
+Megjegyzés a dózishoz: Bombus terrestris
+Károsító: terméskötődés fokozás
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2195-1/2020.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2030-07-31
+Tulajdonos: Biocont Magyarország Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Biocont Magyarország Kft.
+Készítmény gyártó: Koppert Biological Systems
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: ENPOL: 3000 egyed/kártya × 5 kártya; MACPOL: 500 egyed/ 100 ml fiola; ORIPOL: 500 vagy 2000 egyed/fiola; PHYPOL: 2000 egyed/100 ml fiola; SWIRPOL: 50000 egyed/1 l palack; APHIPOL: 1000 egyed/100 ml fiola, 5000 egyed/100 ml fiola; BOMBUPOL: méhkirálynő, 30-100 dolgozó/doboz
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): –
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

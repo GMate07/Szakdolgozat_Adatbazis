@@ -1,0 +1,89 @@
+Név: Cythrin Garden
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 10 g/l cipermetrin
+Felhasználásra vonatkozó előírások:
+burgonya: 2,5-3 l/ha
+Károsító: bagolylepke, levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+pasztinák, petrezselyem, sárgarépa, zeller: 2,5 l/ha
+Károsító: hernyók, levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+feketegyökér, retek: 2,5 l/ha
+Károsító: földibolha, káposztalégy, levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bimbós kel, brokkoli, fejes káposzta, karfiol: 2,5 l/ha
+Károsító: bagolylepke, hernyók, levéltetű
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsmustár, endívia, saláta: 2,5 l/ha
+Károsító: bagolylepke, levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fűszernövények: 2,5 l/ha
+Károsító: rágókártevők, szívókártevők
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények: 1,5-5 l/ha
+Károsító: rágókártevők, szívókártevők
+Lémennyiség: 500-1600 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cékla, cukorrépa, karórépa, takarmányrépa, tarlórépa: 2,5 l/ha
+Károsító: bagolylepke, levéltetű, lisztes répabarkó, répabolha, répalégy
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+torma: 2,5 l/ha
+Károsító: tormalevélbogarak, tormalevélbolhák
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, mogyoróhagyma, póréhagyma, vöröshagyma: 2,5 l/ha
+Károsító: dohánytripsz (Thrips tabaci), hagymalégy, hagymamoly
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorborsó, zöldbab, zöldborsó: 2,5 l/ha
+Károsító: bagolylepke, levéltetű, ormányosbogarak, tripsz
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/11112-2/2010.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2017-02-28
+Tulajdonos: Arysta LifeScience Benelux Sprl.
+Altalános adatok:
+Magyarországi forgalmazó: Arysta LifeScience Magyarország Kft.
+Készítmény gyártó: Arysta LifeScience Benelux Sprl.
+Formuláció: mikroemulzió (ME)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 20ml, 50ml, 100ml, 250ml, 500ml, 1 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: –
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem

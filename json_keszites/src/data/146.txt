@@ -1,0 +1,118 @@
+Név: Bandur
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 600 g/l aklonifen
+Felhasználásra vonatkozó előírások:
+burgonya: 3 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+dohány: 2,5 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+kapor, koriander, lestyán: 2,5 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+pasztinák: 2,5 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+mogyoróhagyma: 2,5 l/ha
+Megjegyzés a dózishoz: 1. kezelés: 1,5 l/ha (pre) 2. kezelés: 1,0 l/ha (poszt)
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+borsó (száraz): 3 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+lóbab: 3 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+sárgarépa: 2,5 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+petrezselyem (levél): 2,5 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+édeskömény: 2,5 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+zeller (gumó), zeller (levél), zeller (szár): 2,5 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+fokhagyma: 3 l/ha
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+vöröshagyma: 2,5 l/ha
+Megjegyzés a dózishoz: 1. kezelés: 1,5 l/ha (pre) 2. kezelés: 1,0 l/ha (poszt)
+Károsító: magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 90 nap
+Munkaegészségügyi várakozási idő: 1 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/3846-1/2020
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-12-31
+Tulajdonos: Bayer Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Bayer Hungária Kft.
+Készítmény gyártó: Bayer CropScience S.A.S.
+Formuláció: szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 5 l, 10 l, 15 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 5596 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - BandurA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet, melyből legalább 20 m növényzettel borított (zárt gyep)! A nem-cél növények védelme érdekében a nem mezőgazdasági földterülettől 5 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H351Feltehetően rákot okoz .
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P308 + P311Expozíció vagy annak gyanúja esetén: Forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: védőkesztyű, védőruha
+Védőfelszerelés mezőgazdasági dolgozóknak: védőkesztyű

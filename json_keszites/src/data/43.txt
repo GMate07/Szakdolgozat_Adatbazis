@@ -1,0 +1,65 @@
+Név: AgroBio Atka
+Rendeltetés: Makroszervezet
+Hatóanyag összetétel: makroszervezet(ek)
+Felhasználásra vonatkozó előírások:
+bogyós gyümölcsűek (üvegház), cukkini (hajtatás), dísznövények (hajtatás), fűszernövények (hajtatás), paprika (palánta), paradicsom (hajtatás), sárgadinnye (hajtatás), szamóca (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 20-50 egyed/m2
+Megjegyzés a dózishoz: MONcontrol
+Károsító: dohány molytetű, közönséges takácsatka, nyugati virágtripsz, paradicsom-levélatka, szélesatka, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bogyós gyümölcsűek (üvegház), cukkini (hajtatás), paprika (hajtatás), paradicsom (hajtatás), sárgadinnye (hajtatás), szamóca (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 2-6 egyed/m2
+Megjegyzés a dózishoz: PHYTOcontrol
+Károsító: takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (hajtatás), fűszernövények (szabadföld), hüvelyesek (zárt termesztő berendezés), zöldségfélék (szabadföld): 2-6 egyed/m2
+Megjegyzés a dózishoz: PHYTOcontrol
+Károsító: takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+almatermésűek, bogyós gyümölcsűek, csonthéjasok, cukkini (hajtatás), dísznövények (hajtatás), fűszernövények (hajtatás), paprika (hajtatás), paradicsom (hajtatás), sárgadinnye (hajtatás), szamóca (hajtatás), szamóca (szabadföld), tojásgyümölcs (hajtatás), uborka (hajtatás): 1-10 egyed/m2
+Megjegyzés a dózishoz: AMBLYCAcontrol
+Károsító: közönséges takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bogyós gyümölcsűek (üvegház), cukkini (hajtatás), dísznövények (hajtatás), paprika (hajtatás), sárgadinnye (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 500-1000 egyed/m2
+Megjegyzés a dózishoz: AMBLYcontrol
+Károsító: dohánytripsz (Thrips tabaci), közönséges takácsatka, nyugati virágtripsz, paradicsom-levélatka, szélesatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bogyós gyümölcsűek (üvegház), cukkini (hajtatás), dísznövények (cserepes), dísznövények (hajtatás), dísznövények (vágott), fűszernövények (hajtatás), paprika (hajtatás), sárgadinnye (hajtatás), szamóca (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 50-150 egyed/m2
+Megjegyzés a dózishoz: SWIRScontrol
+Károsító: dohány molytetű, nyugati virágtripsz, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1477-1/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-08-08
+Tulajdonos: Agrobio S.L.
+Altalános adatok:
+Magyarországi forgalmazó: Brinkman Hungary Kft.
+Készítmény gyártó: Agrobio S.L.
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: –
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

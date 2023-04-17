@@ -1,0 +1,40 @@
+Név: Drift Control
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 2 m/m% poliakrilamid, 6 m/m% monokálium-foszfát, 92 m/m% víz
+Felhasználásra vonatkozó előírások:
+szántóföldi kultúrák: 0,5 %
+Károsító: elsodródásgátlás
+Lémennyiség: A felhasznált növényvédő szer engedélyokirata szerint
+Élelmezés-egészségügyi várakozási idő: a felhasznált növényvédő szer engedélyokirata szerint
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 6300/1917-1/2021.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2031-06-30
+Tulajdonos: Miller Chemical & Fertilizer Corporation
+Tulajdonos hazai képviselője: Dr. Horn András
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: MILLER Chemical & Fertilizer Corporation
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

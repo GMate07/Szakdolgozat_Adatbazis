@@ -1,0 +1,53 @@
+Név: Encon
+Rendeltetés: Makroszervezet
+Hatóanyag összetétel: Encarsia Formosa
+Felhasználásra vonatkozó előírások:
+cukkini (hajtatás), cukkini (zárt termesztő berendezés), fűszernövények (hajtatás), fűszernövények (zárt termesztő berendezés), paprika (hajtatás), paprika (zárt termesztő berendezés), paradicsom (hajtatás), paradicsom (zárt termesztő berendezés), sárgadinnye (hajtatás), sárgadinnye (zárt termesztő berendezés), tojásgyümölcs (hajtatás), tojásgyümölcs (zárt termesztő berendezés), uborka (hajtatás), uborka (zárt termesztő berendezés), zöldségfélék (hajtatás), zöldségfélék (zárt termesztő berendezés): 1-5 egyed/m2
+Megjegyzés a dózishoz: megelőzésre 1-5, kialakult fertőzés esetén legalább 5 egyed/m2
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (zárt termesztő berendezés): 1-5 egyed/m2
+Megjegyzés a dózishoz: megelőzésre 1-5, kialakult fertőzés esetén legalább 5 egyed/m2
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szamóca (zárt termesztő berendezés): 1-5 egyed/m2
+Megjegyzés a dózishoz: megelőzésre 1-5, kialakult fertőzés esetén legalább 5 egyed/m2
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1616-1/2020
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2030-09-30
+Tulajdonos: biohelp GmbH
+Tulajdonos hazai képviselője: Bene László
+Altalános adatok:
+Magyarországi forgalmazó: biohelp GmbH
+Készítmény gyártó: –
+Formuláció: élő állat
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 500 db, 1.000 db, 3.000 db, 5.000 db, 7.500 db, 15.000 db, 100.000 db
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): –
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

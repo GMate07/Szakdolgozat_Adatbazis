@@ -1,0 +1,56 @@
+Név: Bioline poloska
+Rendeltetés: Makroszervezet
+Hatóanyag összetétel: Macrolophus pygmaeus, Orius laevigatus
+Felhasználásra vonatkozó előírások:
+paradicsom (hajtatás): 1-2 egyed/m2
+Megjegyzés a dózishoz: MACROLINE:
+Károsító: dohány molytetű, paradicsom-aknázómoly, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+dinnye (hajtatás), paprika (hajtatás), uborka (hajtatás), zöldségfélék (hajtatás): 2-3,5 egyed/m2
+Megjegyzés a dózishoz: ORILINE:
+Károsító: dohány molytetű, tripsz, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+dísznövények (cserepes), dísznövények (vágott), fűszernövények: 2-3,5 egyed/m2
+Megjegyzés a dózishoz: ORILINE
+Károsító: dohány molytetű, tripsz, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+szamóca (hajtatás): 3-4 egyed/m2
+Megjegyzés a dózishoz: ORILINE
+Károsító: dohány molytetű, tripsz, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 04.2/1801-2/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-08-01
+Tulajdonos: Bioline AgroSciences Ltd
+Altalános adatok:
+Magyarországi forgalmazó: KITE Zrt.
+Készítmény gyártó: Bioline AgroSciences Ltd.
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: –
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+Védőfelszerelés kijuttatóknak: védőkesztyű

@@ -1,0 +1,35 @@
+Név: Aceptir 200 SE
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 200 g/l acetamiprid
+Felhasználásra vonatkozó előírások:
+káposztarepce (őszi): 0,2 l/ha
+Károsító: levéltetű, repcebecő-ormányos, repcebolha, repcedarázs, repcefénybogár, repceszár-ormányos
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/544-2/2019
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2024-04-30
+Tulajdonos: INNVIGO Sp. z o.o.
+Tulajdonos hazai képviselője: Dr. Horn András
+Altalános adatok:
+Magyarországi forgalmazó: Sharda Hungary Kft.
+Készítmény gyártó: INNVIGO Sp. z o.o.
+Formuláció: szuszpo-emulzió (SE)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 100 ml; 250 ml; 500 ml; 1 liter; 5 liter; 10 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: acetamiprid: 
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 300
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

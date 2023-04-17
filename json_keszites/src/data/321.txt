@@ -1,0 +1,70 @@
+Név: Command 48 EC PL, RO
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 480 g/l klomazon
+Felhasználásra vonatkozó előírások:
+borsó, burgonya, káposztarepce (őszi): 0,15-0,2 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szója: 0,2-0,6 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+görögdinnye, mák, olajtök, paprika (palánta): 0,2 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fejes káposzta: 0,2 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/3978-2/2015; 04.2/5965-2/2015
+Engedély típusa: Párhuzamos engedély
+Engedély érvényessége: 2027-11-15
+Tulajdonos: Nitrogénművek Vegyipari Zrt.
+Altalános adatok:
+Magyarországi forgalmazó: Nitrogénművek Zrt.
+Készítmény gyártó: FMC
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 200 ml, 1 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1406 mg/kg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 10Kevésbé tűzveszélyes
+R 20/22Belélegezve és lenyelve ártalmas
+R 36/37Szemizgató hatású, izgatja a légutakat
+R 43Bőrrel érintkezve túlérzékenységet okozhat (szenzibilizáló hatású lehet)
+R 51/53Mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat.
+R 65Lenyelve ártalmas, aspiráció (idegen anyagnak a légutakba beszívása) esetén tüdőkárosodást okozhat.
+R 66Ismételt expozíció a bőr kiszáradását vagy megrepedezését okozhatja.
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 23A keletkező permetet nem szabad belélegezni.
+S 24A bőrrel való érintkezés kerülendő
+S 25Kerülni kell a szembejutást.
+S 26Ha szembe jut, bő vízzel azonnal ki kell mosni és orvoshoz kell fordulni
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 46Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 57A környezetszennyezés elkerülésére megfelelő edényzetet kell használni
+S 62Lenyelés esetén hánytatni tilos: azonnal orvoshoz kell fordulni és megmutatni az edényzetet vagy a címkét.
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 30 mA vízi szervezetek védelme érdekében a felszíni vizektől 30 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+Védőfelszerelés előkészítőknek: légzésvédő (FFA1P3SL), védőkalap, védőkesztyű, védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: légzésvédő (FFA1P3SL), védőkalap, védőkesztyű, védőlábbeli, védőruha

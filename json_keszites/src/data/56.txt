@@ -1,0 +1,56 @@
+Név: Electis 75 WG
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 667 g/kg mankoceb, 83 g/kg zoxamid
+Felhasználásra vonatkozó előírások:
+szőlő (bor), szőlő (csemege): 1,5-1,8 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 1,5-1,8 kg/ha
+Károsító: alternáriás betegségek, burgonyavész
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom, tojásgyümölcs: 1,5 kg/ha
+Károsító: alternáriás betegségek, paradicsomvész
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 36189/2001.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2021-07-04
+Tulajdonos: Gowan Comércio Internacional e Servicos Limitada
+Türelmi idő kereskedőknek: 2021-10-04
+Türelmi idő felhasználóknak: 2022-01-04
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Gowan Com. Int.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 35 g, 5,4 kg, 10 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 43Bőrrel érintkezve túlérzékenységet okozhat (szenzibilizáló hatású lehet)
+R 50/53Nagyon mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat
+R 63A születendő gyermeket károsíthatja
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 24/25Kerülni kell a bőrrel való érintkezést és a szembejutást
+S 35Az anyagot és az edényzetét megfelelő módon ártalmatlanítani kell
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 46Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 57A környezetszennyezés elkerülésére megfelelő edényzetet kell használni
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű, védőruha

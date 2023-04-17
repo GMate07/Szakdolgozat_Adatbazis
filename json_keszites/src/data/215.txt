@@ -1,0 +1,97 @@
+Név: Bioline atka
+Rendeltetés: Makroszervezet
+Hatóanyag összetétel: Amblyseius Swirskii, Phytoseiulus persimilis
+Felhasználásra vonatkozó előírások:
+dinnye (hajtatás), paprika (hajtatás), paradicsom (hajtatás), tojásgyümölcs (hajtatás), uborka (hajtatás): 6-10 egyed/m2
+Megjegyzés a dózishoz: Phytoline
+Károsító: takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+uborka (hajtatás): 100-150 egyed/m2
+Megjegyzés a dózishoz: Swirskiline
+Károsító: tripsz, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dinnye (hajtatás): 50-75 egyed/m2
+Megjegyzés a dózishoz: Swirskiline
+Károsító: tripsz, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (hajtatás): 100-150 egyed/m2
+Megjegyzés a dózishoz: Swirskiline
+Károsító: tripsz, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fűszernövények, gyógynövények, szamóca: 100-150 egyed/m2
+Megjegyzés a dózishoz: Swirskiline
+Károsító: tripsz, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+rózsa, szamóca (hajtatás): 15-20 egyed/m2
+Megjegyzés a dózishoz: Phytoline
+Károsító: takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+krizantém: 10-15 egyed/m2
+Megjegyzés a dózishoz: Phytoline
+Károsító: takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fűszernövények, gyógynövények: 6-10 egyed/m2
+Megjegyzés a dózishoz: Phytoline
+Károsító: takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (cserepes), gerbera: 100-150 egyed/m2
+Megjegyzés a dózishoz: Phytoline
+Károsító: takácsatka
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (hajtatás), paradicsom (hajtatás): 75-100 egyed/m2
+Megjegyzés a dózishoz: Swirskiline
+Károsító: tripsz, üvegházi molytetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1799-2/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-08-01
+Tulajdonos: Bioline AgroSciences Ltd
+Altalános adatok:
+Magyarországi forgalmazó: KITE Zrt.
+Készítmény gyártó: Bioline AgroSciences Ltd.
+Formuláció: élő állat
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: –
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.

@@ -1,0 +1,29 @@
+Név: Designer
+Rendeltetés: Permetezőszer segédanyag
+Hatóanyag összetétel: 256,3 g/l karboxilált-sztirol-1,3 butadién kopolimer
+Felhasználásra vonatkozó előírások:
+mezőgazdasági kultúrák: 0,14 %
+Károsító: elsodródásgátlás, hatásfokozás (atkaölő szerekhez), hatásfokozás (gombaölő szerekhez), hatásfokozás (rovarölő szerekhez), tapadásfokozás
+Lémennyiség: a felhasznált növényvédőszer engedélyokirata szerint
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/3107-1/2015 NÉBIH
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-06-18
+Tulajdonos: DE Sangosse SA
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: Loveland Products Inc.
+Formuláció: olajemulzió vizes fázisban (EW)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

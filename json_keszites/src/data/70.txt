@@ -1,0 +1,140 @@
+Név: Amega Free
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 360 g/l glifozát
+Felhasználásra vonatkozó előírások:
+szántóföldi kultúrák: 2-3 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+erdészet (duglaszfenyő) (2 évnél idősebb), erdészet (erdeifenyő) (2 évnél idősebb), erdészet (lucfenyő) (2 évnél idősebb): 3-5 l/ha
+Károsító: totális cserjeirtás, totális gyomirtás
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+erdészet (fakitermelés): 3,5 %
+Károsító: sarjhajtások
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+almatermésűek (3 évnél idősebb), csonthéjasok (3 évnél idősebb), héjas gyümölcsűek (3 évnél idősebb), szőlő (3 évnél idősebb): 2-3 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 150-200 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+almatermésűek (3 évnél idősebb), csonthéjasok (3 évnél idősebb), héjas gyümölcsűek (3 évnél idősebb), szőlő (3 évnél idősebb): 4-6 l/ha
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok
+Lémennyiség: 150-200 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+búza (őszi): 4-5 l/ha
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok
+Lémennyiség: 150-250 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+napraforgó: 3-4 l/ha
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok, magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 150-250 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce: 3-4 l/ha
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok, magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 150-250 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szója: 3-4 l/ha
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok, magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 150-250 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szántóföldi kultúrák: 4-6 l/ha
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szántóföldi kultúrák: 2-3 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+mezőgazdaságilag nem művelt területek, tarló: 2-3 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+nem művelt területek, tarló: 4-6 l/ha
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árokpartok, ipari létesítmények, mezőgazdaságilag nem művelt területek, utak, üzemanyagtöltő állomások, vasúti pályatestek, vízzel nem borított csatornák: 5-7 l/ha
+Károsító: totális cserjeirtás, totális gyomirtás
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+közterületek: 4-6 l/ha
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok, magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+gyep, legelő: 4-6 l/ha
+Károsító: totális gyomirtás
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+erdészet (összes fafaj): 3-5 l/ha
+Károsító: totális cserjeirtás, totális gyomirtás
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/48-1/2021
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2025-12-31
+Tulajdonos: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Nufarm GmbH & Co KG
+Formuláció: vízoldható koncentrátum (SL)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 500 ml, 1 liter, 5 liter, 10 liter, 15 liter, 20 liter, 25 liter, 220 liter, 1000 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: glifozát: 
+Horizontális szántó, Erózió-, Belvíz- és Aszály-érzékeny szántó: Tilos a rágcsálóirtó szerek és talajfertőtlenítő szerek alkalmazása. Kalászosok[1]Kukorica[4]Ipari növények[4]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kalászosok[1]Zöldségfélék[1]Egyéb[1]Kukorica[4]Ipari növények[4]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - Clinic FreeA vízi szervezetek védelme érdekében a felszíni vizektől 5 m (hidastraktorral végzett kezelés esetén 25 m) távolságban tartson meg egy nem permetezett biztonsági övezetet! A nem cél-növények védelme érdekében a nem mezőgazdasági földterülettől 5 m (hidastraktorral végzett kezelés esetén 25 m), más mezőgazdasági kultúráktól 10 m (hidastraktorral végzett kezelés esetén 50 m) távolságban tartson meg egy nem permetezett biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

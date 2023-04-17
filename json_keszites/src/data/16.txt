@@ -1,0 +1,57 @@
+Név: Admiral 10 EC
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 100 g/l piriproxifen
+Felhasználásra vonatkozó előírások:
+paprika (hajtatás), paradicsom (hajtatás), uborka (hajtatás): 0,5 l/ha
+Károsító: üvegházi molytetű
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+díszcserjék, díszfák, dísznövények (üvegház): 0,5 l/ha
+Károsító: teknős pajzstetű, viaszos pajzstetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/3615-1/2016
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-06-30
+Tulajdonos: Sumitomo Chemical Agro Europe S.A.S.
+Tulajdonos hazai képviselője: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Sumitomo Chemical Agro Europe S.A.S.
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,20 liter, 0,25 liter, 1 liter, 5 liter, 200 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 3773 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 8 - VeszélyesMéhekre veszélyes! / Tilos méhek közelében felhasználni! Méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem használható.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H261Vízzel érintkezve tűzveszélyes gázokat bocsát ki.
+H280Nyomás alatt lévő gázt tartalmaz; hő hatására robbanhat.
+H304Lenyelve és a légutakba kerülve halálos lehet.
+H315Bőrirritáló hatású.
+H336Álmosságot vagy szédülést okozhat.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P310 + P331LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ /orvoshoz. TILOS hánytatni.
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P312Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P332 + P313Bőrirritáció esetén: orvosi ellátást kell kérni.
+P362 + P364A szennyezett ruhadarabot le kell vetni és újbóli használat előtt ki kell mosni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

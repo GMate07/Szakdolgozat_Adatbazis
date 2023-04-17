@@ -1,0 +1,47 @@
+Név: Dessix R
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 374 g/l diquat-dibromid
+Felhasználásra vonatkozó előírások:
+borsó (takarmány), káposztarepce (őszi), magrépa, mustár, napraforgó, olajlen, olajretek, szója (takarmány): 1,5-2 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+szántóföldi kultúrák: 0,5 %
+Károsító: aranka
+Lémennyiség: 1 l permetlé/m2
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+alma (3 évnél idősebb), birs (3 évnél idősebb), cseresznye (3 évnél idősebb), dió (3 évnél idősebb), gesztenye (3 évnél idősebb), kajszibarack (3 évnél idősebb), körte (3 évnél idősebb), mandula (3 évnél idősebb), meggy (3 évnél idősebb), mogyoró (3 évnél idősebb), naspolya (3 évnél idősebb), nektarin (3 évnél idősebb), őszibarack (3 évnél idősebb), ringló (3 évnél idősebb), szilva (3 évnél idősebb), szőlő (3 évnél idősebb): 2-2,5 l/ha
+Károsító: egyszikű gyomok, kétszikű gyomok
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+szántóföldi kultúrák (a kultúrnövény kelése előtt): 1-1,5 l/ha
+Károsító: egyszikű gyomok, kétszikű gyomok
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 04.2/1380-1/2012
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2019-05-04
+Tulajdonos: Syngenta Crop Protection AG
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5l, 10l, 20l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 876 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

@@ -1,0 +1,77 @@
+Név: Dragoon
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 374 g/l diquat-dibromid
+Felhasználásra vonatkozó előírások:
+burgonya: 4,3 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+fehérhere (vetőmag), lucerna, vöröshere (vetőmag): 4 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+burgonya (vető): 5,2 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+burgonya (vető): 2,5+2,5 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+borsó (takarmány), magrépa, szója (takarmány): 2,5-3 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+olajlen: 2,5 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+lencse: 2,5 l/ha
+Károsító: lombtalanítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+szántóföldi kultúrák: 0,5 %
+Károsító: aranka
+Lémennyiség: 1 l permetlé/m2
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+mák (ipari célra): 2 l/ha
+Károsító: magról kelő gyomok
+Lémennyiség: 300 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 04.2/11258-2/2014.
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2019-05-04
+Tulajdonos: Certiplant NV
+Altalános adatok:
+Magyarországi forgalmazó: Alta Buda Kft.
+Készítmény gyártó: Syngenta
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 550 mg/ttkg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Kockázat alapú besorolás folyamatban
+Méhkímélő technológia: Nem

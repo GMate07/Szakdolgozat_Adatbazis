@@ -1,0 +1,51 @@
+Név: Classic rovarfogó termékcsalád
+Rendeltetés: Ragacsos rovarcsapda
+Hatóanyag összetétel: 80 w/w% poliizobutilén, 20 w/w% gyanta
+Felhasználásra vonatkozó előírások:
+almatermésűek, bogyós gyümölcsűek, csonthéjasok, dísznövények (hajtatás), dísznövények (szabadföld), zöldségfélék (hajtatás), zöldségfélék (szabadföld): 2-4 db/fa
+Megjegyzés a dózishoz: Classic rovarfogó sárgalap Nagy
+Károsító: aknázólegyek, aknázómolyok, cseresznyelégy (Rhagoletis cerasi), hangyafajok, kártevő rovarok, levélbolhák, levéltetű, liszteske, tripsz
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+almatermésűek, bogyós gyümölcsűek, csonthéjasok, díszcserjék, díszfák, erdészet: 1 db/fa
+Megjegyzés a dózishoz: Classic rovarfogó csíkcsapda
+Károsító: araszoló lepkék, cseresznyelégy (Rhagoletis cerasi), hangyafajok, kártevő rovarok, levéltetű
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+dísznövények (hajtatás), dísznövények (szabadföld), dísznövények (szoba), zöldségfélék (hajtatás), zöldségfélék (szabadföld): 2-4 db/balkonláda
+Megjegyzés a dózishoz: Classic rovarfogó sárgalap Mini
+Károsító: aknázólegyek, hangyafajok, kártevő rovarok, levéltetű, liszteske, tripsz
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1987-1/2020.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2030-10-31
+Tulajdonos: Bagi Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Bagi Kft.
+Készítmény gyártó: Yiwu Jinwen Import and Export Co., Limited
+Formuláció: –
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: Classic rovarfogó csíkcsapda: 1 tekercs/dob, 96 dob/karton; Classic rovarfogó sárgalap Mini: 12 tekercs/dob 120 dob/ karton; Classic rovarfogó sárgalap Nagy: 10 db/ dob, 96 dob/ karton
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): nem értelmezhető
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+Védőfelszerelés kijuttatóknak: védőkesztyű

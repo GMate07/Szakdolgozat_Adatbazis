@@ -1,0 +1,62 @@
+Név: Cycocel 750
+Rendeltetés: Növekedésszabályzó szer
+Hatóanyag összetétel: 750 g/l klórmekvát
+Felhasználásra vonatkozó előírások:
+búza (őszi): 0,9-1,2 l/ha
+Károsító: növekedés szabályozás, szárszilárdítás
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+búza (őszi): 0,5 l/ha
+Megjegyzés a dózishoz: kombinációban: Cycocel 750
+Károsító: növekedés szabályozás, szárszilárdítás
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+búza (őszi): 0,4-0,5 l/ha
+Megjegyzés a dózishoz: kombinációban: Medax Top
+Károsító: növekedés szabályozás, szárszilárdítás
+Lémennyiség: 200-250 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1435-1/2015
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2022-11-30
+Tulajdonos: BASF Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: BASF Hungária Kft.
+Készítmény gyártó: BASF S.E.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,15 l; 0,25 l; 0,5 l; 1 l; 3 l; 5 l; 10 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 520 mg/ttkg
+Vízi veszélyesség: Mérsékelten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H290Fémekre korrozív hatású lehet.
+H301Lenyelve mérgező.
+H312Bőrrel érintkezve ártalmas.
+H412Ártalmas a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P330A szájat ki kell öblíteni.
+P362 + P364A szennyezett ruhadarabot le kell vetni és újbóli használat előtt ki kell mosni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű, védőlábbeli, védőruha

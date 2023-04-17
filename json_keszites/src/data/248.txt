@@ -1,0 +1,54 @@
+Név: Caramba Turbo
+Rendeltetés: Gombaölő és növekedés szabályozó szer
+Hatóanyag összetétel: 210 g/l mepiquat-klorid, 30 g/l metkonazol
+Felhasználásra vonatkozó előírások:
+káposztarepce, olajretek: 0,7-1,4 l/ha
+Károsító: alternáriás betegségek, cilindrospóriumos betegségek, fagykár csökkentés, fómás betegségek, levélbetegségek, megdőlés ellen, szárbetegségek, szklerotíniás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 56 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+mustár (vetőmag): 0,7-1,4 l/ha
+Károsító: alternáriás betegségek, cilindrospóriumos betegségek, fagykár csökkentés, fómás betegségek, levélbetegségek, megdőlés ellen, szárbetegségek, szklerotíniás betegségek
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/1313/1/2010
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-02-28
+Tulajdonos: BASF S.E.
+Altalános adatok:
+Magyarországi forgalmazó: BASF Hungária Kft.
+Készítmény gyártó: BASF
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 l, 3 l, 5 l, 10 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 500 - 2000 mg/ttkg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H317Allergiás bőrreakciót válthat ki.
+H318Súlyos szemkárosodást okoz.
+H332Belélegezve ártalmas.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P264Használatot követően a kezet alaposan meg kell mosni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P312 + P330LENYELÉS ESETÉN: Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ vagy orvoshoz. A szájat ki kell öblíteni.
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338 +P310SZEMBE KERÜLÉS ESETÉN: óvatos öblítés vízzel több percen keresztül. Adott esetben kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása. Azonnal forduljon orvoshoz.
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő (3-as jelölésű), légzésvédő félálarc (A1E1P2), védőkalap, védőkesztyű (3. védelmi osztályú), védőruha (4. típusú)
+Védőfelszerelés kijuttatóknak: arcvédő (3-as jelölésű), légzésvédő félálarc (A1E1P2), védőkalap, védőkesztyű (3. védelmi osztályú), védőruha (4. típusú)

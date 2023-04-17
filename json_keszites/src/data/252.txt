@@ -1,0 +1,64 @@
+Név: Carnadine
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 200 g/l acetamiprid
+Felhasználásra vonatkozó előírások:
+alma: 0,25 kg/ha
+Károsító: almamoly
+Lémennyiség: 500-900 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma: 0,125 kg/ha
+Károsító: levéltetű
+Lémennyiség: 500-900 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi), káposztarepce (tavaszi): 0,25 kg/ha
+Károsító: nagy repceormányos, repcebecő-gubacsszúnyog, repcebecő-ormányos, repcefénybogár, repceszár-ormányos
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2145-2/2022
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2033-02-28
+Tulajdonos: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Nufarm GmbH
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 100 ml, 125 ml, 150 ml, 250 ml, 500 ml, 600 ml, 1 liter, 5 liter, 10 liter, 20 liter, 220 liter, 640 liter, 1000 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: acetamiprid: 
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 300 - 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Mérsékelten kockázatos
+Méhkímélő technológia: Igen
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 3 - CarmadineA vízi szervezetek védelme érdekében a felszíni vizektől a tavaszi káposztarepcénél 5 m, az őszi káposztarepcénél 10 m (növényzettel borított), gyümölcs kultúránál 20 m (50%-os elsodródás csökkentő szórófej alkalmazása esetén 15 m, 75%-os elsodródás csökkentő szórófej alkalmazása esetén 10 m) távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél-ízeltlábúak/rovarok védelme érdekében a gyümölcs kultúránál a nem mezőgazdasági földterülettől 10 m (50%-os elsodródás csökkentő szórófej alkalmazása esetén 5 m) távolságban tartson meg egy kezeletlen biztonsági övezetet! 75%-os elsodródás csökkentő szórófej alkalmazása esetén a nem mezőgazdasági földterülettől védősáv megtartása nem szükséges.
+SPe 8 - virágzó kultMéhekre veszélyes! Virágzó kultúrában a méhek napi aktív gyűjtési időszaka idején nem alkalmazható!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H361dFeltehetően károsítja a születendő gyermeket.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: munkaruha, védőkesztyű
+Védőfelszerelés kijuttatóknak: munkaruha, védőkesztyű

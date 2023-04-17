@@ -1,0 +1,46 @@
+Név: Agifix 75C
+Rendeltetés: Csávázási segédanyag
+Hatóanyag összetétel: 2,89 m/m% Acid Red 18, max 10 m/m% Titánium-dioxid, 8,2 m/m% Kaolin, max 0,05 m/m% Benzizotiazolin
+Felhasználásra vonatkozó előírások:
+kukorica: 40 ml/50.000 mag
+Megjegyzés a dózishoz: 0,8 μl/mag
+Károsító: leporlás csökkentés, színintenzitás fokozás, tapadásfokozás
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/965-2/2020
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2030-09-30
+Tulajdonos: Aegilops- Applications
+Tulajdonos hazai képviselője: Kamp János
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Aegilops- Applications
+Formuláció: vizes szuszpenzió koncentrátum (FS)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 25 l, 200 l, 500 l, 1000 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H317Allergiás bőrreakciót válthat ki.
+P-mondatok: P211Ruhától/.../éghető anyagtól távol tartandó/tárolandó.
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P333 + P313Bőrirritáció vagy kiütések megjelenése esetén: orvosi ellátást kell kérni.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés (csávázás): védőkesztyű, védőruha
+Védőfelszerelés (vetés): védőkesztyű, védőruha

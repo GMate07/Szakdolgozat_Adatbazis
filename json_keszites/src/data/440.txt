@@ -1,0 +1,83 @@
+Név: Detia Gas Ex-B
+Rendeltetés: Gázosító szer
+Hatóanyag összetétel: 570 g/kg aluminium-foszfid
+Felhasználásra vonatkozó előírások:
+káposztarepce, napraforgó, szemes termények: 1 db tasak/2-3 t
+Károsító: atkák, raktári kártevők, rovarok
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+gabonafélék (étkezésre), gabonafélék (garmadában), gabonafélék (takarmány), gabonafélék (zsákolt): 2 db tasak/2-3 t
+Károsító: atkák, raktári kártevők, rovarok
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+liszt (zsákolt): 3 db tasak/2-3 t
+Károsító: atkák, raktári kártevők, rovarok
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+vetőmagvak: 4 db tasak/2-3 t
+Károsító: atkák, raktári kártevők, rovarok
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: élelmezési, takarmányozási célra felhasználni TILOS!
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+termények (siló): 5 db tasak/2-3 t
+Károsító: atkák, raktári kártevők, rovarok
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+malom (üres), raktár, siló: 1 db tasak/6-11 m3
+Károsító: atkák, raktári kártevők, rovarok
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 3 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 45053/1999
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2027-12-31
+Tulajdonos: Detia Freyberg GmbH.
+Tulajdonos hazai képviselője: Bio-Kalibra Környezetgazdálkodási Mérnöki Tanácsadó Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Novochem Kereskedelmi és Szolgáltató Kft.
+Készítmény gyártó: Detia Freyberg GmbH.
+Formuláció: por alakú szer speciális anyagú tasakban
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 20,4 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 8,87 mg/kg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 029Vízzel érintkezve mérgező gázok képződnek.
+EUH 032Savval érintkezve nagyon mérgező gázok képződnek.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H260Vízzel érintkezve öngyulladásra hajlamos tűzveszélyes gázokat bocsát ki.
+H300Lenyelve halálos.
+H311Bőrrel érintkezve mérgező.
+H330Belélegezve halálos.
+H400Nagyon mérgező a vízi élővilágra.
+P-mondatok: P223Nem érintkezhet vízzel.
+P232Nedvességtől védendő.
+P234Az eredeti csomagolásban tartandó.
+P273Kerülni kell az anyagnak a környezetbe való kijutását.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P321Szakellátás (lásd ... a címkén).
+P335A bőrre lazán tapadó szemcséket óvatosan le kell kefélni.
+P370 + P378 - por, majd CO2Tűz esetén: oltásra ... használandó.
+P402 + P404Száraz helyen tárolandó. Zárt edényben tárolandó.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés kijuttatóknak: kapucnis védőoverall (3-4 CEN típus), légzésvédő teljes álarc (B2P3), védőkesztyű, védőlábbeli

@@ -1,0 +1,126 @@
+Név: Cuprofix 30 DG
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 120 g/kg bordói keverék, 300 g/kg mankoceb
+Felhasználásra vonatkozó előírások:
+szőlő (csemege): 3,5-4,5 kg/ha
+Károsító: peronoszpóra, szőlőorbánc
+Lémennyiség: 1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+hagyma (kivéve zöldhagyma): 3-4 kg/ha
+Károsító: alternáriás betegségek, baktériumos betegségek, fenésedés, fitoftórás betegségek, gombás betegségek, peronoszpóra, rozsda betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 3-4 kg/ha
+Károsító: cerkospórás betegségek, fómás betegségek (levélbetegségek), ramuláriás betegségek (levélbetegségek)
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (bor): 3,5-4,5 kg/ha
+Károsító: peronoszpóra, szőlőorbánc
+Lémennyiség: 1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+őszibarack: 4 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), levélfodrosodás, levéllyukacsosodás
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, kajszibarack, meggy, szilva: 4 kg/ha
+Károsító: apiognomóniás betegségek (levélbetegségek), baktériumos betegségek, levéllyukacsosodás, moníliás betegségek, vörösfoltosság
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+málna: 3-4 kg/ha
+Károsító: vesszőbetegségek
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+almatermésűek: 4 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek, tűzelhalás
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+héjas gyümölcsűek: 4 kg/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 800-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 3-4 kg/ha
+Károsító: apiognomóniás betegségek (levélbetegségek), burgonyavész
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+zöldségfélék: 3-4 kg/ha
+Károsító: alternáriás betegségek, baktériumos betegségek, fenésedés, fitoftórás betegségek, gombás betegségek, peronoszpóra, rozsda betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kabakosok, zöldbab, zöldborsó: 3-4 kg/ha
+Károsító: alternáriás betegségek, baktériumos betegségek, fenésedés, fitoftórás betegségek, gombás betegségek, peronoszpóra, rozsda betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika, paradicsom: 3-4 kg/ha
+Károsító: alternáriás betegségek, baktériumos betegségek, fenésedés, fitoftórás betegségek, gombás betegségek, peronoszpóra, rozsda betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika, paradicsom (konzerv): 3-4 kg/ha
+Károsító: alternáriás betegségek, baktériumos betegségek, fenésedés, fitoftórás betegségek, gombás betegségek, peronoszpóra, rozsda betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 48132/1999
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2021-07-04
+Tulajdonos: UPL Europe Ltd.
+Türelmi idő kereskedőknek: 2021-10-04
+Türelmi idő felhasználóknak: 2022-01-04
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: UPL Europe Ltd.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 20 g, 30 g: 200 g, 250 g: 5 kg, 10 kg:
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SPe 3 - 50 mA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H317Allergiás bőrreakciót válthat ki.
+H361dFeltehetően károsítja a születendő gyermeket.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

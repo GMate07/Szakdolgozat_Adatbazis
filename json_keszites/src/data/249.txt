@@ -1,0 +1,34 @@
+Név: Careo rovarölő koncentrátum
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 5 g/l acetamiprid
+Felhasználásra vonatkozó előírások:
+dísznövények (szabadföld), dísznövények (szoba): 0,6-1,2 ml/m2
+Károsító: levéltetű, liszteske, ormányosbogarak, pajzstetű, rágókártevők, szívókártevők
+Lémennyiség: a lombfelület nagyságától, a növény méretétől függően kell megválasztani.
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 02.5/855/7/2008
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-01-31
+Tulajdonos: Evergreen Garden Care Österreich GmbH
+Altalános adatok:
+Magyarországi forgalmazó: Evergreen Garden Care Österreich GmbH
+Készítmény gyártó: Evergreen Garden Care Österreich GmbH France SAS
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 100 ml, 250 ml
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: acetamiprid: 
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/kg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Kockázat alapú besorolás folyamatban
+Méhkímélő technológia: Nem

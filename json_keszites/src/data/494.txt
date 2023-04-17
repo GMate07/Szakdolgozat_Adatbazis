@@ -1,0 +1,29 @@
+Név: Efilor
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 133 g/l boszkalid, 60 g/l metkonazol
+Felhasználásra vonatkozó előírások:
+káposztarepce (őszi), káposztarepce (tavaszi): 1 l/ha
+Károsító: alternáriás betegségek, fehérpenész, fómás betegségek, szürkepenész
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 42 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1429-1/2012
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-07-31
+Tulajdonos: BASF S.E.
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: BASF
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,15 l, 0,25 l, 0,5 l, 1 l, 3 l, 5 l, 10 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/kg
+Vízi veszélyesség: –
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem

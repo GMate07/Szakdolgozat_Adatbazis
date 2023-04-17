@@ -1,0 +1,41 @@
+Név: Armetil C
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 702 g/kg réz-oxiklorid, 80 g/kg metalaxil
+Felhasználásra vonatkozó előírások:
+szőlő: 2,5 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+paradicsom (hajtatás), tojásgyümölcs (hajtatás): 2,5 kg/ha
+Károsító: fitoftórás betegségek
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+burgonya: 2,5 kg/ha
+Károsító: fitoftórás betegségek
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: –
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/848-1/2019
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2024-03-31
+Tulajdonos: Industrias Químicas del Vallés S.A.
+Altalános adatok:
+Magyarországi forgalmazó: Farmmix Csoport
+Készítmény gyártó: Industrias Químicas del Vallés S.A.
+Formuláció: nedvesíthető por (WP)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 30 g, 50 g, 100 g, 200 g, 250 g, 500 g, 1 kg, 2 kg, 5 kg, 10 kg, 20 kg, 25 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Mérsékelten kockázatos
+Méhkímélő technológia: Igen

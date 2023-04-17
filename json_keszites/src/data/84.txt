@@ -1,0 +1,35 @@
+Név: Antak
+Rendeltetés: Növekedés szabályzó szer
+Hatóanyag összetétel: 685 g/l 1-dekanol
+Felhasználásra vonatkozó előírások:
+dohány: 17 l/ha
+Károsító: kacsgátlás (tetejezés előtt)
+Lémennyiség: 450 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dohány: 20 l/ha
+Károsító: kacsgátlás (tetejezés után)
+Lémennyiség: 450 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1006-3/2013
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-12-31
+Tulajdonos: Kreglinger Europe NV
+Altalános adatok:
+Magyarországi forgalmazó: Farmmix Csoport
+Készítmény gyártó: Drexel Chemical Company
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1 liter, 5 liter, 20 liter, 200 liter, 600 liter, 1000 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: –
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem

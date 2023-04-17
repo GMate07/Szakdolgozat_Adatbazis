@@ -1,0 +1,78 @@
+Név: Contans WG
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 1,17 x 10^12 db konídium/kg készítmény Coniothyrium minitans Strain CON/M/91-08 (DSM 9660)
+Felhasználásra vonatkozó előírások:
+bab (hajtatás), bab (szabadföld), borsó (hajtatás), borsó (szabadföld), lencse (szabadföld), szója (szabadföld): 2 kg/ha
+Károsító: szklerotíniás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), cukkini (szabadföld), görögdinnye (hajtatás), görögdinnye (szabadföld), sárgadinnye (hajtatás), sárgadinnye (szabadföld), uborka (hajtatás), uborka (szabadföld): 2-4 kg/ha
+Károsító: szklerotíniás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+saláta (hajtatás), saláta (szabadföld): 2-4 kg/ha
+Károsító: szklerotíniás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+brokkoli (hajtatás), brokkoli (szabadföld), fejes káposzta (hajtatás), fejes káposzta (szabadföld), karfiol (hajtatás), karfiol (szabadföld), kelkáposzta (hajtatás), kelkáposzta (szabadföld), kínai kel (hajtatás), kínai kel (szabadföld), leveles kel (hajtatás), leveles kel (szabadföld), paprika (hajtatás), paprika (szabadföld), paradicsom (hajtatás), paradicsom (szabadföld), pasztinák (hajtatás), pasztinák (szabadföld), petrezselyem (hajtatás), petrezselyem (szabadföld), sárgarépa (hajtatás), sárgarépa (szabadföld), tojásgyümölcs (hajtatás), tojásgyümölcs (szabadföld), zeller (hajtatás), zeller (szabadföld): 2-4 kg/ha
+Károsító: szklerotíniás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (palánta), dísznövények (szabadföld): 2-4 kg/ha
+Károsító: szklerotíniás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+napraforgó: 1-2 kg/ha
+Károsító: szklerotíniás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce, mustár, olajretek: 2 kg/ha
+Károsító: szklerotíniás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/1784-1/2011
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2033-07-31
+Tulajdonos: Bayer CropScience AG
+Tulajdonos hazai képviselője: Bayer Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: Bayer CropScience S.A.S.
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 400 g, 4 kg,12 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2500 mg/kg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

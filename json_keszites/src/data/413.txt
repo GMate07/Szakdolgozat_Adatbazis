@@ -1,0 +1,75 @@
+Név: Dafne 250 EC
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 250 g/l difenokonazol
+Felhasználásra vonatkozó előírások:
+búza (őszi): 0,4-0,6 l/ha
+Károsító: lisztharmat, szeptóriás betegségek (levélbetegségek), szeptóriás betegségek (pelyvabarnulás), vörösrozsda
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (őszi): 0,4-0,6 l/ha
+Károsító: hálózatos levélfoltosság, lisztharmat, rinhosporiumos betegségek (levélfoltosság), törperozsda
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 60 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (tavaszi): 0,4-0,6 l/ha
+Károsító: hálózatos levélfoltosság, lisztharmat, rinhosporiumos betegségek (levélfoltosság), törperozsda
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 45 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi): 0,5-0,6 l/ha
+Károsító: alternáriás betegségek, fómás betegségek, leptoszfériás betegségek
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 75 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/201-16/2020
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2025-01-31
+Tulajdonos: Innvigo Sp. z o.o.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Innvigo Sp. z o.o.
+Formuláció: emulzióképző koncentrátum (EC)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,25 l, 0,5 l, 1 l, 5 l, 10 l, 20 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: difenokonazol: 
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kalászosok[2]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kalászosok[2]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Kalászosok[2]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Kalászosok[2]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 10 mA vízi szervezetek védelme érdekében a felszíni vizektől 10 m távolságban tartson meg egy nem permetezett biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H304Lenyelve és a légutakba kerülve halálos lehet.
+H315Bőrirritáló hatású.
+H319Súlyos szemirritációt okoz.
+H336Álmosságot vagy szédülést okozhat.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P312Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P403 + P233Jól szellőző helyen tárolandó. Az edény szorosan lezárva tartandó.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

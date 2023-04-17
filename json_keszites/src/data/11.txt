@@ -1,0 +1,42 @@
+Név: AD Contact
+Rendeltetés: Segédanyag
+Hatóanyag összetétel: 90 % m/m etoxilált zsíralkohol
+Felhasználásra vonatkozó előírások:
+mezőgazdasági kultúrák: 0,1 %
+Károsító: hatásfokozás (posztemergens gyomirtó szerekhez)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: a felhasznált növényvédő szer szerint
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/3789-1/2012
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2022-07-31
+Tulajdonos: UPL Holdings Coöperatief U.A.
+Altalános adatok:
+Magyarországi forgalmazó: Agrometry Kft.
+Készítmény gyártó: UPL Europe Ltd.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,2 l; 0,5 l; 1 l; 5 l; 10 l; 20 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 1000-2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H318Súlyos szemkárosodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P310Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (6. típusú), védőszemüveg (3-as jelölésű)
+Védőfelszerelés kijuttatóknak: védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (6. típusú), védőszemüveg (3-as jelölésű)

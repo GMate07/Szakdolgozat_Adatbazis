@@ -1,0 +1,63 @@
+Név: Arvalin LR
+Rendeltetés: Rágcsálóirtó szer
+Hatóanyag összetétel: 40 g/kg cinkfoszfid
+Felhasználásra vonatkozó előírások:
+lótücsök járta helyek: 0,6-1,5 kg/ha
+Megjegyzés a dózishoz: 2-3 szem/járat
+Károsító: lótücsök
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+lakott területen kívül: 0,6-1,5 kg/ha
+Megjegyzés a dózishoz: 2-3 szem/járat
+Károsító: mezei pocok
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 18393/1995.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2023-04-30
+Tulajdonos: Detia Freyberg GmbH.
+Altalános adatok:
+Magyarországi forgalmazó: Degma Market Kft.
+Készítmény gyártó: Detia Freyberg GmbH.
+Formuláció: granulátum (GR)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: II. kat.: 20 kg; 10 kg; 5 kg; 1 kg; III. kat.: 0,25 kg; 0,2 kg; 0,1 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: cinkfoszfid: 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 125 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPe 5A madarak/vadon élő emlősök védelme érdekében a növényvédő szert teljes egészében be kell dolgozni a talajba! Ügyeljen arra, hogy a szer a sorok végén is teljes egészében be legyen dolgozva!
+SPe 6A madarak/vadon élő emlősök védelme érdekében távolítsa el a véletlenül kiömlött növényvédő szert!
+SPr 1A csalétket úgy kell biztonságosan kihelyezni, hogy a lehető legkisebb legyen annak a veszélye, hogy abból más állatok is fogyasztanak.
+H-mondatok: EUH 029Vízzel érintkezve mérgező gázok képződnek.
+EUH 032Savval érintkezve nagyon mérgező gázok képződnek.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H301Lenyelve mérgező.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P301 + P310LENYELÉS ESETÉN: Azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P321Szakellátás (lásd ... a címkén).
+P330A szájat ki kell öblíteni.
+P370 + P378 - CO2/oltóporTűz esetén: Az oltáshoz oltásra szén-dioxid vagy száraz oltópor használandó.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés kijuttatóknak: védőkesztyű

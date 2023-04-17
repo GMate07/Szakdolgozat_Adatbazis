@@ -1,0 +1,136 @@
+Név: Cupromet-OH
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 770 g/kg rézhidroxid
+Felhasználásra vonatkozó előírások:
+szőlő (virágzás előtt): 2 kg/ha
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 800-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, görögdinnye, sárgadinnye, sütőtök, uborka: 2-3 kg/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab: 2-3 kg/ha
+Károsító: baktériumos betegségek, fenésedés, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó: 2-3 kg/ha
+Károsító: aszkohitás betegségek, baktériumos betegségek, peronoszpóra, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, vöröshagyma: 2-3 kg/ha
+Károsító: peronoszpóra
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 2-3 kg/ha
+Károsító: alternáriás betegségek, fitoftórás betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 2-3 kg/ha
+Károsító: cerkospórás betegségek, fómás betegségek, ramuláriás betegségek
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő (virágzás után): 3 kg/ha
+Károsító: orbánc, peronoszpóra
+Lémennyiség: 800-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, birs, körte: 2-3 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), gombás betegségek (kivéve lisztharmat), tűzelhalás
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+naspolya: 3-4 kg/ha
+Károsító: baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), gombás betegségek (kivéve lisztharmat), tűzelhalás
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 10 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cseresznye, kajszibarack, meggy, őszibarack, szilva: 2-3 kg/ha
+Károsító: apiognomóniás betegségek, baktériumos betegségek (ágelhalás), gombás betegségek (ágelhalás), levéllyukacsosodás, moníliás betegségek, tafrinás betegségek
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fekete bodza, köszméte, ribiszke, szeder: 2-3 kg/ha
+Károsító: levélbetegségek, vesszőbetegségek (kivéve lisztharmat)
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+málna: 2-3 kg/ha
+Károsító: levélbetegségek, vesszőbetegségek (kivéve lisztharmat)
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 5 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dió, gesztenye, mandula, mogyoró: 2-3 kg/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szamóca: 2-3 kg/ha
+Károsító: levélbetegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika, paradicsom: 2-3 kg/ha
+Károsító: baktériumos betegségek, gombás betegségek (kivéve lisztharmat)
+Lémennyiség: 400-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/116-2/2018
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2024-05-31
+Tulajdonos: Saldeco
+Altalános adatok:
+Magyarországi forgalmazó: Agrometry Kft.
+Készítmény gyártó: Saldeco
+Formuláció: nedvesíthető por (WP)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 20 g, 200 g, 1 kg, 5 kg, 10 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 500-2000 mg/kg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 22Lenyelve ártalmas
+R 41Súlyos szemkárosodást okozhat
+R 50/53Nagyon mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 22Az anyag porát nem szabad belélegezni.
+S 25Kerülni kell a szembejutást.
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 46Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 60Az anyagot és edényzetét veszélyes hulladékként kell ártalmatlanítani!
+S 61Kerülni kell az anyag környezetbe jutását. Speciális adatokat kell kérni/biztonsági adatlap
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 200 mA vízi szervezetek védelme érdekében a felszíni vizektől 200 m távolságban tartson meg egy nem permetezett biztonsági övezetet.
+SPo 2Használat után minden védőruházatot ki kell mosni.
+Védőfelszerelés előkészítőknek: légzésvédő (FFP2D), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (6. típusú), védőszemüveg (3-as jelölésű)
+Védőfelszerelés kijuttatóknak: légzésvédő (FFP2D), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőszemüveg (3-as jelölésű)

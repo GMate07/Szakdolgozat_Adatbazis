@@ -1,0 +1,117 @@
+Név: Closer 120 SC
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 120 g/l szulfoxaflór
+Felhasználásra vonatkozó előírások:
+bimbós kel, brokkoli, fejes káposzta, kínai kel: 0,2 l/ha
+Károsító: közönséges liszteske, levéltetvek
+Lémennyiség: 200-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (üvegház), görögdinnye (üvegház), sárgadinnye (üvegház), tök (üvegház), uborka (üvegház): 0,2 l/ha
+Károsító: levéltetvek
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 1 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (üvegház), görögdinnye (üvegház), sárgadinnye (üvegház), tök (üvegház), uborka (üvegház): 0,2 l/ha
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 1 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (üvegház), görögdinnye (üvegház), sárgadinnye (üvegház), tök (üvegház), uborka (üvegház): 0,4 l/ha
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 1 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (üvegház): 0,2 l/ha
+Károsító: levéltetvek
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (üvegház): 0,2 l/ha
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (üvegház): 0,4 l/ha
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 0,2 l/ha
+Károsító: levéltetvek, üvegházi molytetű
+Lémennyiség: 200-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fejes saláta, sóska, spenót: 0,2 l/ha
+Károsító: levéltetvek, üvegházi molytetű
+Lémennyiség: 200-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (üvegház), paradicsom (üvegház), tojásgyümölcs (üvegház): 0,2 l/ha
+Károsító: levéltetvek
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 1 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (üvegház), paradicsom (üvegház), tojásgyümölcs (üvegház): 0,2 l/ha
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 1 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (üvegház), paradicsom (üvegház), tojásgyümölcs (üvegház): 0,4 l/ha
+Károsító: dohány molytetű, üvegházi molytetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 1 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/13323-1/2019
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-08-18
+Tulajdonos: Corteva Agriscience Hungary Zrt.
+Altalános adatok:
+Magyarországi forgalmazó: Corteva
+Készítmény gyártó: Corteva Agriscience International Sàrl
+Formuláció: szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 100 ml, 200 ml, 250 ml, 500 ml, 1 l, 5 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: szulfoxaflór: 
+Horizontális szántó, Erózió-, Belvíz- és Aszály-érzékeny szántó: Tilos a rágcsálóirtó szerek és talajfertőtlenítő szerek alkalmazása. Kalászosok[T]Ipari növények[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Kalászosok[T]Kukorica[T]Ipari növények[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 5000 mg/ ttkg
+Vízi veszélyesség: Közepesen veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPa1Rezisztencia kialakulásának elkerülése érdekében ezt vagy szulfoxaflórt tartalmazó bármilyen más készítményt ne használja az előírt kezelésszámnál többször!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 2A talajvíz védelme érdekében működő drénezett talajokon, homoktalajokon (Arany-féle kötöttség, KA kissebb, mint 30), valamint fokozottan érzékeny felszín alatti vízminőség védelmi területeken ne használja!
+SPe 3 - 5 mA vízi szervezetek védelme érdekében a felszíni vizektől 5 m távolságban tartson meg egy kezeletlen, növényzettel borított biztonsági övezetet!
+SPe 8 - CloserMéhekre veszélyes! A méhek és egyéb beporzást végző rovarok védelme érdekében virágzó kultúrában nem alkalmazható! Virágzó gyomnövények vagy mézharmat jelenléte esetén vagy abban az esetben, ha a házi méhek a kezelendő területet bármely okból látogatják nem alkalmazható!
+H-mondatok: EUH 208Allergiás reakciót válthat ki.
+EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

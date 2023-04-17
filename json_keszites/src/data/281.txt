@@ -1,0 +1,113 @@
+Név: Chess 50 WG
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 500 g/kg pimetrozin
+Felhasználásra vonatkozó előírások:
+burgonya: 0,3 kg/ha
+Károsító: levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (cserepes), dísznövények (hajtatás): 0,05 %
+Károsító: üvegházi molytetű
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+díszcserjék, díszfák (lombhullató), díszfák (örökzöld): 0,05 %
+Károsító: üvegházi molytetű
+Lémennyiség: 10-20 l/fa
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+platán: 0,05 %
+Károsító: platán csipkéspoloska
+Lémennyiség: 10-20 l/fa
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce: 0,15 kg/ha
+Károsító: levéltetű, repcefénybogár
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dohány: 0,2 kg/ha
+Károsító: levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (hajtatás): 0,02 %
+Károsító: levéltetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (hajtatás): 0,05 %
+Károsító: üvegházi molytetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paprika (szabadföld): 0,3 kg/ha
+Károsító: levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom (hajtatás): 0,05 %
+Károsító: üvegházi molytetű
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+uborka (hajtatás): 0,02 %
+Károsító: levéltetű
+Lémennyiség: 500-2000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+uborka (hajtatás): 0,05 %
+Károsító: üvegházi molytetű
+Lémennyiség: 500-2000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dinnye: 0,3 kg/ha
+Károsító: levéltetű
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+őszibarack: 0,2 kg/ha
+Károsító: levéltetű
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (cserepes), dísznövények (hajtatás): 0,03 %
+Károsító: levéltetű
+Lémennyiség: 500-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 15993/2003.
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2019-04-30
+Tulajdonos: Adama Hungary Zrt.
+Altalános adatok:
+Magyarországi forgalmazó: Adama Hungary Zrt.
+Készítmény gyártó: Syngenta
+Formuláció: vízben diszpergálható granulátum (WG)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 g, 200 g, 250 g, 1000 g
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >5000 mg/ttkg
+Vízi veszélyesség: –
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem

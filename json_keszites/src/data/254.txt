@@ -1,0 +1,80 @@
+Név: Carremox
+Rendeltetés: Talajfertőtlenítő szer
+Hatóanyag összetétel: 15 g/kg teflutrin
+Felhasználásra vonatkozó előírások:
+kukorica (csemege), kukorica (takarmány), kukorica (vetőmag): 12-15 kg/ha
+Károsító: kukoricabogár (sorkezelés)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+kukorica (csemege), kukorica (takarmány), kukorica (vetőmag): 7-10 kg/ha
+Károsító: talajlakó kártevők (drótféreg) (sorkezelés), talajlakó kártevők (pajorok) (sorkezelés)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szőlő: 7,5-10 g/m2
+Károsító: talajlakó kártevők (cserebogár lárva/pajor) (sorkezelés), talajlakó kártevők (drótféreg) (sorkezelés)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bimbós kel (magról vetett), bimbós kel (szabadföld), brokkoli (magról vetett), brokkoli (szabadföld), burgonya, cukorrépa, fejes káposzta (magról vetett), fejes káposzta (szabadföld), káposztafélék (magról vetett), káposztafélék (szabadföld), karalábé (magról vetett), karalábé (szabadföld), karfiol (magról vetett), karfiol (szabadföld), kelkáposzta (magról vetett), kelkáposzta (szabadföld), kínai kel (magról vetett), kínai kel (szabadföld), napraforgó, paprika, paradicsom: 7-10 kg/ha
+Károsító: talajlakó kártevők (drótféreg) (sorkezelés), talajlakó kártevők (pajorok) (sorkezelés)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cékla, fokhagyma, görögdinnye, gyökérzöldségek, hagymafélék, kabakosok, levélzöldségek, pasztinák, petrezselyem, saláta, sárgadinnye, sárgarépa, sóska, spenót, tök, uborka, vöröshagyma, zöldbab, zöldborsó: 7-10 kg/ha
+Károsító: talajlakó kártevők (drótféreg) (sorkezelés), talajlakó kártevők (pajorok) (sorkezelés)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+csemeteiskola, dugványiskola, magiskola, oltványiskola: 15-20 kg/ha
+Károsító: talajlakó kártevők (cserebogár lárva/pajor) (sorkezelés), talajlakó kártevők (drótféreg) (sorkezelés)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+alma, almatermésűek, birs, bogyós gyümölcsűek, cseresznye, csipkebogyó, csonthéjasok, fekete bodza, fekete szeder, fürtös áfonya, josta, kajszibarack, körte, köszméte, málna, meggy, naspolya, nektarin, őszibarack, ribiszke, szamóca, szedermálna, szilva, tőzeg áfonya (nagy termésű): 7,5-10 g/m2
+Károsító: talajlakó kártevők (cserebogár lárva/pajor) (sorkezelés), talajlakó kártevők (drótféreg) (sorkezelés)
+Lémennyiség: –
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1947-2/2021.
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2023-09-19
+Tulajdonos: Syngenta A.G.
+Altalános adatok:
+Magyarországi forgalmazó: Syngenta Kft.
+Készítmény gyártó: Syngenta A.G.
+Formuláció: granulátum (GR)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,5 kg, 5 kg, 20 kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: teflutrin: 
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

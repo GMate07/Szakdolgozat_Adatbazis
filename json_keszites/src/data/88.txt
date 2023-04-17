@@ -1,0 +1,86 @@
+Név: Aphicar 100 EW
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 100 g/l cipermetrin
+Felhasználásra vonatkozó előírások:
+káposztarepce: 0,2-0,25 l/ha
+Károsító: levéltetű, ormányosbogarak, repcebolha, repcedarázs, repcefénybogár
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 28 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorrépa: 0,25 l/ha
+Károsító: bagolylepke, levéltetű, lisztes répabarkó, répabolha
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+saláta, sárgarépa: 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó: 0,25 l/ha
+Károsító: bagolylepke, csipkéző bogarak, levéltetű, tripsz
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab: 0,25 l/ha
+Károsító: bagolylepke, levéltetű
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+komló: 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 400-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2011-2/2022
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2023-10-31
+Tulajdonos: SBM Développement
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: SBM
+Formuláció: olajemulzió vizes fázisban (EW)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,2 l, 1 l, 5l, 200 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: cipermetrin: 
+Horizontális ültetvény: Almatermésűek[T]Szőlő[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Kifejezetten kockázatos
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 30 mA vízi szervezetek védelme érdekében a felszíni vizektől 30 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPe 8 - Sherpa 100 EWMéhekre kifejezetten kockázatos! A méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem alkalmazható! Tilos méhek közelében felhasználni! Virágzó gyomnövények jelenléte esetén nem alkalmazható!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H315Bőrirritáló hatású.
+H317Allergiás bőrreakciót válthat ki.
+H319Súlyos szemirritációt okoz.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P305 + P351 + P338SZEMBE KERÜLÉS ESETÉN: Több percig tartó óvatos öblítés vízzel. Adott esetben a kontaktlencsék eltávolítása, ha könnyen megoldható. Az öblítés folytatása.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (4. típusú), védőszemüveg (3-as jelölésű)
+Védőfelszerelés kijuttatóknak: légzésvédő (FFP2D), védőkalap, védőkesztyű (3. védelmi osztályú), védőlábbeli, védőruha (4. típusú), védőszemüveg (3-as jelölésű)

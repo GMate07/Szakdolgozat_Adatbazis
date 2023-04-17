@@ -1,0 +1,48 @@
+Név: Atonik - alma
+Rendeltetés: Növekedés szabályzó szer
+Hatóanyag összetétel: 1 g/l 5-nitroguajakol Na só, 2 g/l o-nitro-fenol Na só, 3 g/l p-nitro-fenol Na só
+Felhasználásra vonatkozó előírások:
+alma: 0,6-1 l/ha
+Károsító: növekedés szabályozás, terméskötődés fokozás, termésnövelés
+Lémennyiség: 400-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/1066-2/2021
+Engedély típusa: Szükséghelyzeti engedély
+Engedély érvényessége: 2021-04-22 - 2021-07-25
+Ügyfél: UPL Hungary Kft.
+Tulajdonos: Asahi Chemical Europe s.r.o.
+Altalános adatok:
+Magyarországi forgalmazó: UPL Hungary Kft.
+Készítmény gyártó: Asahi Chemicals
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 ml, 5x5 ml, 0,25 l, 1 l, 5 l, 20 l
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Nem jelölésköteles
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: S 1/2Elzárva és gyermekek számára hozzáférhetetlen helyen tartandó
+S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 23A keletkező permetet nem szabad belélegezni.
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 46Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+S 56Az anyagot és edényzetét veszélyes-, vagy speciális hulladék gyűjtőhelyre kell vinni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - AtonikA vízi szervezetek védelme érdekében a felszíni vizektől 5 m (légi kezelés esetén 50 m) távolságban tartson meg egy kezeletlen, növényzettel borított (lehetőleg zárt gyep) biztonsági övezetet! A nem cél-növények védelme érdekében a nem mezőgazdasági földterülettől és más mezőgazdasági kultúráktól légi kezelés esetén 20 m távolságban tartson meg egy nem permetezett biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P271Kizárólag szabadban vagy jól szellőző helyiségben használható.
+P301 + P312LENYELÉS ESETÉN: Rosszullét esetén azonnal forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha

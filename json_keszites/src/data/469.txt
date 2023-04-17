@@ -1,0 +1,76 @@
+Név: Dominator Zöld
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 360 g/l glifozát
+Felhasználásra vonatkozó előírások:
+szántóföldi kultúrák: 4-6 l/ha
+Károsító: évelő egyszikű gyomok, évelő kétszikű gyomok
+Lémennyiség: 200-250 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+gyümölcs (3 évnél idősebb), szántóföldi kultúrák, szőlő (3 évnél idősebb): 3 l/ha
+Károsító: magról kelő egyszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-250 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+erdészet (fakitermelés): 3,5 %
+Károsító: sarjhajtások
+Lémennyiség: 3,5 %
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+mezőgazdaságilag nem művelt területek, vasúti pályatestek, vízzel nem borított csatornák és árokpartok: 4-6 l/ha
+Károsító: totális cserjeirtás, totális gyomirtás
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+gyep, legelő: 3-5 l/ha
+Károsító: totális gyomirtás
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+erdészet (duglaszfenyő) (2 évnél idősebb), erdészet (erdeifenyő) (2 évnél idősebb), erdészet (lucfenyő) (2 évnél idősebb), erdészet (összes fafaj) (telepítés előtt): 4-6 l/ha
+Károsító: totális cserjeirtás, totális gyomirtás
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+kukorica, napraforgó: 2-5 l/ha
+Károsító: állományszárítás
+Lémennyiség: 50-60 l/ha légi
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 3712/2006
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-12-01
+Tulajdonos: Albaugh UK Ltd.
+Türelmi idő kereskedőknek: 2021-03-01
+Türelmi idő felhasználóknak: 2023-12-31
+Altalános adatok:
+Magyarországi forgalmazó: Kwizda Agro Hungary Kft.
+Készítmény gyártó: Albaugh TKI d.o.o.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: II. kategória, III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 20 literes kanna
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: glifozát: 
+Horizontális szántó, Erózió-, Belvíz- és Aszály-érzékeny szántó: Tilos a rágcsálóirtó szerek és talajfertőtlenítő szerek alkalmazása. Kalászosok[1]Kukorica[4]Ipari növények[4]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Kalászosok[1]Zöldségfélék[1]Egyéb[1]Kukorica[4]Ipari növények[4]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 5000 mg/ttkg
+Vízi veszélyesség: Mérsékelten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 36/37/39Lenyelése esetén azonnal orvoshoz kell fordulni, az edényt/csomagolóburkolatot és a címkét az orvosnak meg kell mutatni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

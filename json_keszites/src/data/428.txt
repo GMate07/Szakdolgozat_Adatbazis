@@ -1,0 +1,315 @@
+Név: Deltam
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 15 g/l deltametrin
+Felhasználásra vonatkozó előírások:
+dísznövények: 8 ml/100 m2
+Károsító: levéltetű, molytetű
+Lémennyiség: 10-15 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bimbós kel: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bimbós kel: 5 ml/100 m2
+Károsító: aknázó kártevők, lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fekete retek (hajtatás), japán retek (hajtatás): 8 ml/100 m2
+Károsító: földibolha
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+brokkoli: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom, tojásgyümölcs: 5 ml/100 m2
+Károsító: lombrágó hernyók, molytetű
+Lémennyiség: 10-15 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+brokkoli: 5 ml/100 m2
+Károsító: aknázó kártevők, lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+spárga (hajtatás), spárga (szabadföld): 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: Előírás szerinti alkalmazásakor nem szükséges
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+csúcsos káposzta, fejes káposzta (fehér), fejes káposzta (vörös), kelkáposzta: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+csúcsos káposzta, fejes káposzta (fehér), fejes káposzta (vörös), kelkáposzta: 5 ml/100 m2
+Károsító: aknázó kártevők, lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+karalábé: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+vöröshagyma: 5 ml/100 m2
+Károsító: aknázólegyek, hagymalégy, kártevő lepkék, tripsz
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cékla, pasztinák, sárgarépa: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+karfiol (fehér), karfiol (zöld): 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+karalábé: 5 ml/100 m2
+Károsító: aknázó kártevők, lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fekete retek (hajtatás), japán retek (hajtatás): 5 ml/100 m2
+Károsító: lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cikória (gyökér): 5 ml/100 m2
+Károsító: levéltetű, lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsmustár (hajtatás), borsmustár (szabadföld), galambbegy saláta, kerti zsázsa, spenót: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsmustár (hajtatás), borsmustár (szabadföld), galambbegy saláta, kerti zsázsa, spenót: 5 ml/100 m2
+Károsító: lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+torma: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+saláta: 5 ml/100 m2
+Károsító: levéltetű, lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+levélzeller (hajtatás), levélzeller (szabadföld): 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, mogyoróhagyma: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cékla, pasztinák, sárgarépa: 5 ml/100 m2
+Károsító: lombrágó hernyók, répalégy
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+borsó: 5 ml/100 m2
+Károsító: borsótripsz, csipkéző bogarak
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), cukkini (szabadföld), uborka (hajtatás) (fürtös), uborka (szabadföld) (fürtös): 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10-15 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+levélzeller (hajtatás), levélzeller (szabadföld): 5 ml/100 m2
+Károsító: lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+póréhagyma: 5 ml/100 m2
+Károsító: lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+spárga (hajtatás), spárga (szabadföld): 5 ml/100 m2
+Károsító: bogarak, lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: Előírás szerinti alkalmazásakor nem szükséges
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+torma: 5 ml/100 m2
+Károsító: lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+burgonya: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+karfiol (fehér), karfiol (zöld): 5 ml/100 m2
+Károsító: aknázó kártevők, lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+póréhagyma (hajtatás): 5 ml/100 m2
+Károsító: lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fekete retek, japán retek, jégcsapretek, retek (hajtatás), retek (szabadföld): 5 ml/100 m2
+Károsító: földibolha
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+feketegyökér: 5 ml/100 m2
+Károsító: földibolha
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények: 5 ml/100 m2
+Károsító: bogarak, lombrágó hernyók
+Lémennyiség: 10-15 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+tarlórépa: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukorsüveg endívia (hajtatás), cukorsüveg endívia (szabadföld), endívia, vörös cikória: 5 ml/100 m2
+Károsító: levéltetű, lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+vöröshagyma: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, mogyoróhagyma: 5 ml/100 m2
+Károsító: aknázólegyek, hagymalégy, kártevő lepkék
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+tarlórépa: 5 ml/100 m2
+Károsító: aknázó molyok, lombrágó hernyók
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom, tojásgyümölcs: 8 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10-15 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+zöldbab (hajtatás), zöldbab (szabadföld): 5 ml/100 m2
+Károsító: levéltetű
+Lémennyiség: 10 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini (hajtatás), cukkini (szabadföld), uborka (hajtatás) (fürtös), uborka (szabadföld) (fürtös): 5 ml/100 m2
+Károsító: lombrágó hernyók, molytetű
+Lémennyiség: 10-15 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2585-1/2018
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2026-10-31
+Tulajdonos: SBM Développement S.A.S.
+Altalános adatok:
+Magyarországi forgalmazó: –
+Készítmény gyártó: Bayer CropScience S.A.S.
+Formuláció: olajemulzió vizes fázisban (EW)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 5 ml; 20 ml; 30 ml; 50 ml; 100 ml
+Agrár-környezet gazdálkodásban engedélyezve:
+Korlátozva
+Magyarázat: deltametrin: 
+Horizontális ültetvény: Almatermésűek[T]Csonthéjasok, héjasok[7]Bogyósok[T]Szőlő[T]
+MTÉT Alföldi madárvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Hegy- és dombvidéki madárvédelmi szántó: Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Kék vércse-védelmi szántó: Tilos a rovarölő szerek alkalmazása. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+MTÉT Túzokvédelmi szántó: Tilos a rovarölő szerek alkalmazása, kivéve repce, mustár, illetve olajretek rovarirtását. Ipari növények[T]Kalászosok[T]Kukorica[T]Zöldségfélék[T]Egyéb[T]
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+Spe 3 - DeltamA vízi szervezetek védelme érdekében a felszíni vizektől 5 m (50 cm-nél kisebb növénymagasság esetén) illetve 25 m (50 cm-nél nagyobb növénymagasság esetén) távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem-cél ízeltlábúak védelme érdekében 50 cm-nél nagyobb növénymagasság esetén a nem mezőgazdasági földterülettől 10 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+SPe 8 - VeszélyesMéhekre veszélyes! / Tilos méhek közelében felhasználni! Méhek és egyéb beporzást végző rovarok védelme érdekében virágzási időszakban nem használható.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H226Tűzveszélyes folyadék és gőz.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P210Hőtől, forró felületektől, szikrától, nyílt lángtól és más gyújtóforrástól távol tartandó. Tilos a dohányzás.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű
+Védőfelszerelés kijuttatóknak: védőkesztyű

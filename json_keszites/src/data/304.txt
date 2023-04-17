@@ -1,0 +1,60 @@
+Név: Cliophar 300 SL
+Rendeltetés: Gyomirtó szer
+Hatóanyag összetétel: 300 g/l klopiralid
+Felhasználásra vonatkozó előírások:
+cukorrépa: 0,4-0,6 l/ha
+Károsító: árvakelésű napraforgó, keserűfűfélék, mezei aszat (Cirsium arvense)
+Lémennyiség: 250-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+káposztarepce, mustár, olajretek: 0,25-0,4 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+kukorica, len, vöröshagyma (kivéve zöldhagyma): 0,25-0,4 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: 70 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+kalászosok: 0,25-0,4 l/ha
+Károsító: évelő kétszikű gyomok, magról kelő kétszikű gyomok
+Lémennyiség: 200-300 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 48150/2000
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2022-02-01
+Tulajdonos: Arysta LifeScience Benelux Sprl.
+Tulajdonos hazai képviselője: UPL Hungary Kft.
+Türelmi idő kereskedőknek: 2022-08-01
+Türelmi idő felhasználóknak: 2023-08-01
+Altalános adatok:
+Magyarországi forgalmazó: Arysta LifeScience Magyarország Kft.
+Készítmény gyártó: Arysta LifeScience Benelux Sprl.
+Formuláció: folyékony vízoldható koncentrátum (SL)
+Forgalmazási kategória: I. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 1l, 5l
+Agrár-környezet gazdálkodásban engedélyezve:
+Igen
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 3 - Cliophar 300A vízi szervezetek védelme érdekében a felszíni vizektől 5 m (légi kezelés esetén 50 m) távolságban tartson meg egy kezeletlen biztonsági övezetet! A nem cél-növények védelme érdekében a nem mezőgazdasági földterülettől 5 m (légi kezelés esetén 50 m), más mezőgazdasági kultúráktól 10 m (légi kezelés esetén 100 m) távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: arcvédő, védőkalap, védőkesztyű, védőlábbeli, védőruha, védőszemüveg

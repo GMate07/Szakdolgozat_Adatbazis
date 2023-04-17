@@ -1,0 +1,35 @@
+Név: Ceriax
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 41,6 g/l epoxikonazol, 41,6 g/l fluxapiroxad, 66,6 g/l piraklostrobin
+Felhasználásra vonatkozó előírások:
+árpa (őszi), árpa (tavaszi), búza (őszi), rozs, tritikále, zab: 1,5-3 l/ha
+Károsító: csíkos levélfoltosság, fahéjbarna levélfoltosság, hálózatos levélfoltosság, lisztharmat, rozsda betegségek, szeptóriás betegségek
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+árpa (őszi), árpa (tavaszi), búza (őszi), rozs, tritikále, zab: 2-3 l/ha
+Károsító: kalászfuzáriumos betegségek
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 04.2/2143-1/2013
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-04-30
+Tulajdonos: BASF S.E.
+Altalános adatok:
+Magyarországi forgalmazó: BASF Hungária Kft.
+Készítmény gyártó: BASF
+Formuláció: emulgeálható koncentrátum (EC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 0,15l, 0,25l, 0,5l, 1l, 3l, 5l, 10 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 500 mg/kg, &lt;2000 mg/kg
+Vízi veszélyesség: Védőtávolság meghatározásra került
+Méhveszélyesség: Mérsékelten kockázatos
+Méhkímélő technológia: Igen

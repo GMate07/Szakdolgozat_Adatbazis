@@ -1,0 +1,192 @@
+Név: Calypso 480 SC
+Rendeltetés: Rovarölő szer
+Hatóanyag összetétel: 480 g/l tiakloprid
+Felhasználásra vonatkozó előírások:
+burgonya: 0,2 l/ha
+Károsító: burgonyabogár
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+paprika (hajtatás): 0,2 l/ha
+Károsító: levéltetű
+Lémennyiség: 500-800 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+spárga: 0,25 l/ha
+Károsító: spárgabogár
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+cickafark, gyűszűvirág, kamilla, körömvirág, levendula, macskagyökér, máriatövis, orbáncfű, orvosi csucsor: 0,25 l/ha
+Károsító: bogarak, földibolha, lepkefajok, levéltetű, poloskák
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+fokhagyma: 0,2 l/ha
+Károsító: bogarak, földibolha, lepkefajok, levéltetű, poloskák
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+pasztinák, petrezselyem (gyökér), sárgarépa: 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+torma: 0,25 l/ha
+Károsító: földibolha, levélbogarak, levéltetű, poloska
+Lémennyiség: 300-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+zeller (gumó): 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+édeskömény, zeller (szár): 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+angelika, angyalgyökér, bazsalikom, borsikafű, citromfű, izsóp, kakukkfű, kapor, koriander, lestyán, levélzeller, majoránna, menta, metélőhagyma, metélőpetrezselyem, rozmaring, szurokfű, tárkony, zamatos turbolya, zsálya: 0,15 l/ha
+Károsító: bogarak, földibolha, lepkefajok, levéltetű, poloskák
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+napraforgó: 0,075 l/ha
+Károsító: levéltetű
+Lémennyiség: 200-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+kukorica (csemege), kukorica (takarmány): 0,2 l/ha
+Károsító: amerikai kukoricabogár
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+ánizs, konyhakömény, sáfrányos szeklice: 0,15 l/ha
+Károsító: bogarak, földibolha, lepkefajok, levéltetű, poloskák
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+fekete bodza: 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+fekete ribiszke, josta, köszméte, vörös ribiszke: 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 7 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+dió: 0,25 l/ha
+Károsító: almamoly, dióburok-fúrólégy (Rhagoletis completa), levéltetű
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+málna, szeder, szedermálna: 0,25 l/ha
+Károsító: levéltetű
+Lémennyiség: 600-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+káposztarepce (őszi), mustár, olajretek: 0,1 l/ha
+Károsító: repcebecő-ormányos, repcefénybogár, repceszár-ormányos
+Lémennyiség: 300-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 30 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+szamóca: 0,2-0,3 l/ha
+Károsító: szamóca bimbólikasztó
+Lémennyiség: 350-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+alma, birs, körte, naspolya: 0,3 l/ha
+Károsító: almailonca, almalevél-aknázómoly, almamoly
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+alma, birs, körte, naspolya: 0,45 l/ha
+Károsító: vértetű
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+cseresznye, meggy: 0,3 l/ha
+Károsító: cseresznyelégy (Rhagoletis cerasi)
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+cseresznye, meggy: 0,2 l/ha
+Károsító: levéltetű
+Lémennyiség: 800-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+szilva: 0,2-0,3 l/ha
+Károsító: levéltetű, molykártevők
+Lémennyiség: 800-1000 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 16367/2003
+Engedély típusa: Alapengedély
+Engedély érvényessége: 2020-08-03
+Tulajdonos: Bayer AG
+Türelmi idő kereskedőknek: 2021-02-03
+Türelmi idő felhasználóknak: 2021-02-03
+Altalános adatok:
+Magyarországi forgalmazó: Bayer Hungária Kft.
+Készítmény gyártó: Bayer
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: II. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 50 ml; 1 liter; 200 liter; 1000 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): 300-500 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SPe 3 - Calypso 480 SCA vízi szervezetek védelme érdekében a felszíni vizektől 50 m (légi kezelés esetén 100 m) távolságban tartson meg egy nem permetezett biztonsági övezetet! A nem mezőgazdasági földterülettől légi kezelés esetén minimum 20 m távolságban tartson meg egy nem permetezett biztonsági övezetet!
+SPo 2Használat után minden védőruházatot ki kell mosni.
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H261Vízzel érintkezve tűzveszélyes gázokat bocsát ki.
+H302Lenyelve ártalmas.
+H317Allergiás bőrreakciót válthat ki.
+H332Belélegezve ártalmas.
+H335Légúti irritációt okozhat.
+H336Álmosságot vagy szédülést okozhat.
+H351Feltehetően rákot okoz .
+H360fdKárosíthatja a termékenységet. Károsíthatja a születendő gyermeket.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P280Védőkesztyű/védőruha/szemvédő/arcvédő használata kötelező.
+P302 + P352HA BŐRRE KERÜL: Lemosás bő vízzel
+P304 + P340BELÉLEGZÉS ESETÉN: Az érintett személyt friss levegőre kell vinni és olyan nyugalmi testhelyzetbe kell helyezni, hogy könnyen tudjon lélegezni.
+P308 + P313Expozíció vagy annak gyanúja esetén: Orvosi ellátást kell kérni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P403 + P233Jól szellőző helyen tárolandó. Az edény szorosan lezárva tartandó.
+P405Elzárva tárolandó.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: arcvédő, szemvédő, védőkesztyű, védőlábbeli, védőruha
+Védőfelszerelés kijuttatóknak: arcvédő, szemvédő, védőkesztyű, védőlábbeli, védőruha

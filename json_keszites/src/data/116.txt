@@ -1,0 +1,48 @@
+Név: Astra Rézoxiklorid - dió
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 88 % rézoxiklorid
+Felhasználásra vonatkozó előírások:
+dió: 2-3 kg/ha
+Megjegyzés a dózishoz: javasolt Spur nedvesítőszer alkalmazása 0,05 %-0,1 % permetoldatban
+Károsító: baktériumos betegségek, gombás betegségek
+Lémennyiség: 50-80 l/ha légi
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Igen
+Engedélyokirat:
+Engedély száma: 6300/792-2/2022
+Engedély típusa: Szükséghelyzeti engedély
+Engedély érvényessége: 2022-04-01 - 2022-08-12
+Ügyfél: Sumi Agro Hungary Kft.
+Tulajdonos: Industrias Químicas del Vallés S.A.
+Altalános adatok:
+Magyarországi forgalmazó: Sumi Agro Hungary Kft.
+Készítmény gyártó: Industrias Químicas del Vallés S.A.
+Formuláció: nedvesíthető por (WP)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Igen
+Kiszerelési egységek: 25 kg, 10kg, 1kg
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): >500 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+S-mondatok: SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 1A talaj védelme érdekében ezt, vagy ugyanilyen hatóanyagot tartalmazó bármilyen más készítményt ne használja ugyanazon a területen az előírtnál nagyobb mennyiségben, illetve többször!
+SPe 3 - 50 mA vízi szervezetek védelme érdekében a felszíni vizektől 50 m távolságban tartson meg egy kezeletlen biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H302Lenyelve ártalmas.
+H332Belélegezve ártalmas.
+H400Nagyon mérgező a vízi élővilágra.
+H411Mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P261Kerülje a por/füst/gáz/köd/gőzök/permet belélegzését.
+P264Használatot követően a kezet alaposan meg kell mosni.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P312Rosszullét esetén forduljon TOXIKOLÓGIAI KÖZPONTHOZ/orvoshoz.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: félálarc (FFP2), védőkalap, védőkesztyű, védőruha, védőszemüveg
+Védőfelszerelés kijuttatóknak: védőkalap, védőkesztyű, védőruha, védőszemüveg

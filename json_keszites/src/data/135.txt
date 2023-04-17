@@ -1,0 +1,119 @@
+Név: Azbany
+Rendeltetés: Gombaölő szer
+Hatóanyag összetétel: 250 g/l azoxistrobin
+Felhasználásra vonatkozó előírások:
+árpa, búza, rozs, tritikále, zab: 0,8-1 l/ha
+Károsító: lisztharmat, pirenofórás betegségek (levélbetegségek), rozsda betegségek, szeptóriás betegségek
+Lémennyiség: 250-400 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab (fejtett), bab (zöld), borsó (zöld), cukorborsó: 0,75-1 l/ha
+Károsító: aszkohitás betegségek (foltosság), lisztharmat, peronoszpóra, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+dísznövények (cserepes), dísznövények (vágott), évelő növények (közterület), fásszárú növények (közterület): 0,8-1 l/ha
+Károsító: alternáriás betegségek, lisztharmat, peronoszpóra, rozsda betegségek, szürkepenész
+Lémennyiség: 500-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+spárga: 1 l/ha
+Károsító: rozsda betegségek
+Lémennyiség: 600-800 l/ha
+Élelmezés-egészségügyi várakozási idő: –
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+szamóca: 0,8-1 l/ha
+Károsító: antraknózis, gnomóniás betegségek, lisztharmat, mikoszferellás betegségek (levélbetegségek), szürkepenész
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+káposztarepce (őszi), olajretek: 1 l/ha
+Károsító: alternáriás betegségek, fehérpenész, fómás betegségek, szürkepenész
+Lémennyiség: 250-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 49 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+paradicsom (hajtatás): 0,8-1 l/ha
+Károsító: alternáriás betegségek, paradicsomvész
+Lémennyiség: 400-1200 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+cukkini, uborka: 0,6-0,8 l/ha
+Károsító: lisztharmat, peronoszpóra
+Lémennyiség: 600-1500 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+görögdinnye (hajtatás), sárgadinnye, tökfélék: 0,8-1 l/ha
+Károsító: lisztharmat, peronoszpóra
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 3 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+fokhagyma, mogyoróhagyma, vöröshagyma: 0,8-1 l/ha
+Károsító: peronoszpóra, szürkepenész
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+póréhagyma: 0,8-1 l/ha
+Károsító: peronoszpóra, szürkepenész
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 21 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+hagyma (új): 0,8 l/ha
+Károsító: peronoszpóra, szürkepenész
+Lémennyiség: 300-500 l/ha
+Élelmezés-egészségügyi várakozási idő: 14 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+bab (száraz), borsó (száraz), lencse: 0,75-1 l/ha
+Károsító: aszkohitás betegségek (foltosság), lisztharmat, peronoszpóra, rozsda betegségek
+Lémennyiség: 400-600 l/ha
+Élelmezés-egészségügyi várakozási idő: 35 nap
+Munkaegészségügyi várakozási idő: 0 nap
+Légi kijuttatás: Nem
+Engedélyokirat:
+Engedély száma: 6300/2674-2/2021
+Engedély típusa: Származtatott engedély
+Engedély érvényessége: 2022-12-31
+Tulajdonos: Nufarm Hungária Kft.
+Altalános adatok:
+Magyarországi forgalmazó: Nufarm Hungária Kft.
+Készítmény gyártó: Nufarm S.A.S.
+Formuláció: vizes szuszpenzió koncentrátum (SC)
+Forgalmazási kategória: III. kategória
+Ökológiai gazdálkodásban engedélyezve: Nem
+Kiszerelési egységek: 10 ml, 50 ml, 0,2 liter, 0,25 liter, 1 liter, 5 liter, 10 liter
+Agrár-környezet gazdálkodásban engedélyezve:
+Nem
+Veszélyességre, biztonságra vonatkozó előírások:
+A készítmény p.o. LD50 értéke (patkányon): > 2000 mg/ttkg
+Vízi veszélyesség: Kifejezetten veszélyes
+Méhveszélyesség: Nem jelölésköteles
+Méhkímélő technológia: Nem
+R-mondatok: R 50/53Nagyon mérgező a vízi szervezetekre, a vízi környezetben hosszan tartó károsodást okozhat
+S-mondatok: S 13Élelmiszertől, italtól és takarmánytól távol tartandó
+S 2Gyermekek kezébe nem kerülhet
+S 20/21A használat közben enni, inni és dohányozni nem szabad
+S 35Az anyagot és az edényzetét megfelelő módon ártalmatlanítani kell
+S 57A környezetszennyezés elkerülésére megfelelő edényzetet kell használni
+SP 1A növényvédő szerrel vagy annak csomagolóeszközével ne szennyezze a vizeket! A berendezést vagy annak részeit ne tisztítsa felszíni vizek közelében! Kerülje a gazdaságban vagy az utakon levő vízelvezetőkön keresztül való szennyeződést!
+SPe 3 - 20 mA vízi szervezetek védelme érdekében a felszíni vizektől 20 m távolságban tartson meg egy kezeletlen, növényzettel borított (zárt gyep) biztonsági övezetet!
+H-mondatok: EUH 401Az emberi egészség és a környezet veszélyeztetésének elkerülése érdekében be kell tartani a használati utasítás előírásait.
+H400Nagyon mérgező a vízi élővilágra.
+H410Nagyon mérgező a vízi élővilágra, hosszan tartó károsodást okoz.
+P-mondatok: P102Gyermekektől elzárva tartandó
+P220Ruhától és más éghető anyagoktól távol tartandó.
+P270A termék használata közben tilos enni, inni vagy dohányozni.
+P391A kiömlött anyagot össze kell gyűjteni.
+P501 - veszélyes hulladék lerakóA tartalom/edény elhelyezése hulladékként: veszélyes hulladéklerakóba szállítás szükséges.
+Védőfelszerelés előkészítőknek: védőkesztyű, védőruha
+Védőfelszerelés kijuttatóknak: védőkesztyű
